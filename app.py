@@ -3,7 +3,15 @@ import pandas as pd
 import os
 
 st.set_page_config(page_title="볼린저 밴드 돌파 검색", layout="wide")
-st.title("📈 오늘의 KOSPI \n돌파 종목\nby Mr.최")
+st.markdown(
+    """
+    <div style='text-align: left; margin-bottom: 20px;'>
+        <span style='font-size: 45px; font-weight: bold;'>📈 오늘의 KOSPI \n돌파 종목</span> <br>
+        <span style='font-size: 25px; color: gray;'>by Mr.최</span>
+    </div>
+    """, 
+    unsafe_allow_html=True
+)
 
 # 현재 실행 중인 파이썬 파일의 진짜 폴더 위치 알아내기
 current_dir = os.path.dirname(os.path.abspath(__file__))
