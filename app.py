@@ -5,8 +5,8 @@ import os
 st.set_page_config(page_title="볼린저 밴드 돌파 검색", layout="wide")
 st.markdown(
     """
-    <div style='text-align: middle; margin-bottom: 20px;'>
-        <span style='font-size: 45px; font-weight: bold;'>📈 오늘의 KOSPI \n돌파 종목</span> <br>
+    <div style='text-align: center; margin-bottom: 20px;'>
+        <span style='font-size: 33px; font-weight: bold;'>📈 오늘의 KOSPI \n돌파 종목</span> <br>
         <span style='font-size: 25px; color: gray;'>by Mr.최</span>
     </div>
     """, 
