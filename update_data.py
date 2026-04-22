@@ -13,66 +13,54 @@ def process_stock(stock_info, start_date, end_date):
     name = stock_info['Name']
     
     try:
-        # 데이터 수집
         df = fdr.DataReader(code, start_date, end_date)
         if len(df) < 120: return None
             
-        # 파인스크립트 방식 볼린저 밴드 계산
+        # 볼린저 밴드 계산 (ddof=0 적용)
         df['ma20'] = df['Close'].rolling(window=20).mean()
         df['std20'] = df['Close'].rolling(window=20).std(ddof=0)
         df['upper'] = df['ma20'] + 2 * df['std20']
         df['lower'] = df['ma20'] - 2 * df['std20']
         df['bb_width'] = df['upper'] - df['lower']
         
-        # 100일 롤링 최소 너비 (PineScript: ta.lowest(width, 100) 완벽 구현)
+        # 1. 100봉 기준 압축(최저 밴드폭) 데이터 기록
         df['min_w1'] = df['bb_width'].rolling(window=100).min()
+        df['is_min1'] = df['bb_width'] == df['min_w1']
         
-        # 크로스오버 계산 (PineScript: ta.crossover, ta.crossunder)
+        # 2. 크로스오버 (상단 돌파) 여부 기록
         df['prev_high'] = df['High'].shift(1)
         df['prev_upper'] = df['upper'].shift(1)
         df['upperCross'] = (df['prev_high'] <= df['prev_upper']) & (df['High'] > df['upper'])
         
-        df['prev_low'] = df['Low'].shift(1)
-        df['prev_lower'] = df['lower'].shift(1)
-        df['lowerCross'] = (df['prev_low'] >= df['prev_lower']) & (df['Low'] < df['lower'])
-        
         df = df.dropna()
         if len(df) < 1: return None
             
-        # 파인스크립트 상태 머신 변수
-        isUpperBreakout = False
-        squeeze_active = False
-        valid_signal_today = False
-        last_idx = df.index[-1]
+        # [조건 1] 오늘 상단 돌파를 했는가?
+        if not df['upperCross'].iloc[-1]:
+            return None
+            
+        # [조건 2] 오늘을 제외하고, 과거에 가장 좁았던(압축) 마지막 날짜 찾기
+        past_df = df.iloc[:-1] # 오늘을 제외한 어제까지의 데이터
+        squeeze_days = past_df[past_df['is_min1']]
         
-        # 과거부터 오늘까지 차트를 순차적으로 스캔하며 상태 추적
-        for idx, row in df.iterrows():
-            # 100일 최저폭 도달 시 압축 상태 켜짐 (PineScript: is_min1 = width1 == min_w1)
-            if row['bb_width'] == row['min_w1']:
-                squeeze_active = True
-                
-            # 상단 돌파 발생 시
-            if row['upperCross'] and not isUpperBreakout:
-                # '오늘' 발생한 돌파이고, 이전에 '압축' 상태가 있었다면 찐타점!
-                if idx == last_idx and squeeze_active:
-                    valid_signal_today = True
-                    
-                isUpperBreakout = True
-                squeeze_active = False  # 돌파했으므로 압축 상태 해제
-                
-            # 하단 이탈 발생 시 (상단 돌파 상태 초기화)
-            if row['lowerCross']:
-                isUpperBreakout = False
-                squeeze_active = False  # 새로운 사이클을 위해 압축 상태도 초기화
-                
-        # 오늘이 조건에 완벽히 부합하는 날이면 결과 반환
-        if valid_signal_today:
-            today_close = df.iloc[-1]['Close']
-            today_high = df.iloc[-1]['High']
-            return {'종목코드': code, '종목명': name, '현재가': today_close, '오늘고가': today_high}
+        if squeeze_days.empty:
+            return None # 100일 내에 압축된 적이 없으면 탈락
+            
+        last_squeeze_idx = squeeze_days.index[-1] # 가장 최근에 압축되었던 날짜
+        
+        # [조건 3] 가장 좁았던 날 '당일'부터 '어제'까지 상단 돌파가 단 한 번이라도 있었는가?
+        after_squeeze_to_yesterday = df.loc[last_squeeze_idx : past_df.index[-1]]
+        
+        # 유저님의 핵심 논리: "좁았던 날 이후로 첫 돌파여야 한다"
+        if after_squeeze_to_yesterday['upperCross'].any():
+            return None # 좁았던 날 당일에 뚫었거나, 그 이후에 이미 뚫은 적이 있으므로 '첫' 돌파가 아님 (탈락!)
+            
+        # 모든 조건을 완벽히 통과했다면 결과 담기
+        today_high = df['High'].iloc[-1]
+        today_close = df['Close'].iloc[-1]
+        return {'종목코드': code, '종목명': name, '현재가': today_close, '오늘고가': today_high}
             
     except Exception:
-        # 상장폐지, 거래정지 등 에러 무시
         return None
         
     return None
