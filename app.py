@@ -6,8 +6,9 @@ st.set_page_config(page_title="볼린저 밴드 돌파 검색", layout="wide")
 st.markdown(
     """
     <div style='text-align: center; margin-bottom: 20px;'>
-        <span style='font-size: 33px; font-weight: bold;'>📈 오늘의 KOSPI \n돌파 종목</span> <br>
-        <span style='font-size: 25px; color: gray;'>by Mr.최</span>
+        <span style='font-size: 33px; font-weight: bold;'>📈 오늘의 KOSPI</span> <br>
+        <span style='font-size: 33px; font-weight: bold;'>돌파 종목</span> <br>
+        <span style='font-size: 25px; color: gray;'>by Mr.CHOI</span>
     </div>
     """, 
     unsafe_allow_html=True
