@@ -3,7 +3,7 @@ import pandas as pd
 import os
 
 st.set_page_config(page_title="볼린저 밴드 돌파 검색", layout="wide")
-st.title("📈 오늘의 볼린저 밴드 첫 상단 돌파 종목")
+st.title("📈 오늘의 돌파 종목 by Mr.최")
 
 # 현재 실행 중인 파이썬 파일의 진짜 폴더 위치 알아내기
 current_dir = os.path.dirname(os.path.abspath(__file__))
