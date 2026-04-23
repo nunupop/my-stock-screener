@@ -104,7 +104,6 @@ if os.path.exists(csv_path):
                 
                 fig = go.Figure()
                 
-                # 캔들 차트
                 fig.add_trace(go.Candlestick(
                     x=chart_df.index,
                     open=chart_df['Open'], high=chart_df['High'],
@@ -112,14 +111,12 @@ if os.path.exists(csv_path):
                     name='일봉 캔들'
                 ))
                 
-                # 볼린저 밴드 상단
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['upper'], 
                     line=dict(color='rgba(255, 0, 0, 0.5)', width=1.5, dash='dot'), 
                     name='BB 상단'
                 ))
                 
-                # 볼린저 밴드 하단
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['lower'], 
                     line=dict(color='rgba(0, 0, 255, 0.5)', width=1.5, dash='dot'), 
@@ -128,7 +125,6 @@ if os.path.exists(csv_path):
                     fillcolor='rgba(128, 128, 128, 0.1)'
                 ))
                 
-                # 돌파 기준가
                 fig.add_hline(
                     y=entry_price, line_dash="solid", line_color="green", line_width=2,
                     annotation_text=f"돌파 기준가 ({entry_price:,.0f}원)", 
@@ -136,13 +132,12 @@ if os.path.exists(csv_path):
                     annotation_font=dict(color="green", size=14, weight="bold")
                 )
 
-                # 👇 [수정된 부분] yaxis_title 삭제 및 가격축 오른쪽 이동 👇
+                # 👇 [수정된 부분] 여백(margin) 설정에서 l(Left) 값을 10으로 확 줄였습니다 👇
                 fig.update_layout(
                     title=f"<b>{selected_stock_name}</b> 일봉(Daily) 볼린저 밴드 돌파 차트",
-                    # yaxis_title='주가 (원)',  <-- 눈에 거슬리던 이 줄을 지워버렸습니다!
                     yaxis=dict(
-                        side="right",     # 💡 가격 숫자를 오른쪽으로 보냅니다 (HTS 스타일)
-                        tickformat=","    # 💡 숫자에 천 단위 콤마(,)를 찍어줍니다
+                        side="right",
+                        tickformat=","
                     ),
                     xaxis=dict(
                         rangeslider=dict(visible=False),
@@ -150,7 +145,7 @@ if os.path.exists(csv_path):
                     ),
                     template='plotly_white',
                     height=550,
-                    margin=dict(l=50, r=50, t=50, b=50),
+                    margin=dict(l=10, r=50, t=50, b=50),  # 💡 l=50 이었던 것을 l=10 으로 수정!
                     legend=dict(
                         orientation="h",
                         yanchor="top",
