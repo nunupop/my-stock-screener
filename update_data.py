@@ -1,3 +1,13 @@
+
+import FinanceDataReader as fdr
+import pandas as pd
+import os
+from datetime import datetime, timedelta
+import warnings
+import concurrent.futures
+
+warnings.filterwarnings('ignore')
+
 # 1. 개별 종목을 처리하는 함수 (종가 마감 확인 로직 적용)
 def process_stock(stock_info, start_date, end_date):
     code = stock_info['Code']
@@ -60,3 +70,53 @@ def process_stock(stock_info, start_date, end_date):
         return None
         
     return None
+
+
+def update_tv_pinescript_breakout_stocks_parallel():
+    print("데이터 수집 및 종목 검색 시작 (병렬 처리 적용)...")
+    
+    # KRX 전체 수집 후 코스피 보통주 필터링
+    krx_list = fdr.StockListing('KRX')
+    kospi_list = krx_list[krx_list['Market'] == 'KOSPI']
+    kospi_list = kospi_list[kospi_list['Code'].str.endswith('0')]
+    
+    end_date = datetime.today()
+    start_date = end_date - timedelta(days=300)
+    
+    # 병렬 처리를 위해 종목 정보를 딕셔너리 리스트로 변환
+    stock_list = kospi_list[['Code', 'Name']].to_dict('records')
+    result = []
+    
+    print(f"총 {len(stock_list)}개 종목을 10개씩 동시에 검색합니다. 잠시만 기다려주세요...")
+    
+    # 2. ThreadPoolExecutor를 이용한 병렬 처리 (작업자 10명 투입)
+    with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
+        # 각 종목별로 작업을 할당
+        futures = [executor.submit(process_stock, stock, start_date, end_date) for stock in stock_list]
+        
+        # 작업이 완료되는 대로 결과를 수집
+        for future in concurrent.futures.as_completed(futures):
+            res = future.result()
+            if res is not None:
+                result.append(res)
+
+    # 현재 실행 중인 파이썬 파일의 진짜 폴더 위치 알아내기
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    
+    # 그 폴더 위치에 파일 이름 합치기
+    csv_path = os.path.join(current_dir, 'result.csv')
+    txt_path = os.path.join(current_dir, 'last_update.txt')
+
+    # 3. 검색 결과를 CSV 파일로 명시적 저장
+    result_df = pd.DataFrame(result)
+    result_df.to_csv(csv_path, index=False, encoding='utf-8-sig')
+    
+    # 4. 마지막 업데이트 시간 저장
+    with open(txt_path, 'w', encoding='utf-8') as f:
+        f.write(datetime.now().strftime("%Y-%m-%d %H:%M:%S"))
+        
+    print(f"업데이트 완료! 총 {len(result_df)}개 종목 저장됨.")
+
+# --- 빠져있던 실행 명령 추가 ---
+if __name__ == "__main__":
+    update_tv_pinescript_breakout_stocks_parallel()
