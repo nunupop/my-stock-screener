@@ -107,7 +107,9 @@ def update_tv_pinescript_breakout_stocks_parallel():
 
     # 3. 검색 결과를 CSV 파일로 명시적 저장
     result_df = pd.DataFrame(result)
-    result_df.to_csv(csv_path, index=False, encoding='utf-8-sig')
+    # 검색된 종목이 하나라도 있을 때만 '돌파확인일' 기준으로 최신순(내림차순) 정렬
+    if not result_df.empty and '돌파확인일' in result_df.columns:
+        result_df = result_df.sort_values(by='돌파확인일', ascending=False)
     
     # 4. 마지막 업데이트 시간 저장 (한국 시간 적용)
     KST = timezone(timedelta(hours=9))
