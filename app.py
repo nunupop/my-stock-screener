@@ -136,24 +136,27 @@ if os.path.exists(csv_path):
                     annotation_font=dict(color="green", size=14, weight="bold")
                 )
 
-                # 👇 [수정된 부분] 차트 디자인 및 범례/X축 설정 다듬기 👇
+                # 👇 [수정된 부분] yaxis_title 삭제 및 가격축 오른쪽 이동 👇
                 fig.update_layout(
                     title=f"<b>{selected_stock_name}</b> 일봉(Daily) 볼린저 밴드 돌파 차트",
-                    yaxis_title='주가 (원)',
+                    # yaxis_title='주가 (원)',  <-- 눈에 거슬리던 이 줄을 지워버렸습니다!
+                    yaxis=dict(
+                        side="right",     # 💡 가격 숫자를 오른쪽으로 보냅니다 (HTS 스타일)
+                        tickformat=","    # 💡 숫자에 천 단위 콤마(,)를 찍어줍니다
+                    ),
                     xaxis=dict(
-                        rangeslider=dict(visible=False),          # 하단 슬라이더 제거
-                        rangebreaks=[dict(bounds=["sat", "mon"])] # 💡 주말(토,일) 빈칸 제거 (완벽한 일봉)
+                        rangeslider=dict(visible=False),
+                        rangebreaks=[dict(bounds=["sat", "mon"])]
                     ),
                     template='plotly_white',
-                    height=550, # 범례가 아래로 가므로 높이를 살짝 키움
+                    height=550,
                     margin=dict(l=50, r=50, t=50, b=50),
-                    # 💡 범례(Legend)를 아래쪽(가로 방향)으로 이동
                     legend=dict(
-                        orientation="h",       # 수평(가로) 방향 배치
+                        orientation="h",
                         yanchor="top",
-                        y=-0.15,               # 차트 아래쪽으로 살짝 내리기
+                        y=-0.15,
                         xanchor="center",
-                        x=0.5                  # 가운데 정렬
+                        x=0.5
                     )
                 )
                 
