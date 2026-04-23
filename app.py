@@ -38,8 +38,8 @@ if os.path.exists(image_path):
         .stDeployButton{{display:none;}}
         footer{{visibility:hidden;}}
         .block-container{{
-          padding-top: 1rem;
-          padding-bottom: 1rem;
+          padding-top: 0rem !important;
+          padding-bottom: 0rem !important;
         }}
         </style>
         """,
