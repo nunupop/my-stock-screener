@@ -49,7 +49,7 @@ if os.path.exists(image_path):
 st.markdown(
     """
     <div style='margin-bottom: 30px;'>
-        <div style='text-align: center; font-size: 45px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
+        <div style='text-align: center; font-size: 35px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
             📈 오늘의 KOSPI <br> 돌파 종목
         </div>
         <div style='text-align: right; font-size: 22px; color: #E0E0E0; font-style: italic; margin-top: 10px;'>
