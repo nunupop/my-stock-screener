@@ -53,14 +53,17 @@ def process_stock(stock_info, start_date, end_date):
         if confirmed_days.empty:
             return None # 윗꼬리만 달고 아직 종가로 뚫어낸 적이 없다면 탈락
             
-        # 5. 종가로 뚫어낸 첫 번째 날이 바로 '오늘'인지 확인
+        # 5. 종가로 뚫어낸 첫 번째 날이 '최근 3거래일 이내(오늘 포함)'인지 확인
         first_confirmed_idx = confirmed_days.index[0]
         
-        if first_confirmed_idx == df.index[-3]:
+        if first_confirmed_idx in df.index[-3:]:
             today_close = df['Close'].iloc[-1]
+            breakout_date_str = first_confirmed_idx.strftime('%Y-%m-%d')
+            
             return {
                 '종목코드': code, 
                 '종목명': name, 
+                '돌파확인일': breakout_date_str, 
                 '진입가': reference_high,
                 '오늘종가': today_close
             }
@@ -107,9 +110,13 @@ def update_tv_pinescript_breakout_stocks_parallel():
 
     # 3. 검색 결과를 CSV 파일로 명시적 저장
     result_df = pd.DataFrame(result)
+    
     # 검색된 종목이 하나라도 있을 때만 '돌파확인일' 기준으로 최신순(내림차순) 정렬
     if not result_df.empty and '돌파확인일' in result_df.columns:
         result_df = result_df.sort_values(by='돌파확인일', ascending=False)
+    
+    # 👇 [가장 중요!] CSV 파일로 저장하는 코드가 복구되었습니다 👇
+    result_df.to_csv(csv_path, index=False, encoding='utf-8-sig')
     
     # 4. 마지막 업데이트 시간 저장 (한국 시간 적용)
     KST = timezone(timedelta(hours=9))
