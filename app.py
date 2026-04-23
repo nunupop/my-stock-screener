@@ -34,6 +34,9 @@ if os.path.exists(image_path):
             border-radius: 10px;
             padding: 10px;
         }}
+        header{{visibility:hidden;}}
+        .stDeployButton{{display:none;}}
+        footer{{visibility:hidden;}}
         </style>
         """,
         unsafe_allow_html=True
