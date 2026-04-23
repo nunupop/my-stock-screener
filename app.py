@@ -4,8 +4,9 @@ import os
 import base64
 import FinanceDataReader as fdr
 from datetime import datetime, timedelta
-import plotly.graph_objects as go  # 📈 고급 차트를 그리기 위한 도구 장착!
+import plotly.graph_objects as go
 
+# 1. 페이지 기본 설정
 st.set_page_config(page_title="볼린저 밴드 돌파 검색", layout="wide")
 
 def get_base64_of_bin_file(bin_file):
@@ -88,24 +89,19 @@ if os.path.exists(csv_path):
         
         if selected_stock_name:
             selected_code = df[df['종목명'] == selected_stock_name]['종목코드'].values[0]
-            # 표에서 저장해둔 진입가(기준봉 고가) 가져오기
             entry_price = df[df['종목명'] == selected_stock_name]['진입가'].values[0]
             
-            # 볼린저 밴드 계산을 위해 데이터는 넉넉하게 200일 치를 가져옵니다.
             start_date = datetime.now() - timedelta(days=200)
             chart_df = fdr.DataReader(selected_code, start_date)
             
             if not chart_df.empty:
-                # 1. 볼린저 밴드 실시간 계산
                 chart_df['ma20'] = chart_df['Close'].rolling(window=20).mean()
                 chart_df['std20'] = chart_df['Close'].rolling(window=20).std(ddof=0)
                 chart_df['upper'] = chart_df['ma20'] + 2 * chart_df['std20']
                 chart_df['lower'] = chart_df['ma20'] - 2 * chart_df['std20']
                 
-                # 최근 100일치 데이터만 화면에 보여주기 위해 자르기
                 chart_df = chart_df.iloc[-100:]
                 
-                # 2. Plotly를 이용한 전문적인 차트 그리기
                 fig = go.Figure()
                 
                 # 캔들 차트
@@ -113,26 +109,26 @@ if os.path.exists(csv_path):
                     x=chart_df.index,
                     open=chart_df['Open'], high=chart_df['High'],
                     low=chart_df['Low'], close=chart_df['Close'],
-                    name='캔들'
+                    name='일봉 캔들'
                 ))
                 
-                # 볼린저 밴드 상단 (빨간 점선)
+                # 볼린저 밴드 상단
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['upper'], 
                     line=dict(color='rgba(255, 0, 0, 0.5)', width=1.5, dash='dot'), 
                     name='BB 상단'
                 ))
                 
-                # 볼린저 밴드 하단 (파란 점선)
+                # 볼린저 밴드 하단
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['lower'], 
                     line=dict(color='rgba(0, 0, 255, 0.5)', width=1.5, dash='dot'), 
                     name='BB 하단',
-                    fill='tonexty', # 상단과 하단 사이를 옅은 색으로 채워서 밴드를 강조합니다.
+                    fill='tonexty',
                     fillcolor='rgba(128, 128, 128, 0.1)'
                 ))
                 
-                # 돌파 기준가 (녹색 가로선)
+                # 돌파 기준가
                 fig.add_hline(
                     y=entry_price, line_dash="solid", line_color="green", line_width=2,
                     annotation_text=f"돌파 기준가 ({entry_price:,.0f}원)", 
@@ -140,17 +136,27 @@ if os.path.exists(csv_path):
                     annotation_font=dict(color="green", size=14, weight="bold")
                 )
 
-                # 차트 디자인 다듬기
+                # 👇 [수정된 부분] 차트 디자인 및 범례/X축 설정 다듬기 👇
                 fig.update_layout(
-                    title=f"<b>{selected_stock_name}</b> 볼린저 밴드 돌파 차트",
+                    title=f"<b>{selected_stock_name}</b> 일봉(Daily) 볼린저 밴드 돌파 차트",
                     yaxis_title='주가 (원)',
-                    xaxis_rangeslider_visible=False, # 아래쪽 거추장스러운 슬라이더 숨기기
-                    template='plotly_white', # 깔끔한 흰색 배경
-                    height=500,
-                    margin=dict(l=50, r=50, t=50, b=50)
+                    xaxis=dict(
+                        rangeslider=dict(visible=False),          # 하단 슬라이더 제거
+                        rangebreaks=[dict(bounds=["sat", "mon"])] # 💡 주말(토,일) 빈칸 제거 (완벽한 일봉)
+                    ),
+                    template='plotly_white',
+                    height=550, # 범례가 아래로 가므로 높이를 살짝 키움
+                    margin=dict(l=50, r=50, t=50, b=50),
+                    # 💡 범례(Legend)를 아래쪽(가로 방향)으로 이동
+                    legend=dict(
+                        orientation="h",       # 수평(가로) 방향 배치
+                        yanchor="top",
+                        y=-0.15,               # 차트 아래쪽으로 살짝 내리기
+                        xanchor="center",
+                        x=0.5                  # 가운데 정렬
+                    )
                 )
                 
-                # 스트림릿 화면에 차트 쏘기!
                 st.plotly_chart(fig, use_container_width=True)
                 
     else:
