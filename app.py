@@ -2,29 +2,25 @@ import streamlit as st
 import pandas as pd
 import os
 import base64
-import FinanceDataReader as fdr  # 차트 데이터를 불러오기 위해 추가!
-from datetime import datetime, timedelta  # 날짜 계산을 위해 추가!
+import FinanceDataReader as fdr
+from datetime import datetime, timedelta
+import plotly.graph_objects as go  # 📈 고급 차트를 그리기 위한 도구 장착!
 
-# 1. 페이지 기본 설정 (가장 먼저 와야 합니다)
 st.set_page_config(page_title="볼린저 밴드 돌파 검색", layout="wide")
 
-# ==========================================
-# 2. 배경 이미지 설정 (도화지 깔기)
-# ==========================================
 def get_base64_of_bin_file(bin_file):
     with open(bin_file, 'rb') as f:
         data = f.read()
     return base64.b64encode(data).decode()
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
-image_path = os.path.join(current_dir, 'bg.jpg') # 내 컴퓨터/깃허브에 있는 이미지 파일명
+image_path = os.path.join(current_dir, 'bg.jpg')
 
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
         f"""
         <style>
-        /* 배경 이미지 꽉 차게 설정 */
         .stApp {{
             background-image: url("data:image/jpeg;base64,{img_base64}");
             background-size: cover;
@@ -32,7 +28,6 @@ if os.path.exists(image_path):
             background-repeat: no-repeat;
             background-attachment: fixed;
         }}
-        /* 표(데이터프레임)를 어두운 배경에서 잘 보이게 코팅 */
         .stDataFrame {{
             background-color: rgba(0, 0, 0, 0.6) !important;
             border-radius: 10px;
@@ -43,9 +38,6 @@ if os.path.exists(image_path):
         unsafe_allow_html=True
     )
 
-# ==========================================
-# 3. 타이틀 텍스트 설정 (글씨 쓰기)
-# ==========================================
 st.markdown(
     """
     <div style='margin-bottom: 30px;'>
@@ -60,34 +52,24 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# ==========================================
-# 4. 데이터 불러오기 및 화면 출력 (차트 기능 포함)
-# ==========================================
 csv_path = os.path.join(current_dir, 'result.csv')
 txt_path = os.path.join(current_dir, 'last_update.txt')
 
-# 업데이트 시간 확인
 try:
     with open(txt_path, 'r', encoding='utf-8') as f:
         update_time = f.read()
-    # 글씨가 어두운 배경에서 잘 보이도록 하얀색 텍스트로 감쌌습니다.
     st.markdown(f"<p style='color: #E0E0E0;'>🕒 마지막 업데이트: {update_time}</p>", unsafe_allow_html=True)
 except:
     st.markdown("<p style='color: #E0E0E0;'>🕒 업데이트 진행 중이거나 아직 데이터가 없습니다.</p>", unsafe_allow_html=True)
 
-# 결과 파일(CSV) 읽어서 표로 보여주기
 if os.path.exists(csv_path):
     df = pd.read_csv(csv_path)
     if not df.empty:
         st.success(f"🎉 총 {len(df)}개의 종목이 검색되었습니다!")
         
-        # [추가] 종목코드를 6자리 문자열로 변환 (예: 5930 -> 005930)
         df['종목코드'] = df['종목코드'].astype(str).str.zfill(6)
-        
-        # [추가] 표에 네이버 증권 바로가기 링크 생성
         df['네이버차트'] = "https://finance.naver.com/item/main.naver?code=" + df['종목코드']
         
-        # [수정] 링크를 클릭할 수 있는 형태로 표 그리기
         st.dataframe(
             df,
             column_config={
@@ -99,26 +81,77 @@ if os.path.exists(csv_path):
         
         st.markdown("---")
         
-        # ==========================================
-        # 5. 앱 내 미니 차트 출력 구역
-        # ==========================================
         st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 화면에서 바로 차트 확인하기</h3>", unsafe_allow_html=True)
         
-        # 검색된 종목들의 이름으로 선택 박스(드롭다운) 만들기
         stock_list = df['종목명'].tolist()
         selected_stock_name = st.selectbox("종목을 선택하세요:", stock_list)
         
         if selected_stock_name:
-            # 선택한 종목의 코드 찾기
             selected_code = df[df['종목명'] == selected_stock_name]['종목코드'].values[0]
+            # 표에서 저장해둔 진입가(기준봉 고가) 가져오기
+            entry_price = df[df['종목명'] == selected_stock_name]['진입가'].values[0]
             
-            # 해당 종목의 최근 120일 데이터 불러오기 (미니 차트용)
-            start_date = datetime.now() - timedelta(days=120)
+            # 볼린저 밴드 계산을 위해 데이터는 넉넉하게 200일 치를 가져옵니다.
+            start_date = datetime.now() - timedelta(days=200)
             chart_df = fdr.DataReader(selected_code, start_date)
             
             if not chart_df.empty:
-                # 화면에 종가 기준 선 차트 그리기
-                st.line_chart(chart_df['Close'])
+                # 1. 볼린저 밴드 실시간 계산
+                chart_df['ma20'] = chart_df['Close'].rolling(window=20).mean()
+                chart_df['std20'] = chart_df['Close'].rolling(window=20).std(ddof=0)
+                chart_df['upper'] = chart_df['ma20'] + 2 * chart_df['std20']
+                chart_df['lower'] = chart_df['ma20'] - 2 * chart_df['std20']
+                
+                # 최근 100일치 데이터만 화면에 보여주기 위해 자르기
+                chart_df = chart_df.iloc[-100:]
+                
+                # 2. Plotly를 이용한 전문적인 차트 그리기
+                fig = go.Figure()
+                
+                # 캔들 차트
+                fig.add_trace(go.Candlestick(
+                    x=chart_df.index,
+                    open=chart_df['Open'], high=chart_df['High'],
+                    low=chart_df['Low'], close=chart_df['Close'],
+                    name='캔들'
+                ))
+                
+                # 볼린저 밴드 상단 (빨간 점선)
+                fig.add_trace(go.Scatter(
+                    x=chart_df.index, y=chart_df['upper'], 
+                    line=dict(color='rgba(255, 0, 0, 0.5)', width=1.5, dash='dot'), 
+                    name='BB 상단'
+                ))
+                
+                # 볼린저 밴드 하단 (파란 점선)
+                fig.add_trace(go.Scatter(
+                    x=chart_df.index, y=chart_df['lower'], 
+                    line=dict(color='rgba(0, 0, 255, 0.5)', width=1.5, dash='dot'), 
+                    name='BB 하단',
+                    fill='tonexty', # 상단과 하단 사이를 옅은 색으로 채워서 밴드를 강조합니다.
+                    fillcolor='rgba(128, 128, 128, 0.1)'
+                ))
+                
+                # 돌파 기준가 (녹색 가로선)
+                fig.add_hline(
+                    y=entry_price, line_dash="solid", line_color="green", line_width=2,
+                    annotation_text=f"돌파 기준가 ({entry_price:,.0f}원)", 
+                    annotation_position="top left",
+                    annotation_font=dict(color="green", size=14, weight="bold")
+                )
+
+                # 차트 디자인 다듬기
+                fig.update_layout(
+                    title=f"<b>{selected_stock_name}</b> 볼린저 밴드 돌파 차트",
+                    yaxis_title='주가 (원)',
+                    xaxis_rangeslider_visible=False, # 아래쪽 거추장스러운 슬라이더 숨기기
+                    template='plotly_white', # 깔끔한 흰색 배경
+                    height=500,
+                    margin=dict(l=50, r=50, t=50, b=50)
+                )
+                
+                # 스트림릿 화면에 차트 쏘기!
+                st.plotly_chart(fig, use_container_width=True)
                 
     else:
         st.warning("오늘은 조건에 부합하는 종목이 없습니다.")
