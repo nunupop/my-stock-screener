@@ -56,12 +56,12 @@ def process_stock(stock_info, start_date, end_date):
         # 5. 종가로 뚫어낸 첫 번째 날이 바로 '오늘'인지 확인
         first_confirmed_idx = confirmed_days.index[0]
         
-        if first_confirmed_idx == df.index[-1]:
+        if first_confirmed_idx == df.index[-3]:
             today_close = df['Close'].iloc[-1]
             return {
                 '종목코드': code, 
                 '종목명': name, 
-                '돌파기준가(기준봉고가)': reference_high,
+                '진입가': reference_high,
                 '오늘종가': today_close
             }
             
