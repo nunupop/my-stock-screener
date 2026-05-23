@@ -6,7 +6,7 @@ import yfinance as yf
 from datetime import datetime, timedelta
 import plotly.graph_objects as go
 
-# 1. 페이지 기본 설정 및 공식 다크 테마 요소를 상단에 주입
+# 1. 페이지 기본 설정
 st.set_page_config(page_title="나스닥 N자형 돌파 검색", layout="wide")
 
 def get_base64_of_bin_file(bin_file):
@@ -17,7 +17,7 @@ def get_base64_of_bin_file(bin_file):
 current_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(current_dir, 'bg.jpg')
 
-# 💡 안전한 순정 CSS 구조로 전면 개편
+# 배경 이미지 및 테이블, 알림창 스타일 CSS 설정
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
@@ -31,21 +31,45 @@ if os.path.exists(image_path):
             background-repeat: no-repeat;
             background-attachment: fixed;
         }}
-        
-        /* 💡 테이블을 감싸는 박스를 반투명한 검은색으로 지정 */
-        [data-testid="stDataFrame"] {{
-            background-color: rgba(0, 0, 0, 0.75) !important;
+
+        /* 테이블(DataFrame) 내부 셀 검은색 배경 및 흰색 글씨 + 흰색 테두리 */
+        div[data-testid="stDataFrame"] table {{
+            background-color: rgba(0, 0, 0, 1) !important;
+            color: #FFFFFF !important;
+            border: 2px solid #FFFFFF !important;
+            border-collapse: collapse !important;
+        }}
+        div[data-testid="stDataFrame"] td, div[data-testid="stDataFrame"] th {{
+            background-color: rgba(15, 15, 15, 1) !important;
+            color: #FFFFFF !important;
+            border: 1px solid #FFFFFF !important;
+        }}
+        div[data-testid="stDataFrame"] thead th {{
+            background-color: rgba(40, 40, 40, 1) !important;
+            color: #FFFFFF !important;
+            border: 1px solid #FFFFFF !important;
+            font-weight: bold !important;
+        }}
+
+        /* 테이블 컨테이너 패딩 및 라운딩 + 흰색 외곽 테두리 */
+        .stDataFrame {{
+            background-color: rgba(0, 0, 0, 0.8) !important;
             border-radius: 10px;
             padding: 10px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            border: 2px solid #FFFFFF !important;
         }}
-        
-        /* st.success 알림창 내부의 글씨 색상을 회색으로 */
+
+        /* 링크 색상 */
+        div[data-testid="stDataFrame"] a {{
+            color: #90CAF9 !important;
+        }}
+
+        /* 💡 st.success 알림창 내부의 글씨 색상을 회색으로 강제 변경 */
         div[data-testid="stNotification"] p {{
             color: #CCCCCC !important;
             font-weight: 500;
         }}
-        
+
         header{{visibility:hidden;}}
         .stDeployButton{{display:none;}}
         footer{{visibility:hidden;}}
@@ -98,7 +122,6 @@ if os.path.exists(csv_path):
         # 컬럼 순서 및 표기명 정리
         display_df = df[['종목코드', '종목명', '진입가', '오늘종가', '야후차트']].copy()
         
-        # 💡 스트림릿 공식 테마 설정을 타지 않고 강제로 다크 모드 스타일 스타일링을 적용하는 안전한 방식
         st.dataframe(
             display_df,
             column_config={
