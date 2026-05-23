@@ -17,7 +17,7 @@ def get_base64_of_bin_file(bin_file):
 current_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(current_dir, 'bg.jpg')
 
-# 배경 이미지 및 테이블 스타일 (검은 배경 / 흰 글씨) CSS 설정
+# 배경 이미지 및 강제 검은 테이블 / 흰 글씨 CSS 설정
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
@@ -32,21 +32,42 @@ if os.path.exists(image_path):
             background-attachment: fixed;
         }}
         
-        /* 💡 테이블(DataFrame) 내부 셀 검은색 배경 및 흰색 글씨 강제 적용 */
-        div[data-testid="stDataFrame"] table {{
-            background-color: rgba(0, 0, 0, 1) !important;
-            color: #FFFFFF !important;
+        /* 💡 [대폭 강화된 CSS] 테이블 관련 모든 가상 요소를 싹 다 잡아 검은색으로 고정 */
+        [data-testid="stDataFrame"] {{
+            background-color: rgba(0, 0, 0, 0.85) !important;
+            border-radius: 10px;
+            padding: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.1);
         }}
-        div[data-testid="stDataFrame"] td, div[data-testid="stDataFrame"] th {{
-            background-color: rgba(15, 15, 15, 1) !important;
+        
+        /* 테이블 내부 데이터 셀 및 헤더 전체 타겟팅 */
+        [data-testid="stDataFrame"] div, 
+        [data-testid="stDataFrame"] canvas, 
+        [data-testid="stDataFrame"] [role="grid"] {{
+            background-color: #0F0F0F !important;
+            --background-color: #0F0F0F !important;
+            --text-color: #FFFFFF !important;
             color: #FFFFFF !important;
         }}
         
-        /* 테이블 컨테이너 패딩 및 라운딩 */
-        .stDataFrame {{
-            background-color: rgba(0, 0, 0, 0.8) !important;
-            border-radius: 10px;
-            padding: 10px;
+        /* 텍스트 색상 및 하이퍼링크 흰색으로 강제 유지 */
+        [data-testid="stDataFrame"] a, 
+        [data-testid="stDataFrame"] span {{
+            color: #FFFFFF !important;
+        }}
+
+        /* 구버전용 백업 테이블 스타일 */
+        div[data-testid="stDataFrame"] table, 
+        div[data-testid="stDataFrame"] td, 
+        div[data-testid="stDataFrame"] th {{
+            background-color: #0F0F0F !important;
+            color: #FFFFFF !important;
+        }}
+        
+        /* st.success 알림창 내부의 글씨 색상을 회색으로 */
+        div[data-testid="stNotification"] p {{
+            color: #CCCCCC !important;
+            font-weight: 500;
         }}
         
         header{{visibility:hidden;}}
@@ -117,7 +138,7 @@ if os.path.exists(csv_path):
         st.markdown("---")
         
         # 4. 차트 시각화 (yfinance 적용)
-        st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 차트 확인하기</h3>", unsafe_allow_html=True)
+        st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 화면에서 바로 차트 확인하기</h3>", unsafe_allow_html=True)
         
         stock_list = df['종목명'].tolist()
         selected_stock_name = st.selectbox("종목을 선택하세요:", stock_list)
@@ -147,7 +168,7 @@ if os.path.exists(csv_path):
                 fig = go.Figure()
                 
                 # 일봉 캔들
-                fig.add_trace(go.BeautifulCandlestick if hasattr(go, 'BeautifulCandlestick') else go.Candlestick(
+                fig.add_trace(go.Candlestick(
                     x=chart_df.index,
                     open=chart_df['Open'], high=chart_df['High'],
                     low=chart_df['Low'], close=chart_df['Close'],
