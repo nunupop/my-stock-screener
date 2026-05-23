@@ -17,12 +17,13 @@ def get_base64_of_bin_file(bin_file):
 current_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(current_dir, 'bg.jpg')
 
-# 배경 이미지 설정
+# 배경 이미지 및 테이블 스타일 (검은 배경 / 흰 글씨) CSS 설정
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
         f"""
         <style>
+        /* 기본 앱 배경 설정 */
         .stApp {{
             background-image: url("data:image/jpeg;base64,{img_base64}");
             background-size: cover;
@@ -30,11 +31,24 @@ if os.path.exists(image_path):
             background-repeat: no-repeat;
             background-attachment: fixed;
         }}
+        
+        /* 💡 테이블(DataFrame) 내부 셀 검은색 배경 및 흰색 글씨 강제 적용 */
+        div[data-testid="stDataFrame"] table {{
+            background-color: rgba(0, 0, 0, 1) !important;
+            color: #FFFFFF !important;
+        }}
+        div[data-testid="stDataFrame"] td, div[data-testid="stDataFrame"] th {{
+            background-color: rgba(15, 15, 15, 1) !important;
+            color: #FFFFFF !important;
+        }}
+        
+        /* 테이블 컨테이너 패딩 및 라운딩 */
         .stDataFrame {{
-            background-color: rgba(0, 0, 0, 0.6) !important;
+            background-color: rgba(0, 0, 0, 0.8) !important;
             border-radius: 10px;
             padding: 10px;
         }}
+        
         header{{visibility:hidden;}}
         .stDeployButton{{display:none;}}
         footer{{visibility:hidden;}}
@@ -62,7 +76,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# 💡 2. 나스닥 전용 데이터 경로 설정 (핵심 수정 부분)
+# 나스닥 전용 데이터 경로 설정
 csv_path = os.path.join(current_dir, 'result_nasdaq.csv')
 txt_path = os.path.join(current_dir, 'last_update_nasdaq.txt')
 
@@ -84,7 +98,7 @@ if os.path.exists(csv_path):
         df['종목코드'] = df['종목코드'].astype(str).str.upper()
         df['야후차트'] = "https://finance.yahoo.com/quote/" + df['종목코드']
         
-        # 컬럼 순서 및 표기명 정리 (표에서 보기 좋게 설정)
+        # 컬럼 순서 및 표기명 정리
         display_df = df[['종목코드', '종목명', '진입가', '오늘종가', '야후차트']].copy()
         
         st.dataframe(
@@ -112,14 +126,12 @@ if os.path.exists(csv_path):
             selected_code = df[df['종목명'] == selected_stock_name]['종목코드'].values[0]
             entry_price = df[df['종목명'] == selected_stock_name]['진입가'].values[0]
             
-            # 💡 에러 방지를 위해 yfinance로 데이터 로드
             start_date = datetime.now() - timedelta(days=300)
             start_str = start_date.strftime('%Y-%m-%d')
             
             chart_df = yf.download(selected_code, start=start_str, progress=False)
             
             if not chart_df.empty:
-                # 다중 인덱스 방지 (yfinance 최신 버전 호환)
                 if isinstance(chart_df.columns, pd.MultiIndex):
                     chart_df.columns = chart_df.columns.droplevel(1)
 
@@ -135,42 +147,20 @@ if os.path.exists(csv_path):
                 fig = go.Figure()
                 
                 # 일봉 캔들
-                fig.add_trace(go.Candlestick(
+                fig.add_trace(go.BeautifulCandlestick if hasattr(go, 'BeautifulCandlestick') else go.Candlestick(
                     x=chart_df.index,
                     open=chart_df['Open'], high=chart_df['High'],
                     low=chart_df['Low'], close=chart_df['Close'],
                     name='일봉 캔들'
                 ))
                 
-                # 5일 이평선
-                fig.add_trace(go.Scatter(
-                    x=chart_df.index, y=chart_df['ma5'], 
-                    line=dict(color='#2ca02c', width=1.5), 
-                    name='5일선'
-                ))
+                # 이평선들 추가
+                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma5'], line=dict(color='#2ca02c', width=1.5), name='5일선'))
+                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma20'], line=dict(color='#d62728', width=2.5), name='20일선'))
+                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma60'], line=dict(color='#ff7f0e', width=1.5), name='60일선'))
+                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma120'], line=dict(color='#9467bd', width=1.5), name='120일선'))
                 
-                # 20일 이평선
-                fig.add_trace(go.Scatter(
-                    x=chart_df.index, y=chart_df['ma20'], 
-                    line=dict(color='#d62728', width=2.5), 
-                    name='20일선'
-                ))
-                
-                # 60일 이평선
-                fig.add_trace(go.Scatter(
-                    x=chart_df.index, y=chart_df['ma60'], 
-                    line=dict(color='#ff7f0e', width=1.5), 
-                    name='60일선'
-                ))
-
-                # 120일 이평선
-                fig.add_trace(go.Scatter(
-                    x=chart_df.index, y=chart_df['ma120'], 
-                    line=dict(color='#9467bd', width=1.5), 
-                    name='120일선'
-                ))
-                
-                # 전고점 돌파 기준선 (수평선)
+                # 전고점 기준선
                 fig.add_hline(
                     y=entry_price, line_dash="solid", line_color="green", line_width=2,
                     annotation_text=f"전고점 기준가 (${entry_price:,.2f})", 
@@ -180,24 +170,12 @@ if os.path.exists(csv_path):
 
                 fig.update_layout(
                     title=f"<b>{selected_stock_name} ({selected_code})</b> 일봉 차트",
-                    yaxis=dict(
-                        side="right",
-                        tickformat="$.2f"
-                    ),
-                    xaxis=dict(
-                        rangeslider=dict(visible=False),
-                        rangebreaks=[dict(bounds=["sat", "mon"])]
-                    ),
+                    yaxis=dict(side="right", tickformat="$.2f"),
+                    xaxis=dict(rangeslider=dict(visible=False), rangebreaks=[dict(bounds=["sat", "mon"])]),
                     template='plotly_white',
                     height=550,
                     margin=dict(l=10, r=50, t=50, b=50),
-                    legend=dict(
-                        orientation="h",
-                        yanchor="top",
-                        y=-0.15,
-                        xanchor="center",
-                        x=0.5
-                    )
+                    legend=dict(orientation="h", yanchor="top", y=-0.15, xanchor="center", x=0.5)
                 )
                 
                 st.plotly_chart(fig, use_container_width=True)
