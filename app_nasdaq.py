@@ -3,6 +3,7 @@ import pandas as pd
 import os
 import base64
 import FinanceDataReader as fdr
+import yfinance as yf  # 👈 이 줄을 상단 import 단락에 추가해주세요!
 from datetime import datetime, timedelta
 import plotly.graph_objects as go
 
@@ -102,7 +103,7 @@ if os.path.exists(csv_path):
             
             # 💡 120일 이평선 선행 계산을 위해 기간을 300일로 넉넉하게 확장
             start_date = datetime.now() - timedelta(days=300)
-            chart_df = fdr.DataReader(selected_code, start_date)
+            chart_df = yf.download(selected_code, start=start_date.strftime('%Y-%m-%d'), progress=False)            
             
             if not chart_df.empty:
                 # 💡 볼린저 밴드 대신 N자형 패턴 이평선(5, 20, 60, 120) 계산
