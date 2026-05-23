@@ -64,11 +64,11 @@ if os.path.exists(image_path):
 # 타이틀
 st.markdown(
     """
-    <div style='margin-bottom: 30px;'>
+    <div style='margin-bottom: 20px;'>
         <div style='text-align: center; font-size: 35px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
-            🇺🇸 오늘의 NASDAQ <br> N자형 눌림목 돌파 종목
+            🇺🇸 오늘의 NASDAQ <br> 눌림목 돌파 종목
         </div>
-        <div style='text-align: right; font-size: 22px; color: #E0E0E0; font-style: italic; margin-top: 10px;'>
+        <div style='text-align: right; font-size: 14px; color: #E0E0E0; font-style: italic; margin-top: 10px;'>
             by Mr.CHOI
         </div>
     </div>
@@ -117,7 +117,7 @@ if os.path.exists(csv_path):
         st.markdown("---")
         
         # 4. 차트 시각화 (yfinance 적용)
-        st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 화면에서 바로 차트 확인하기</h3>", unsafe_allow_html=True)
+        st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 차트 확인하기</h3>", unsafe_allow_html=True)
         
         stock_list = df['종목명'].tolist()
         selected_stock_name = st.selectbox("종목을 선택하세요:", stock_list)
