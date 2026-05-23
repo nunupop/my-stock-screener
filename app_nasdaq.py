@@ -17,7 +17,7 @@ def get_base64_of_bin_file(bin_file):
 current_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(current_dir, 'bg.jpg')
 
-# 배경 이미지 및 강제 검은 테이블 / 흰 글씨 CSS 설정
+# 배경 이미지 및 테이블 글씨/테두리 최적화 CSS 설정
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
@@ -32,36 +32,40 @@ if os.path.exists(image_path):
             background-attachment: fixed;
         }}
         
-        /* 💡 [대폭 강화된 CSS] 테이블 관련 모든 가상 요소를 싹 다 잡아 검은색으로 고정 */
+        /* 💡 테이블 컨테이너 영역 */
         [data-testid="stDataFrame"] {{
-            background-color: rgba(0, 0, 0, 0.85) !important;
+            background-color: #0B0B0C !important;
             border-radius: 10px;
             padding: 12px;
-            border: 1px solid rgba(255, 255, 255, 0.1);
+            border: 1px solid rgba(255, 255, 255, 0.15);
         }}
         
-        /* 테이블 내부 데이터 셀 및 헤더 전체 타겟팅 */
-        [data-testid="stDataFrame"] div, 
-        [data-testid="stDataFrame"] canvas, 
-        [data-testid="stDataFrame"] [role="grid"] {{
-            background-color: #0F0F0F !important;
-            --background-color: #0F0F0F !important;
-            --text-color: #FFFFFF !important;
+        /* 💡 스트림릿 내장 데이터 그리드 테마 변수 강제 오버라이드 (가장 확실한 방법) */
+        [data-testid="stDataFrame"] > div {{
+            --style-background: #0B0B0C !important;
+            --style-text-main: #FFFFFF !important;
+            --style-text-medium: #E0E0E0 !important;
+            --style-text-light: #A0A0A0 !important;
+            --style-border-light: rgba(255, 255, 255, 0.15) !important;
+            --style-border-medium: rgba(255, 255, 255, 0.25) !important;
+            --style-accent-color: #29b5e8 !important;
+        }}
+        
+        /* 테이블 내부 요소들 글씨색 흰색으로 강제 고정 */
+        [data-testid="stDataFrame"] th, 
+        [data-testid="stDataFrame"] td, 
+        [data-testid="stDataFrame"] span, 
+        [data-testid="stDataFrame"] div[role="gridcell"] {{
             color: #FFFFFF !important;
         }}
         
-        /* 텍스트 색상 및 하이퍼링크 흰색으로 강제 유지 */
-        [data-testid="stDataFrame"] a, 
-        [data-testid="stDataFrame"] span {{
-            color: #FFFFFF !important;
+        /* 링크(차트 바로가기) 색상 활성화 */
+        [data-testid="stDataFrame"] a {{
+            color: #29b5e8 !important;
+            text-decoration: none;
         }}
-
-        /* 구버전용 백업 테이블 스타일 */
-        div[data-testid="stDataFrame"] table, 
-        div[data-testid="stDataFrame"] td, 
-        div[data-testid="stDataFrame"] th {{
-            background-color: #0F0F0F !important;
-            color: #FFFFFF !important;
+        [data-testid="stDataFrame"] a:hover {{
+            text-decoration: underline;
         }}
         
         /* st.success 알림창 내부의 글씨 색상을 회색으로 */
@@ -120,90 +124,4 @@ if os.path.exists(csv_path):
         df['야후차트'] = "https://finance.yahoo.com/quote/" + df['종목코드']
         
         # 컬럼 순서 및 표기명 정리
-        display_df = df[['종목코드', '종목명', '진입가', '오늘종가', '야후차트']].copy()
-        
-        st.dataframe(
-            display_df,
-            column_config={
-                "종목코드": "티커",
-                "종목명": "기업명",
-                "진입가": st.column_config.NumberColumn("돌파 기준가($)", format="$%.2f"),
-                "오늘종가": st.column_config.NumberColumn("오늘 종가($)", format="$%.2f"),
-                "야후차트": st.column_config.LinkColumn("차트 바로가기", display_text="Yahoo Finance 📈")
-            },
-            width='stretch', 
-            hide_index=True
-        )
-        
-        st.markdown("---")
-        
-        # 4. 차트 시각화 (yfinance 적용)
-        st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 화면에서 바로 차트 확인하기</h3>", unsafe_allow_html=True)
-        
-        stock_list = df['종목명'].tolist()
-        selected_stock_name = st.selectbox("종목을 선택하세요:", stock_list)
-        
-        if selected_stock_name:
-            selected_code = df[df['종목명'] == selected_stock_name]['종목코드'].values[0]
-            entry_price = df[df['종목명'] == selected_stock_name]['진입가'].values[0]
-            
-            start_date = datetime.now() - timedelta(days=300)
-            start_str = start_date.strftime('%Y-%m-%d')
-            
-            chart_df = yf.download(selected_code, start=start_str, progress=False)
-            
-            if not chart_df.empty:
-                if isinstance(chart_df.columns, pd.MultiIndex):
-                    chart_df.columns = chart_df.columns.droplevel(1)
-
-                # 이동평균선 계산
-                chart_df['ma5'] = chart_df['Close'].rolling(window=5).mean()
-                chart_df['ma20'] = chart_df['Close'].rolling(window=20).mean()
-                chart_df['ma60'] = chart_df['Close'].rolling(window=60).mean()
-                chart_df['ma120'] = chart_df['Close'].rolling(window=120).mean()
-                
-                # 최근 100거래일 슬라이싱
-                chart_df = chart_df.iloc[-100:]
-                
-                fig = go.Figure()
-                
-                # 일봉 캔들
-                fig.add_trace(go.Candlestick(
-                    x=chart_df.index,
-                    open=chart_df['Open'], high=chart_df['High'],
-                    low=chart_df['Low'], close=chart_df['Close'],
-                    name='일봉 캔들'
-                ))
-                
-                # 이평선들 추가
-                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma5'], line=dict(color='#2ca02c', width=1.5), name='5일선'))
-                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma20'], line=dict(color='#d62728', width=2.5), name='20일선'))
-                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma60'], line=dict(color='#ff7f0e', width=1.5), name='60일선'))
-                fig.add_trace(go.Scatter(x=chart_df.index, y=chart_df['ma120'], line=dict(color='#9467bd', width=1.5), name='120일선'))
-                
-                # 전고점 기준선
-                fig.add_hline(
-                    y=entry_price, line_dash="solid", line_color="green", line_width=2,
-                    annotation_text=f"전고점 기준가 (${entry_price:,.2f})", 
-                    annotation_position="top left",
-                    annotation_font=dict(color="green", size=14, weight="bold")
-                )
-
-                fig.update_layout(
-                    title=f"<b>{selected_stock_name} ({selected_code})</b> 일봉 차트",
-                    yaxis=dict(side="right", tickformat="$.2f"),
-                    xaxis=dict(rangeslider=dict(visible=False), rangebreaks=[dict(bounds=["sat", "mon"])]),
-                    template='plotly_white',
-                    height=550,
-                    margin=dict(l=10, r=50, t=50, b=50),
-                    legend=dict(orientation="h", yanchor="top", y=-0.15, xanchor="center", x=0.5)
-                )
-                
-                st.plotly_chart(fig, use_container_width=True)
-            else:
-                st.error("해당 종목의 차트 데이터를 불러올 수 없습니다.")
-                
-    else:
-        st.warning("오늘은 조건에 부합하는 종목이 없습니다.")
-else:
-    st.info("데이터를 수집하는 중입니다. 잠시 후 다시 확인해주세요.")
+        display_df = df
