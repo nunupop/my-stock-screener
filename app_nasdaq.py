@@ -122,7 +122,7 @@ if os.path.exists(csv_path):
         # 컬럼 순서 및 표기명 정리
         display_df = df[['종목코드', '종목명', '진입가', '오늘종가', '야후차트']].copy()
         
-        st.dataframe(
+        st.table(
             display_df,
             column_config={
                 "종목코드": "티커",
