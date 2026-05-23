@@ -17,7 +17,7 @@ def get_base64_of_bin_file(bin_file):
 current_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(current_dir, 'bg.jpg')
 
-# 💡 코스피 코드와 완벽하게 동일한 심플한 CSS로 원상 복구
+# 코스피 코드와 동일한 심플 CSS
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
@@ -51,7 +51,7 @@ if os.path.exists(image_path):
 st.markdown(
     """
     <div style='margin-bottom: 20px;'>
-        <div style='text-align: center; font-size: 22px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
+        <div style='text-align: center; font-size: 24px; font-weight: bold; color: white; text-shadow: 2px 2px 4px rgba(0,0,0,0.5);'>
             🇺🇸 오늘의 NASDAQ <br> 눌림목 돌파 종목
         </div>
         <div style='text-align: right; font-size: 12px; color: #E0E0E0; font-style: italic; margin-top: 10px;'>
