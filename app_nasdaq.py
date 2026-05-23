@@ -2,8 +2,7 @@ import streamlit as st
 import pandas as pd
 import os
 import base64
-import FinanceDataReader as fdr
-import yfinance as yf  # 👈 이 줄을 상단 import 단락에 추가해주세요!
+import yfinance as yf
 from datetime import datetime, timedelta
 import plotly.graph_objects as go
 
@@ -18,6 +17,7 @@ def get_base64_of_bin_file(bin_file):
 current_dir = os.path.dirname(os.path.abspath(__file__))
 image_path = os.path.join(current_dir, 'bg.jpg')
 
+# 배경 이미지 설정
 if os.path.exists(image_path):
     img_base64 = get_base64_of_bin_file(image_path)
     st.markdown(
@@ -47,6 +47,7 @@ if os.path.exists(image_path):
         unsafe_allow_html=True
     )
 
+# 타이틀
 st.markdown(
     """
     <div style='margin-bottom: 30px;'>
@@ -61,9 +62,11 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-csv_path = os.path.join(current_dir, 'result.csv')
-txt_path = os.path.join(current_dir, 'last_update.txt')
+# 💡 2. 나스닥 전용 데이터 경로 설정 (핵심 수정 부분)
+csv_path = os.path.join(current_dir, 'result_nasdaq.csv')
+txt_path = os.path.join(current_dir, 'last_update_nasdaq.txt')
 
+# 마지막 업데이트 시간 표시
 try:
     with open(txt_path, 'r', encoding='utf-8') as f:
         update_time = f.read()
@@ -71,19 +74,26 @@ try:
 except:
     st.markdown("<p style='color: #E0E0E0;'>🕒 업데이트 진행 중이거나 아직 데이터가 없습니다.</p>", unsafe_allow_html=True)
 
+# 3. 데이터 로드 및 표 생성
 if os.path.exists(csv_path):
     df = pd.read_csv(csv_path)
     if not df.empty:
         st.success(f"🎉 총 {len(df)}개의 나스닥 종목이 검색되었습니다!")
         
-        # 💡 미국 주식은 6자리 자릿수 채우기(zfill)가 필요 없으므로 대문자 변환만 처리
+        # 티커 대문자 변환 및 야후 파이낸스 링크 생성
         df['종목코드'] = df['종목코드'].astype(str).str.upper()
-        # 💡 네이버 금융 대신 야후 파이낸스 연결
         df['야후차트'] = "https://finance.yahoo.com/quote/" + df['종목코드']
         
+        # 컬럼 순서 및 표기명 정리 (표에서 보기 좋게 설정)
+        display_df = df[['종목코드', '종목명', '진입가', '오늘종가', '야후차트']].copy()
+        
         st.dataframe(
-            df,
+            display_df,
             column_config={
+                "종목코드": "티커",
+                "종목명": "기업명",
+                "진입가": st.column_config.NumberColumn("돌파 기준가($)", format="$%.2f"),
+                "오늘종가": st.column_config.NumberColumn("오늘 종가($)", format="$%.2f"),
                 "야후차트": st.column_config.LinkColumn("차트 바로가기", display_text="Yahoo Finance 📈")
             },
             width='stretch', 
@@ -92,6 +102,7 @@ if os.path.exists(csv_path):
         
         st.markdown("---")
         
+        # 4. 차트 시각화 (yfinance 적용)
         st.markdown("<h3 style='color: white; text-shadow: 1px 1px 2px black;'>📊 화면에서 바로 차트 확인하기</h3>", unsafe_allow_html=True)
         
         stock_list = df['종목명'].tolist()
@@ -101,23 +112,29 @@ if os.path.exists(csv_path):
             selected_code = df[df['종목명'] == selected_stock_name]['종목코드'].values[0]
             entry_price = df[df['종목명'] == selected_stock_name]['진입가'].values[0]
             
-            # 💡 120일 이평선 선행 계산을 위해 기간을 300일로 넉넉하게 확장
+            # 💡 에러 방지를 위해 yfinance로 데이터 로드
             start_date = datetime.now() - timedelta(days=300)
-            chart_df = yf.download(selected_code, start=start_date.strftime('%Y-%m-%d'), progress=False)            
+            start_str = start_date.strftime('%Y-%m-%d')
+            
+            chart_df = yf.download(selected_code, start=start_str, progress=False)
             
             if not chart_df.empty:
-                # 💡 볼린저 밴드 대신 N자형 패턴 이평선(5, 20, 60, 120) 계산
+                # 다중 인덱스 방지 (yfinance 최신 버전 호환)
+                if isinstance(chart_df.columns, pd.MultiIndex):
+                    chart_df.columns = chart_df.columns.droplevel(1)
+
+                # 이동평균선 계산
                 chart_df['ma5'] = chart_df['Close'].rolling(window=5).mean()
                 chart_df['ma20'] = chart_df['Close'].rolling(window=20).mean()
                 chart_df['ma60'] = chart_df['Close'].rolling(window=60).mean()
                 chart_df['ma120'] = chart_df['Close'].rolling(window=120).mean()
                 
-                # 시각화는 최근 100거래일만 슬라이싱
+                # 최근 100거래일 슬라이싱
                 chart_df = chart_df.iloc[-100:]
                 
                 fig = go.Figure()
                 
-                # 1) 일봉 캔들
+                # 일봉 캔들
                 fig.add_trace(go.Candlestick(
                     x=chart_df.index,
                     open=chart_df['Open'], high=chart_df['High'],
@@ -125,51 +142,51 @@ if os.path.exists(csv_path):
                     name='일봉 캔들'
                 ))
                 
-                # 2) 5일 이동평균선 (초록색)
+                # 5일 이평선
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['ma5'], 
                     line=dict(color='#2ca02c', width=1.5), 
-                    name='5일 이평선'
+                    name='5일선'
                 ))
                 
-                # 3) 20일 이동평균선 (빨간색 - 지지선 역할)
+                # 20일 이평선
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['ma20'], 
                     line=dict(color='#d62728', width=2.5), 
-                    name='20일 이평선'
+                    name='20일선'
                 ))
                 
-                # 4) 60일 이동평균선 (주황색)
+                # 60일 이평선
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['ma60'], 
                     line=dict(color='#ff7f0e', width=1.5), 
-                    name='60일 이평선'
+                    name='60일선'
                 ))
 
-                # 5) 120일 이동평균선 (보라색)
+                # 120일 이평선
                 fig.add_trace(go.Scatter(
                     x=chart_df.index, y=chart_df['ma120'], 
                     line=dict(color='#9467bd', width=1.5), 
-                    name='120일 이평선'
+                    name='120일선'
                 ))
                 
-                # 6) 전고점 돌파 기준선 수평선
+                # 전고점 돌파 기준선 (수평선)
                 fig.add_hline(
                     y=entry_price, line_dash="solid", line_color="green", line_width=2,
-                    annotation_text=f"전고점 돌파 기준가 (${entry_price:,.2f})", 
+                    annotation_text=f"전고점 기준가 (${entry_price:,.2f})", 
                     annotation_position="top left",
                     annotation_font=dict(color="green", size=14, weight="bold")
                 )
 
                 fig.update_layout(
-                    title=f"<b>{selected_stock_name} ({selected_code})</b> 일봉 이동평균선 & 돌파 차트",
+                    title=f"<b>{selected_stock_name} ({selected_code})</b> 일봉 차트",
                     yaxis=dict(
                         side="right",
-                        tickformat="$.2f"  # 달러 가격 포맷으로 변경
+                        tickformat="$.2f"
                     ),
                     xaxis=dict(
                         rangeslider=dict(visible=False),
-                        rangebreaks=[dict(bounds=["sat", "mon"])] # 주말 제거
+                        rangebreaks=[dict(bounds=["sat", "mon"])]
                     ),
                     template='plotly_white',
                     height=550,
@@ -184,8 +201,10 @@ if os.path.exists(csv_path):
                 )
                 
                 st.plotly_chart(fig, use_container_width=True)
+            else:
+                st.error("해당 종목의 차트 데이터를 불러올 수 없습니다.")
                 
     else:
         st.warning("오늘은 조건에 부합하는 종목이 없습니다.")
 else:
-    st.info("데이터를 수집하는 중입니다. 나중에 다시 확인해주세요.")
+    st.info("데이터를 수집하는 중입니다. 잠시 후 다시 확인해주세요.")
