@@ -7,7 +7,6 @@ ALF,Centurion Acquisition Corp,10.85,10.89
 ANTX,AN2 Therapeutics Inc,4.85,4.85
 ARBE,Arbe Robotics Ltd,1.15,1.13
 ASST,Strive Inc,17.95,18.21
-AXIN,Axiom Intelligence Acquisition Corp 1,10.2,10.22
 BAYA,Bayview Acquisition Corp,12.03,12.08
 BAYAU,Bayview Acquisition Units,11.85,14.0
 BBCQ,Bleichroeder Acquisition Corp II,10.46,10.71
@@ -18,12 +17,9 @@ CEPS,Cantor Equity Partners Vi  Inc,10.2,10.25
 CMMB,Chemomab Therapeutics Ltd ADR,1.83,2.02
 CMTL,Comtech Telecommunications Corp,4.11,4.79
 COFS,ChoiceOne Financial Services Inc,31.5,31.44
-COLAU,Columbus Acquisition Units,10.99,11.49
 CPBI,Central Plains Bancshares Inc,17.73,18.71
 CPRT,Copart Inc,33.94,33.79
 CPSH,CPS Technologies Corp,5.28,6.0
-CRACU,Crown Reserve Acquisition I Units,10.2,10.22
-CRANU,Crane Harbor Acquisition II Units,10.25,10.35
 CUBWU,Lionheart Holdings Units,10.77,10.85
 DBCA,D Boral Acquisition I Corp,9.91,9.93
 DMAAU,Drugs Made In America Acquisition Units,10.58,10.9
@@ -32,11 +28,11 @@ DUOT,Duos Technologies Group Inc,9.2,12.3
 EFSI,Eagle Financial Services Inc,39.41,39.12
 ELUT,Elutia Inc,1.17,1.16
 FEIM,Frequency Electronics Inc,64.11,68.01
-FSHPU,Flag Ship Acquisition Units,10.97,12.89
 FVNNU,Future Vision II Acquisition Units,10.79,10.89
 GENVR,Gen Digital Contingent Value Rights,0.77,1.52
 GENVR,Gen Digital Contingent Value Rights,0.77,1.52
 GFS,GlobalFoundries Inc,74.99,85.64
+GHRS,GH Research PLC,22.44,22.12
 GPATU,GP Act III Acquisition Units,10.87,11.69
 HAVAU,Harvard Ave Acquisition Units,10.14,10.19
 HCAC,Hall Chadwick Acquisition Corp,10.0,10.01
@@ -49,6 +45,7 @@ HOVR,New Horizon Aircraft Ltd,2.81,3.14
 HQ,Horizon Quantum Holdings Ltd,13.05,13.9
 HYFT,MindWalk Holdings Corp,1.33,1.71
 IMPP,Imperial Petroleum Inc,5.2,5.68
+IOVA,Iovance Biotherapeutics Inc,4.09,4.11
 JDZG,JIADE Ltd,2.21,3.7
 KTWOU,K2 Capital Acquisition Units,10.11,10.25
 KVHI,KVH Industries Inc,11.0,11.69
@@ -57,13 +54,12 @@ LFS,Leifras Co Ltd ADR,2.27,3.55
 LIXT,Lixte Biotechnology Holdings Inc,5.16,5.88
 LKSP,Lake Superior Acquisition Corp,10.12,10.13
 LNTH,Lantheus Holdings Inc,96.67,103.0
-LOKVU,Live Oak Acquisition V Units,11.5,12.23
 LPBBU,Launch Two Acquisition Units,10.64,10.74
 LVO,LiveOne Inc,5.84,6.94
 MACIU,Melar Acquisition I Units Exp 10th June 2029,10.86,12.5
 MBVIU,M3 Brigade Acquisition VI Units,10.2,10.25
+MLAA,Mountain Lake Acquisition II Corp,10.05,10.14
 MTVA,MetaVia Inc,1.62,3.85
-MUZEU,Muzero Acquisition Units,10.01,10.03
 NBRGU,Newbridge Acquisition Units,10.03,10.09
 NFBK,Northfield Bancorp Inc,14.18,14.17
 NHPAP,National Healthcare 7 375 Pref Shs Series A,21.73,22.4
@@ -71,7 +67,6 @@ NNNN,Anbio Biotechnology,29.98,32.52
 NPACU,New Providence Acquisition III Units,10.4,10.42
 NSTS,NSTS Bancorp Inc,13.65,13.84
 OLPX,Olaplex Holdings Inc,2.04,2.05
-ONCH,1RT Acquisition Corp,10.21,10.22
 OVBC,Ohio Valley Banc Corp,46.61,47.21
 PCAP,ProCap Acquisition Corp,10.25,10.26
 PDEX,Pro-Dex Inc,59.27,63.52
@@ -80,28 +75,21 @@ PKBK,Parke Bancorp Inc,30.86,31.49
 PLMKU,Plum Acquisition IV Units,10.7,10.88
 PYPD,PolyPid Ltd,4.74,5.02
 QUBT,Quantum Computing Inc,11.78,12.31
-RANGU,Range Capital Acquisition Units,10.82,11.86
 RELL,Richardson Electronics Ltd,17.5,17.55
 RFAIU,RF Acquisition II Units,10.84,11.03
 RGTI,Rigetti Computing Inc,20.51,26.42
 SFHG,Samfine Creation Holdings Group Ltd,2.58,2.53
-SIMAU,SM Acquisition Units,10.89,13.01
 SPEGU,Silver Pegasus Acquisition Units,10.35,10.75
 SRTA,Strata Critical Medical Inc,5.66,6.13
 STEX,Streamex Corp,1.18,1.28
-SUUN,PowerBank Corp,0.71,0.72
 SVACU,Spring Valley Acquisition III Units,11.09,11.25
-SVCC,Stellar V Capital Corp,10.5,10.51
 TACH,Titan Acquisition Corp,10.36,10.37
 TLSA,Tiziana Life Sciences Ltd,1.58,1.48
 TVAI,Thayer Ventures Acquisition II Corp,10.27,10.29
 TVAIU,Thayer Ventures Acquisition II Units,10.49,11.0
 UYSC,UY Scuti Acquisition Corp,10.66,10.68
-VNMEU,Vendome Acquisition I Units,10.26,10.28
 WETO,Wetour Robotics Ltd,0.6,1.07
-WHLRD,Wheeler Real Estate Investment Trust Cumulative Pref Shs Series D,36.93,39.0
 WKEY,Wisekey International Holding AG ADR,9.63,10.58
-WTGUU,Wintergreen Acquisition Units,11.12,12.25
 WW,WW International Inc,11.9,12.79
 XCBEU,X3 Acquisition Units,10.02,10.13
 YHNAU,YHN Acquisition I Units,11.1,11.5
