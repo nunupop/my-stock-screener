@@ -1,167 +1,130 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AACBU,Artius II Acquisition Units,10.53,10.87
-ADAC,American Drive Acquisition Co,9.94,10.0
-ADAMI,Adamas 9 125 Senior Notes Due 2029,25.46,25.5
-ADBE,Adobe Inc,256.51,274.03
-AEAQU,Activate Energy Acquisition Units,10.08,10.15
-AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.07,25.12
-AIRJ,Airjoule Technologies Corp,4.37,5.2
-ALAR,Alarum Technologies Ltd ADR,8.29,9.21
-ALDFU,Aldel Financial II Units,10.78,11.5
-ALFUU,Centurion Acquisition Units Expiry 22nd May 2029,10.8,10.9
-ALNT,Allient Inc,78.0,83.08
-ALOT,AstroNova Inc,14.66,15.57
-ANY,Sphere 3D Corp,2.43,4.02
-API,Agora Inc ADR,4.28,4.75
-APPN,Appian Corp,23.76,27.77
-APPS,Digital Turbine Inc,4.55,9.3
-APXTU,Apex Treasury Units,10.15,10.17
-ARBE,Arbe Robotics Ltd,1.19,1.25
+AACBU,Artius II Acquisition Units,10.53,10.88
+ACGCU,ACP Holdings Acquisition Units,10.01,10.08
+ADAC,American Drive Acquisition Co,9.95,10.0
+AIRG,Airgain Inc,7.25,7.39
+AIRJ,Airjoule Technologies Corp,4.37,5.48
+AISP,Airship AI Holdings Inc,2.66,3.16
+ALAR,Alarum Technologies Ltd ADR,8.29,10.02
+ALISU,Calisa Acquisition Units,10.6,10.62
+ALOVU,Aldabra 4 Liquidity Opportunity Vehicle Units,10.05,10.07
+ANY,Sphere 3D Corp,2.43,3.91
+API,Agora Inc ADR,4.28,5.26
+APPN,Appian Corp,23.76,26.69
 ARCI,Archimedes Tech SPAC Partners III Co,9.96,9.98
-AREC,American Resources Corp,2.45,2.58
-ARM,Arm Holdings PLC ADR,306.51,408.85
-ASUR,Asure Software Inc,9.33,9.66
-ATLCZ,Atlanticus Holding 9 25 Senior Notes due 2029,25.55,25.71
-AXIN,Axiom Intelligence Acquisition Corp 1,10.22,10.39
-AXINU,Axiom Intelligence Acquisition 1 Units,10.32,11.17
-BACCU,Blue Acquisition Units,10.55,10.64
-BCBP,BCB Bancorp Inc,10.43,11.44
-BEAGU,Bold Eagle Acquisition Units,10.79,10.9
-BLFS,BioLife Solutions Inc,24.74,26.63
-BLIN,Bridgeline Digital Inc,1.05,1.26
-BPACU,Blueport Acquisition Units,10.25,10.7
-BRZE,Braze Inc,24.35,28.27
+ASTI,Ascent Solar Technologies Inc,5.64,8.86
+ATLO,Ames National Corp,28.91,29.06
+AVGO,Broadcom Inc,439.79,481.57
+AXIN,Axiom Intelligence Acquisition Corp 1,10.35,10.42
+AXINU,Axiom Intelligence Acquisition 1 Units,10.77,11.12
+BBCQ,Bleichroeder Acquisition Corp II,10.71,10.82
+BEAG,Bold Eagle Acquisition Corp,10.6,10.69
+BJDX,Bluejay Diagnostics Inc,2.0,4.34
+BKHAU,Black Hawk Acquisition Units,11.9,12.15
+BLFS,BioLife Solutions Inc,24.74,27.49
+BLRKU,Bluerock Acquisition Units,10.03,10.09
+BPACU,Blueport Acquisition Units,10.25,10.6
+BSBK,Bogota Financial Corp,8.57,9.06
+BTOC,Armlogi Holding Corp,0.33,0.36
+CBK,Commercial BancGroup Inc,29.18,29.69
 CCAQU,Collective Acquisition Units,10.45,11.0
-CCEC,Capital Clean Energy Carriers Corp,22.31,23.1
-CCII,Cohen Circle Acquisition Corp II,10.26,10.28
+CCEC,Capital Clean Energy Carriers Corp,22.31,23.09
 CCIIU,Cohen Circle Acquisition II Units,10.4,10.45
-CDNS,Cadence Design Systems Inc,373.59,414.16
-CGNT,Cognyte Software Ltd,11.11,12.24
-CLBT,Cellebrite DI Ltd,13.81,15.87
-CNXN,PC Connection Inc,66.65,71.47
-CODA,Coda Octopus Group Inc,12.59,13.18
-CRDO,Credo Technology Group Holding Ltd,218.41,226.1
-CRESY,Cresud SACIF y A ADR,11.57,12.21
-CRSR,Corsair Gaming Inc,7.91,11.48
-DAAQ,Digital Asset Acquisition Corp,10.31,10.33
-DAIO,Data I/O Corp,3.2,4.26
-DCOY,Decoy Therapeutics Inc,7.3,8.36
-DOCU,DocuSign Inc,49.73,57.02
-DOMO,Domo Inc,3.98,4.53
-DPRO,Draganfly Inc,6.49,7.56
-DSGX,Descartes Systems Group Inc,76.91,79.85
-ELBM,Electra Battery Materials Corporation,0.68,0.7
-ENLT,Enlight Renewable Energy Ltd,93.77,105.22
-ENVX,Enovix Corp,7.29,8.58
-EQ,Equillium Inc,2.59,3.08
-EVGO,EVgo Inc,2.27,2.43
-EWTX,Edgewise Therapeutics Inc,38.01,40.26
-FBIOP,Fortress Biotech 9 375 Cumulative Redeemable Perpetual Pref Shs Series A,16.7,20.48
+CDIO,Cardio Diagnostics Holdings Inc,1.97,2.35
+CDRO,Codere Online Luxembourg SA,9.48,9.54
+CGTX,Cognition Therapeutics Inc,1.29,1.35
+CMII,Columbus Circle Capital Corp II,9.91,9.95
+CMIIU,Columbus Circle Capital II Units,10.1,10.12
+CNXN,PC Connection Inc,66.65,72.22
+COHU,Cohu Inc,51.28,57.59
+CRDO,Credo Technology Group Holding Ltd,221.64,229.0
+CRNT,Ceragon Networks Ltd,2.79,3.17
+CTRM,Castor Maritime Inc,2.14,2.35
+DMAAU,Drugs Made In America Acquisition Units,10.9,11.05
+DOO,Brp Inc,59.63,61.18
+DOYU,Douyu International Holdings Ltd ADR,5.05,5.3
+ELBM,Electra Battery Materials Corporation,0.66,0.74
+ELTK,Eltek Ltd,8.88,10.14
+EWTX,Edgewise Therapeutics Inc,38.01,37.25
+FBIOP,Fortress Biotech 9 375 Cumulative Redeemable Perpetual Pref Shs Series A,18.24,20.43
+FCCO,First Community Corp (South Carolina),30.69,30.71
 FGMC,FG Merger II Corp,10.33,10.4
-FITBI,Fifth Third Bancorp Depositary Shares Representing 1/1000th Perp Pref Shs,25.59,25.71
-FLXS,Flexsteel Industries Inc,56.89,58.06
-FOCL,Edap Tms SA ADR,4.42,4.78
-FONR,Fonar Corp,18.94,19.11
-FRSH,Freshworks Inc,9.2,10.68
-FVNNU,Future Vision II Acquisition Units,10.89,11.19
-GCBC,Greene County Bancorp Inc,25.08,26.24
-GECC,Great Elm Capital Corp,6.19,6.5
-GIX,GigCapital9 Corp,9.91,9.91
-GLSI,Greenwich Lifesciences Inc,27.65,28.51
-GREE,Greenidge Generation Holdings Inc,1.49,1.67
-GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,21.3,21.92
-GRRR,Gorilla Technology Group Inc,15.43,21.14
-GTLB,GitLab Inc,26.73,33.79
-HCAC,Hall Chadwick Acquisition Corp,10.01,10.06
-HCACU,Hall Chadwick Acquisition Units,10.35,10.37
-HIVE,HIVE Digital Technologies Ltd,4.07,4.76
+FIGXU,FIGX Capital Acquisition Units,10.19,10.27
+FNWB,First Northwest Bancorp,10.25,10.3
+FONR,Fonar Corp,18.94,19.09
+FRHC,Freedom Holding Corp,155.42,157.84
+FRST,Primis Financial Corp,14.84,14.89
+FSBC,Five Star Bancorp,42.35,42.82
+GHRS,GH Research PLC,23.15,24.87
+GRRR,Gorilla Technology Group Inc,16.46,21.78
+GTLB,GitLab Inc,26.77,31.82
 HSPTU,Horizon Space Acquisition II Units,10.35,12.3
-IAC,IAC Inc,45.2,45.38
 IEAGU,Infinite Eagle Acquisition Units,10.25,10.3
-IGAC,Invest Green Acquisition Corp,9.99,10.01
-IMMR,Immersion Corp,6.68,6.72
-IRIX,IRIDEX Corp,1.09,1.11
-ITRN,Ituran Location and Control Ltd,60.98,65.94
-KCHV,Kochav Defense Acquisition Corp,10.33,10.34
-KTCC,Key Tronic Corp,3.39,3.97
+IMMR,Immersion Corp,6.68,6.91
+IPEXU,Inflection Point Acquisition V Units,10.99,11.0
+IPM,Intelligent Protection Management Corp,1.99,2.05
+IRIX,IRIDEX Corp,1.09,1.17
+ITRN,Ituran Location and Control Ltd,61.39,66.37
+KRAQ,KRAKacquisition Corp,9.94,9.95
+KTCC,Key Tronic Corp,3.39,4.01
+LAB,Standard BioTools Inc,1.09,1.16
 LAFA,LaFayette Acquisition Corp,10.05,10.1
+LASE,Laser Photonics Corp,1.01,2.42
 LATAU,Galata Acquisition II Units,10.05,10.17
-LCUT,Lifetime Brands Inc,8.83,9.34
-LFVN,LifeVantage Corp,6.0,9.43
-LILA,Liberty Latin America Ltd Class A,7.85,8.03
-LIND,Lindblad Expeditions Holdings Inc,21.7,22.96
-LSTA,Lisata Therapeutics Inc,3.42,3.58
-LYFT,Lyft Inc,14.75,14.86
-MDB,MongoDB Inc,334.68,403.88
-MDRR,Medalist Diversified  Inc,11.78,12.08
-METCB,Ramaco Resources Inc Class B,11.01,11.8
-MLACU,Mountain Lake Acquisition Units,10.69,16.35
-MNDY,monday.com Ltd,79.15,95.47
-MTLS,Materialise NV ADR,5.9,6.86
-MYPS,PLAYSTUDIOS Inc,0.51,0.55
-NBRGU,Newbridge Acquisition Units,10.09,10.12
-NCI,Neo-Concept International Group Holdings Ltd,9.47,9.94
-NHIC,NewHold Investment Corp III,10.59,11.44
-NRC,NRC Health,19.26,20.25
-NSYS,Nortech Systems Inc,15.38,17.66
-NTSK,Netskope Inc,11.75,12.86
+LEGN,Legend Biotech Corp ADR,29.53,36.28
+LFACU,Leapfrog Acquisition Units,10.09,10.1
+LFCR,Lifecore Biomedical Inc,5.26,5.45
+LFVN,LifeVantage Corp,6.93,8.62
+LGCL,Lucas GC Ltd,2.07,2.1
+LGIH,LGI Homes Inc,48.97,49.82
+LOBO,Lobo Technologies Ltd,0.75,0.88
+LOKV,Live Oak Acquisition Corp V,10.53,10.55
+METCI,Ramaco Resources 8 250 Senior Notes due 2030,25.31,25.29
+MRVL,Marvell Technology Inc,208.26,290.79
+NBRG,Newbridge Acquisition Ltd,9.96,9.97
+NBRGU,Newbridge Acquisition Units,10.09,10.22
+NCI,Neo-Concept International Group Holdings Ltd,9.47,10.98
+NODK,NI Holdings Inc,14.01,14.48
+NSYS,Nortech Systems Inc,15.38,17.38
+NTSK,Netskope Inc,12.12,12.09
+NXPL,NextPlat Corp,7.15,7.79
+OCC,Optical Cable Corp,13.62,15.65
 OIM,OneIM Acquisition Corp,10.05,10.09
-OKTA,Okta Inc,92.24,139.79
-OPRA,Opera Ltd ADR,18.91,19.31
-ORKT,Orangekloud Technology Inc,1.12,1.29
-OSPN,OneSpan Inc,13.12,15.54
+OKTA,Okta Inc,93.81,135.32
+OPXS,Optex Systems Holdings Inc,11.75,11.95
+ORKT,Orangekloud Technology Inc,1.12,1.4
 OTGAU,OTG Acquisition I Units,10.3,10.31
-PAMT,PAMT Corp,12.23,13.71
-PAYS,Paysign Inc,6.86,7.75
-PBFS,Pioneer Bancorp Inc,14.97,16.36
-PCAP,Procap Acquisition Corp,10.26,10.28
+OYSEU,Oyster Enterprises II Acquisition Units,10.31,11.0
+PARK,Park Dental Partners Inc,18.96,19.96
+PAYO,Payoneer Global Inc,5.2,5.35
 PCTTU,PureCycle Technologies Units,6.2,15.49
-PDLB,Ponce Financial Group Inc,18.61,18.84
-PENN,PENN Entertainment Inc,18.0,20.24
-PGACU,Pantages Capital Acquisition Units,10.53,11.0
-PLCE,Children's Place Inc,3.76,4.43
-PMTR,Perimeter Acquisition I Corp,10.4,10.45
-PRGS,Progress Software Corp,31.32,35.32
-PTORU,Praetorian Acquisition Units,10.05,10.1
-PURR,Hyperliquid Strategies Inc,8.48,10.87
-PYPD,PolyPid Ltd,5.02,5.07
-QFIN,Qfin Holdings Inc ADR,14.01,16.91
-QMCO,Quantum Corp,10.03,10.49
-QRHC,Quest Resource Holding Corp,1.15,1.36
-QSEA,Quartzsea Acquisition Corp,10.46,10.49
-RILYG,BRC Group Holdings 5 00 Senior Notes due 2026,24.48,24.62
-RMNI,Rimini Street Inc,4.05,4.27
-RNW,Renew Energy Global PLC,5.92,6.52
-RVMD,Revolution Medicines Inc,153.73,163.68
-SAIC,Science Applications International Corp,100.01,115.08
-SAIL,SailPoint Inc,15.75,19.25
-SDGR,Schrodinger Inc,13.3,15.8
-SIEB,Siebert Financial Corp,1.9,1.86
+PGACU,Pantages Capital Acquisition Units,10.53,11.25
+PLBC,Plumas Bancorp,53.21,53.5
+PMTRU,Perimeter Acquisition I Units,10.75,10.77
+PRHI,Presurance Holdings Inc,5.35,5.71
+PURR,Hyperliquid Strategies Inc,8.48,10.97
+PUSA,Aureus Greenway Holdings Inc,5.03,6.4
+QMCO,Quantum Corp,10.03,12.54
+RBBN,Ribbon Communications Inc,3.06,3.34
+RFAIU,RF Acquisition II Units,11.03,11.99
+RGP,Resources Connection Inc,4.53,4.64
+RKTO,Rocket One Inc,0.81,2.22
+RZLT,Rezolute Inc,3.4,4.0
+SAIC,Science Applications International Corp,101.36,113.36
+SAIL,SailPoint Inc,15.87,19.84
+SCPQU,Social Commerce Partners Units,10.23,10.3
+SEVN,Seven Hills Realty Trust,8.53,8.65
 SIMAU,SM Acquisition Units,13.01,17.0
-SOCA,Solarius Capital Acquisition Corp,10.25,10.27
-SORNU,Soren Acquisition Units,10.0,10.04
-SPCB,Supercom Ltd,11.42,12.14
-SSAC,Spacsphere Acquisition Corp,9.96,9.98
-SSYS,Stratasys Ltd,9.25,10.69
-STGW,Stagwell Inc,7.19,7.39
-SUUN,PowerBank Corp,0.71,1.53
-SVCC,Stellar V Capital Corp,10.51,10.57
-SVCCU,Stellar V Capital Units,10.55,10.75
-TACH,Titan Acquisition Corp,10.37,10.43
-TACHU,Titan Acquisition Units,10.45,10.65
-TACO,Berto Acquisition Corp,10.45,10.53
-TEAM,Atlassian Corp,93.16,115.95
-TENB,Tenable Holdings Inc,25.5,29.32
-TIPT,Tiptree Inc,17.46,17.72
-TKNO,Alpha Teknova Inc,4.0,5.37
+SSAC,Spacsphere Acquisition Corp,9.97,9.99
+SSSS,SuRo Capital Corp,14.0,14.91
+SUUN,PowerBank Corp,0.78,1.44
+SVACU,Spring Valley Acquisition III Units,11.25,11.24
+THRM,Gentherm Inc,33.77,37.32
 TLNC,Talon Capital Corp,10.28,10.3
-TLS,Telos Corp,4.7,5.24
-TOMZ,TOMI Environmental Solutions Inc,0.82,1.06
-TRNS,Transcat Inc,81.76,88.09
-TTAN,ServiceTitan Inc,66.28,77.68
-TTRX,Turn Therapeutics Inc,5.13,6.33
-TVAI,Thayer Ventures Acquisition II Corp,10.27,10.31
-TVAIU,Thayer Ventures Acquisition II Units,10.49,12.2
-VMET,Versamet Royalties Corp,13.37,13.51
-WDAY,Workday Inc,130.88,157.23
+TOYO,TOYO Co.  Ltd,15.3,16.73
+UCTT,Ultra Clean Holdings Inc,87.46,90.21
+WENNU,WEN Acquisition Units,10.4,10.41
 WSTNU,Westin Acquisition Units,10.2,10.26
+WTG,Wintergreen Acquisition Corp,10.35,10.37
+XBIO,Xenetic Biosciences Inc,3.18,3.38
+ZJYL,Jin Medical International Ltd,2.5,3.25
