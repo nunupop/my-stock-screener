@@ -1,90 +1,72 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AAL,American Airlines Group Inc,14.92,15.46
-ACLS,Axcelis Technologies Inc,171.0,191.6
 ADAC,American Drive Acquisition Co,10.0,10.02
-ADAM,Adamas Trust Inc,9.2,9.28
-ADAMZ,Adamas 7 000 Fixed To Floating Rate Cumulative Redeemable Pref Shs Series G,18.85,19.03
-AGIO,Agios Pharmaceuticals Inc,30.42,31.82
-AHMA,Ambitions Enterprise Management Co LLC,1.76,1.93
-AKTS,Aktis Oncology Inc,20.74,20.69
-ALAR,Alarum Technologies Ltd ADR,10.11,10.64
-ALZN,Alzamend Neuro Inc,1.2,1.23
-ANGH,Anghami Inc,3.78,5.54
-ASYS,Amtech Systems Inc,22.82,22.78
-ATEX,Anterix Inc,67.95,83.01
-ATLC,Atlanticus Holdings Corp,90.0,95.06
-BANFP,BancFirst 7.2% Cumulative Pref Shs,26.46,26.75
-BATRK,Liberty Media Liberty Braves Ord Shs Series C,51.18,50.82
-BGM,BGM Group Ltd,0.34,0.46
-BTQ,BTQ Technologies Corp,4.83,5.35
-CAKE,Cheesecake Factory Inc,67.22,73.75
-CDRO,Codere Online Luxembourg SA,9.65,10.0
-CHEF,Chefs' Warehouse Inc,81.71,94.06
-CLAR,Clarus Corp,3.11,3.12
-CNOB,ConnectOne Bancorp Inc,31.15,32.44
-CNVS,Cineverse Corp,2.66,2.96
+AHMA,Ambitions Enterprise Management Co LLC,1.76,2.69
+AKTS,Aktis Oncology Inc,20.74,22.63
+ALGM,Allegro Microsystems Inc,53.62,53.29
+AMKR,Amkor Technology Inc,77.22,86.55
+ANTX,AN2 Therapeutics Inc,4.89,4.76
+ATLC,Atlanticus Holdings Corp,90.0,96.24
+BMHL,Bluemount Holdings Ltd,5.45,6.05
+BWB,Bridgewater Bancshares Inc,19.58,19.95
+BWEN,Broadwind Inc,4.52,4.78
+CABR,Caring Brands Inc,1.3,1.33
+CDRO,Codere Online Luxembourg SA,9.7,9.8
+CLAR,Clarus Corp,3.11,3.08
+CNVS,Cineverse Corp,2.66,3.06
 CRAC,Crown Reserve Acquisition Corp. I,10.11,10.12
-CRACU,Crown Reserve Acquisition I Units,10.22,10.23
-CUPR,Cuprina Holdings (Cayman) Ltd,3.3,8.41
-DAVE,Dave Inc,282.56,308.75
-DLTH,Duluth Holdings Inc,4.31,4.74
-EDRY,EuroDry Ltd,23.59,25.06
-ELVN,Enliven Therapeutics Inc,43.56,42.36
-ENTG,Entegris Inc,155.86,162.89
-FLL,Full House Resorts Inc,3.0,3.04
-FNRN,First Northern Community Bancorp,17.85,18.03
-FRD,Friedman Industries Inc,24.66,34.87
-FTDR,Frontdoor Inc,67.92,69.79
-FULT,Fulton Financial Corp,22.05,22.9
-FVN,Future Vision II Acquisition Corp,10.85,10.94
-GELS,Gelteq Ltd,0.6,1.16
-GLBS,Globus Maritime Ltd,2.2,2.74
-GLXG,Galaxy Payroll Group Ltd,1.45,1.88
-GP,GreenPower Motor Company Inc,1.16,1.26
-GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,21.92,22.41
-GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,21.92,22.41
-HOFT,Hooker Furnishings Corp,13.44,16.05
-IMTE,Integrated Media Technology Ltd,0.56,0.61
-IPCX,Inflection Point Acquisition Corp III,10.32,10.33
-IRHOU,Iron Horse Acquisition II Units,10.2,10.22
-JRSH,Jerash Holdings (US) Inc,3.51,3.75
-KTWOU,K2 Capital Acquisition Units,10.3,10.43
-LARK,Landmark Bancorp Inc,28.63,29.57
-LPAAU,Launch One Acquisition Units,10.74,10.85
-MAAS,Maase Inc,11.89,15.11
-MGNI,Magnite Inc,15.38,16.75
-MMTX,Miluna Acquisition Corp,10.09,10.1
-MODD,Modular Medical Inc,5.18,5.26
-MRDN,Meridian Holdings Inc,13.44,14.69
-MTEN,Mingteng International Corp Inc,1.94,3.39
-NDSN,Nordson Corp,289.9,292.24
-NIXX,Nixxy Inc,0.89,0.87
-NMP,Nmp Acquisition Corp,10.24,10.25
-NODK,NI Holdings Inc,15.04,15.58
-NXTT,Next Technology Holding Inc,1.65,1.7
-OFS,OFS Capital Corp,3.98,4.05
-OTGAU,OTG Acquisition I Units,10.32,10.34
-PAYO,Payoneer Global Inc,5.43,7.03
-PGAC,Pantages Capital Acquisition Corp,10.58,10.59
-PLBL,Polibeli Group Ltd,7.4,8.72
+CVBF,CVB Financial Corp,20.78,21.24
+DGICB,Donegal Group Inc Class B,19.72,23.69
+DSAC,Daedalus Special Acquisition Corp,10.05,10.07
+ELVN,Enliven Therapeutics Inc,43.56,42.55
+ELVR,Elevra Lithium Ltd ADR,98.8,90.77
+FITBI,Fifth Third Bancorp Depositary Shares Representing 1/1000th Perp Pref Shs,25.73,25.72
+FMAO,Farmers & Merchants Bancorp Inc,28.54,28.87
+FNRN,First Northern Community Bancorp,17.85,18.21
+FRBA,FIRST BANK (Hamilton),16.2,16.77
+FVN,Future Vision II Acquisition Corp,10.86,10.93
+GEG,Great Elm Group Inc,2.28,2.35
+HCIC,Hennessy Capital Investment Corp. VIII,9.91,9.93
+HOFT,Hooker Furnishings Corp,13.44,15.21
+HQ,Horizon Quantum Holdings Ltd,13.9,18.7
+HURC,Hurco Companies Inc,21.51,22.06
+IPCX,Inflection Point Acquisition Corp III,10.33,10.34
+ITIC,Investors Title Co,247.82,254.02
+KLIC,Kulicke and Soffa Industries Inc,108.57,117.27
+LKSPU,Lake Superior Acquisition Units,10.24,10.28
+LPAAU,Launch One Acquisition Units,10.74,10.81
+LPRO,Open Lending Corp,2.48,3.11
+MAAS,Maase Inc,11.89,15.88
+MFIN,Medallion Financial Corp,9.85,9.87
+MGNI,Magnite Inc,15.81,18.55
+MODD,Modular Medical Inc,5.18,4.91
+MRNA,Moderna Inc,54.35,55.4
+NEXN,Nexxen International Ltd,8.7,8.75
+OBAI,Our Bond  Inc,0.6,1.11
+PAYO,Payoneer Global Inc,6.39,7.02
+PLBL,Polibeli Group Ltd,7.4,7.56
+PRCH,Porch Group Inc,11.28,11.4
+PULM,Pulmatrix Inc,1.42,1.49
+QRHC,Quest Resource Holding Corp,1.4,1.45
 QUMS,Quantumsphere Acquisition Corp,10.23,10.23
-RBB,RBB Bancorp,24.3,25.0
-RMIX,Suncrete  Inc,18.68,22.76
-ROKU,Roku Inc,131.91,140.9
-RUSHB,Rush Enterprises Inc Class B,68.66,70.75
-SENEA,Seneca Foods Corp Class A,147.82,167.31
+RAIL,FreightCar America Inc,8.37,8.79
+RBB,RBB Bancorp,24.5,25.71
+RBKB,Rhinebeck Bancorp Inc,16.5,17.0
+RFAI,RF Acquisition Corp II,11.01,11.02
+RMIX,Suncrete  Inc,18.71,23.2
+ROKU,Roku Inc,131.91,137.95
+RRGB,Red Robin Gourmet Burgers Inc,5.16,6.05
+SCPQU,Social Commerce Partners Units,10.33,10.36
 SENEB,Seneca Foods Corp Class B,145.75,160.99
-SFIX,Stitch Fix Inc,3.71,4.23
-SNEX,StoneX Group Inc,121.92,135.73
-SPKL,Spark I Acquisition Corp,12.44,13.69
-TRIP,Tripadvisor Inc,12.1,12.56
-USEA,United Maritime Corp,2.6,2.7
-VECO,Veeco Instruments Inc,63.66,83.04
-VRXA,Veraxa Biotech AG,13.08,21.26
-VSME,VS Media Holdings Ltd,1.05,3.25
-WABC,Westamerica Bancorp,56.58,57.64
-WHLRP,Wheeler Real Estate Investment Trust Series B Conv Prf Shs,8.5,8.91
-WSBC,WesBanco Inc,35.36,36.08
-XOMAO,Xoma Royalty Depository Shares Series B,25.37,25.4
-YB,Yuanbao Inc ADR,15.85,15.82
-YSXT,YSX Tech Co Ltd,1.12,1.26
+SLP,Simulations Plus Inc,17.73,18.24
+SNEX,StoneX Group Inc,122.09,131.9
+STX,Seagate Technology Holdings PLC,940.69,1031.34
+SVAQ,Silicon Valley Acquisition Corp,10.02,10.1
+SVAQU,Silicon Valley Acquisition Units,10.1,10.32
+TOP,TOP Financial Group Ltd,1.09,1.26
+TRVI,Trevi Therapeutics Inc,15.27,15.4
+VALU,Value Line Inc,34.74,35.18
+VNCE,Vince Holding Corp,5.57,6.95
+WDC,Western Digital Corp,594.11,681.08
+WWD,Woodward Inc,382.42,421.54
+XOMAO,Xoma Royalty Depository Shares Series B,25.4,25.4
+ZSQR,Z Squared Inc (Delaware),13.99,14.87
