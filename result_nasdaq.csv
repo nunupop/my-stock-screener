@@ -1,101 +1,103 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABEO,Abeona Therapeutics Inc,5.82,6.18
-ACRS,Aclaris Therapeutics Inc,4.92,5.29
-ADAG,Adagene Inc ADR,4.0,4.2
-ADSE,ADS-TEC Energy PLC,11.94,12.75
-AEAQU,Activate Energy Acquisition Units,10.15,10.16
-AIRT,Air T Inc,23.13,26.5
-ARCI,Archimedes Tech SPAC Partners III Co,9.99,10.01
-ARCIU,Archimedes Tech SPAC Partners III Units,10.15,10.19
-ASPS,Altisource Portfolio Solutions SA,7.02,7.5
-ASTH,Astrana Health Inc,41.2,46.41
-ATEX,Anterix Inc,83.01,102.94
-BELFA,Bel Fuse Inc Class A,270.52,291.23
-BELFB,Bel Fuse Inc Class B,304.33,333.04
-BOTJ,Bank of The James Financial Group  Inc,24.99,25.52
-BTSGU,BrightSpring Health Services Units,222.51,228.95
-BUUU,BUUU Group Ltd,20.88,23.02
-CCCC,C4 Therapeutics  Inc,4.38,4.67
-CCIX,Churchill Capital Corp IX,10.83,10.89
-CCXI,Churchill Capital Corp XI,10.42,17.45
-CCXIU,Churchill Capital XI Units,10.67,18.08
-CEPF,Cantor Equity Partners IV Inc,10.38,10.4
-CFBK,CF Bankshares Inc,31.26,32.77
-CGNX,Cognex Corp,68.33,72.42
-CLDX,Celldex Therapeutics Inc,33.41,37.21
-COGT,Cogent Biosciences Inc,36.31,38.7
-COYA,Coya Therapeutics Inc,5.39,5.85
-CRAQ,Cal Redwood Acquisition Corp,10.29,10.3
-CREX,Creative Realities Inc,4.03,4.13
-CSTE,Caesarstone Ltd,1.97,2.1
-CTAAU,ClearThink 1 Acquisition Units,10.06,10.08
-CUE,Cue Biopharma Inc,30.73,31.56
-DGII,Digi International Inc,69.82,74.95
-DRTS,Alpha Tau Medical Ltd,11.18,12.58
-DSAC,Daedalus Special Acquisition Corp,10.07,10.09
+ABEO,Abeona Therapeutics Inc,5.82,6.05
+ABVC,ABVC Biopharma Inc,1.44,1.77
+ACAA,Averin Capital Acquisition Corp,10.0,10.03
+ADAC,American Drive Acquisition Co,10.03,10.04
+ADAG,Adagene Inc ADR,4.25,4.78
+ADSE,ADS-TEC Energy PLC,11.94,12.43
+ADV,Advantage Solutions Inc,43.67,44.21
+AFYA,Afya Ltd,14.69,15.0
+ALDX,Aldeyra Therapeutics Inc,2.05,2.43
+ALIS,Calisa Acquisition Corp,10.15,10.16
+ALT,Altimmune Inc,3.07,3.15
+ANIX,Anixa Biosciences Inc,2.91,3.14
+ARCI,Archimedes Tech SPAC Partners III Co,9.99,10.04
+ASTH,Astrana Health Inc,42.27,49.81
+ATHR,Aether Holdings Inc,3.8,4.87
+BACC,Blue Acquisition Corp,10.48,10.83
+BELFA,Bel Fuse Inc Class A,270.52,281.67
+BIVI,BioVie Inc,1.94,2.18
+BOF,BranchOut Food Inc,4.5,5.09
+BOTJ,Bank of The James Financial Group  Inc,24.99,25.92
+BPRN,Princeton Bancorp Inc,38.35,38.93
+BSVN,Bank7 Corp,46.93,50.12
+BYSI,Beyondspring Inc,1.74,1.85
+CABR,Caring Brands Inc,1.33,1.42
+CAPN,Cayson Acquisition Corp,11.03,11.06
+CASH,Pathward Financial Inc,86.45,89.69
+CCC,CCC Intelligent Solutions Holdings Inc,5.14,5.38
+CCIX,Churchill Capital Corp IX,10.88,10.9
+CCXI,Churchill Capital Corp XI,11.99,17.06
+CEPF,Cantor Equity Partners IV Inc,10.38,10.41
+CREX,Creative Realities Inc,4.03,4.08
+CRWS,Crown Crafts Inc,2.9,2.97
+CSTE,Caesarstone Ltd,1.97,2.19
+CXIIU,Churchill Capital XII Units,10.54,10.85
+DLO,Dlocal Ltd.,12.79,14.67
+DMAA,Drugs Made In America Acquisition Corp,10.64,10.64
 DSACU,Daedalus Special Acquisition Units,10.13,10.41
-DWSN,Dawson Geophysical Co,4.87,5.94
-EQ,Equillium Inc,3.17,3.2
-FCEL,Fuelcell Energy Inc,26.38,36.01
-FCNCN,First Ctzns Bancshares Del Dep Sh Repstg 1 40Th Int Non Cum Perp Pfd Ser E,25.18,25.55
-FDMT,4D Molecular Therapeutics Inc,11.6,13.3
-FERAU,Fifth Era Acquisition I Units,10.69,10.75
-FFIV,F5 Inc,409.13,415.96
-GANX,Gain Therapeutics Inc,2.02,2.03
+DSWL,Deswell Industries Inc,3.88,3.87
+DWSN,Dawson Geophysical Co,4.87,5.99
+DYAI,Dyadic International Inc,0.85,1.02
+EDUC,Educational Development Corp,1.53,1.54
+FBYD,Falcon's Beyond Global Inc,19.1,19.7
+FLYW,Flywire Corp,16.61,18.56
+FRAF,Franklin Financial Services Corp,63.11,63.84
+FVAV,Fortress Value Acquisition Corp V,10.15,10.2
+GH,Guardant Health Inc,136.96,170.77
 GIWWU,Gigcapital8 Units,10.32,10.37
-GMAB,Genmab A/S ADR,27.21,27.47
 GPACU,General Purpose Acquisition Units,10.09,10.1
-GSHR,Gesher Acquisition II Corp,10.41,10.43
 GTENU,Gores Holdings X Units,10.55,10.6
-IGIC,International General Insurance Holdings Ltd,25.91,26.17
-IKT,Inhibikase Therapeutics Inc,1.87,2.03
+GTIM,Good Times Restaurants Inc,1.38,1.45
+HACQU,HCM IV Acquisition Units,10.12,10.14
+HCICU,Hennessy Capital Investment VIII Units,10.1,10.11
+ICCC,ImmuCell Corp,10.63,11.0
+ICHR,Ichor Holdings  Ltd,99.61,111.77
+ICU,SeaStar Medical Holding Corp,3.97,4.86
 ILLUU,Illumination Acquisition I Units,10.02,10.05
-INNV,InnovAge Holding Corp,9.32,11.85
-JACK,Jack in the Box Inc,13.48,15.81
-JATT,JATT II Acquisition Corp,10.99,11.36
-KOD,Kodiak Sciences Inc,37.41,38.96
-KRAQU,KRAKacquisition Units,10.1,10.14
-KYIV,Kyivstar Group Ltd,14.51,16.17
-LOAN,Manhattan Bridge Capital Inc,4.44,4.52
-LPBBU,Launch Two Acquisition Units,10.74,10.86
-MDLN,Medline Inc,37.7,39.44
-MESH,Meshflow Acquisition Corp,10.0,10.01
-MGEE,MGE Energy Inc,77.73,81.54
-MGTX,MeiraGTx Holdings PLC,11.81,13.51
-MPB,Mid Penn Bancorp Inc,34.26,34.84
-NEOV,NeoVolta Inc,3.07,3.15
-NNBR,NN Inc,3.14,3.59
-ONCH,1rt Acquisition Corp,10.24,10.25
-PBYI,Puma Biotechnology Inc,8.04,8.11
-PGY,Pagaya Technologies Ltd,15.75,18.25
-PHVS,Pharvaris NV,33.41,34.58
-PMN,ProMIS Neurosciences Inc,10.98,13.16
-PROK,Prokidney Corp,1.9,2.04
-PYXS,Pyxis Oncology Inc,2.13,3.01
-QLYS,Qualys Inc,114.65,137.49
-RZLV,Rezolve AI PLC,2.98,3.15
-SDHIU,Siddhi Acquisition Units,10.64,10.89
-SLS,Sellas Life Sciences Group Inc,9.31,14.76
-SNOA,Sonoma Pharmaceuticals Inc,1.21,1.23
-SOPH,Sophia Genetics SA,5.46,5.77
-SOTK,Sono-Tek Corp,5.6,6.12
-SSM,Sono Group NV,4.27,4.35
-STOK,Stoke Therapeutics Inc,31.61,32.72
-SUMA,SUMA Acquisition Corp,9.88,9.89
+IRHOU,Iron Horse Acquisition II Units,10.22,10.23
+ITIC,Investors Title Co,264.64,279.39
+JACK,Jack in the Box Inc,13.48,17.41
+JATT,JATT II Acquisition Corp,10.99,11.49
+JCTC,Jewett-Cameron Trading Company Ltd,2.47,2.49
+KARO,Karooooo Ltd,50.38,50.6
+KINS,Kingstone Companies Inc,17.51,19.69
+KMTS,Kestra Medical Technologies Ltd,22.08,26.28
+KPLT,Katapult Holdings Inc,6.55,7.3
+KYIV,Kyivstar Group Ltd,14.52,15.91
+LIXT,Lixte Biotechnology Holdings Inc,7.61,7.67
+LKFT,Lakefront Biotherapeutics NV ADR,29.05,29.6
+MESH,Meshflow Acquisition Corp,10.0,10.02
+MNOV,MediciNova Inc,1.4,1.42
+MYFW,First Western Financial Inc,30.99,33.45
+NATR,Nature's Sunshine Products Inc,21.93,21.95
+NCEL,NewcelX AG,3.59,3.85
+NGNE,Neurogene Inc,32.25,33.88
+NNBR,NN Inc,3.14,3.99
+NOMA,Nomadar Corp,3.88,4.24
+NPAC,New Providence Acquisition Corp III,10.38,10.38
+ONCH,1rt Acquisition Corp,10.24,10.3
+ONCHU,1RT Acquisition Units,10.37,10.42
+OPRA,Opera Ltd ADR,19.32,20.05
+OYSE,Oyster Enterprises II Acquisition Corp,10.29,10.31
+PESI,Perma-Fix Environmental Services Inc,11.09,15.3
+PMN,ProMIS Neurosciences Inc,10.98,13.45
+PRGS,Progress Software Corp,35.32,39.16
+QSEA,Quartzsea Acquisition Corp,10.52,10.55
+REAX,Real Brokerage Inc,1.82,1.98
+RGNX,Regenxbio Inc,9.97,13.09
+RZLV,Rezolve AI PLC,2.98,3.08
+SCPQ,Social Commerce Partners Corp,9.98,9.99
+SLDE,Slide Insurance Holdings Inc,18.69,19.99
+STGW,Stagwell Inc,7.39,7.58
+STRZ,Starz Entertainment Corp,28.63,30.21
 SZZLU,Sizzle Acquisition II Units,10.46,10.5
-TAVI,Tavia Acquisition Corp,10.67,10.68
-TENB,Tenable Holdings Inc,30.9,36.88
-TPCS,TechPrecision Corp,4.0,5.24
-TRVG,Trivago NV ADR,4.82,5.47
-UEIC,Universal Electronics Inc,4.17,4.77
-VBNK,Versabank,20.2,23.21
-VSECU,Vse Corporation Tangible Equity Units,56.59,57.67
-VTVT,vTv Therapeutics Inc,36.6,37.65
-WHLRP,Wheeler Real Estate Investment Trust Series B Conv Prf Shs,9.5,10.0
-WTG,Wintergreen Acquisition Corp,10.4,10.41
-XHLD,TEN Holdings Inc,1.45,1.89
-XMTR,Xometry Inc,95.32,96.52
-XNCR,Xencor Inc,14.08,16.1
-ZD,Ziff Davis Inc,47.95,52.37
-ZKP,Lafayette Digital Acquisition Corp I,9.94,9.97
-ZYME,Zymeworks Inc,25.61,26.14
+TECX,Tectonic Therapeutic Inc,31.17,32.74
+TLNC,Talon Capital Corp,10.31,10.35
+TRGS,TRG Latin America Acquisitions Corp,9.9,9.95
+TRVG,Trivago NV ADR,5.14,5.42
+URGN,Urogen Pharma Ltd,35.42,37.94
+VBNK,Versabank,20.2,23.72
+WFCF,Where Food Comes From Inc,12.93,14.72
+WING,Wingstop Inc,166.22,174.97
+ZBIO,Zenas Biopharma Inc,21.8,28.0
