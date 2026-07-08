@@ -1,69 +1,78 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABUS,Arbutus Biopharma Corp,4.68,5.18
-ABVC,ABVC Biopharma Inc,1.57,2.02
-AGRZ,Agroz Inc,0.36,0.38
-ALGS,Aligos Therapeutics Inc,5.79,6.09
-ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc,9.96,10.0
-BCAX,Bicara Therapeutics Inc,29.34,30.4
-BCRX,BioCryst Pharmaceuticals Inc,10.0,10.99
-BDCI,BTC Development Corp,10.06,10.08
-BEAG,Bold Eagle Acquisition Corp,10.7,10.72
-BEAM,Beam Therapeutics Inc,35.53,37.92
+ABVC,ABVC Biopharma Inc,1.58,2.02
+ACOG,Alpha Cognition Inc,7.22,8.5
+ACRV,Acrivon Therapeutics Inc,1.78,2.04
+AEAQU,Activate Energy Acquisition Units,10.16,10.2
+AFBI,Affinity Bancshares Inc,22.6,22.63
+ANIK,Anika Therapeutics Inc,15.1,16.34
+ANNX,Annexon Inc,5.71,5.96
+ARTCU,Art Technology Acquisition Units,10.05,10.4
+BCTX,Briacell Therapeutics Corp,3.64,3.7
+BEAG,Bold Eagle Acquisition Corp,10.7,10.71
+BEAM,Beam Therapeutics Inc,35.53,36.88
+BFRI,Biofrontera Inc,1.08,1.14
 BIXI,Bitcoin Infrastructure Acquisition Corp Ltd,10.0,10.01
-BLIN,Bridgeline Digital Inc,1.26,1.29
-BVS,Bioventus Inc,9.78,11.49
-CARL,Carlsmed Inc,12.11,12.57
+BKYI,BIO-Key International Inc,4.75,5.31
+BPAC,Blueport Acquisition Ltd,10.12,10.14
+CBUS,Cibus Inc,1.5,1.82
+CCII,Cohen Circle Acquisition Corp II,10.35,10.36
+CEPF,Cantor Equity Partners IV Inc,10.4,10.43
 CEPV,Cantor Equity Partners V Inc,10.35,10.43
-CLRO,Clearone Inc,3.89,13.84
-CMMB,Chemomab Therapeutics Ltd ADR,2.07,2.77
-CRAN,Crane Harbor Acquisition Corp II,10.13,10.18
-CRNX,Crinetics Pharmaceuticals Inc,36.94,83.53
-CRTO,Criteo SA ADR,19.11,23.16
-CSTE,Caesarstone Ltd,2.17,2.41
+CLNE,Clean Energy Fuels Corp,2.11,2.24
+CRANU,Crane Harbor Acquisition II Units,10.3,10.39
+CRNX,Crinetics Pharmaceuticals Inc,37.42,83.49
+CRVS,Corvus Pharmaceuticals Inc,14.94,16.08
+CUE,Cue Biopharma Inc,31.56,35.35
 DAAQ,Digital Asset Acquisition Corp,10.39,10.41
-DBCA,D Boral Acquisition I Corp,10.0,10.01
 DBCAU,D Boral Acquisition I Units,10.21,10.26
-DMAA,Drugs Made In America Acquisition Corp,10.64,10.66
-DTIL,Precision BioSciences Inc,7.92,9.25
-DYAI,Dyadic International Inc,0.88,1.06
-EDUC,Educational Development Corp,1.54,1.57
+DMAA,Drugs Made In America Acquisition Corp,10.65,10.66
+DNMX,Dynamix Corp III,10.03,10.04
+DTIL,Precision BioSciences Inc,7.92,9.28
+DWSN,Dawson Geophysical Co,5.94,6.77
+EDUC,Educational Development Corp,1.54,1.58
 EMIS,Emmis Acquisition Corp,10.15,10.18
-FHTX,Foghorn Therapeutics Inc,4.86,6.0
-FVAV,Fortress Value Acquisition Corp V,10.15,10.15
-HDSN,Hudson Technologies Inc,5.88,6.33
-IGIC,International General Insurance Holdings Ltd,26.86,28.25
-IMCR,Immunocore Holdings PLC ADR,30.88,33.4
-IMMX,Immix Biopharma Inc,10.49,12.02
+ESPR,Esperion Therapeutics Inc,3.17,3.19
+FHTX,Foghorn Therapeutics Inc,4.88,6.17
+GAIN,Gladstone Investment Corp,16.01,16.36
+GMAB,Genmab A/S ADR,27.47,29.54
+GREE,Greenidge Generation Holdings Inc,1.79,2.07
+GSHD,Goosehead Insurance Inc,48.5,56.9
+GSRF,GSR IV Acquisition Corp,10.16,10.17
+HACQ,HCM IV Acquisition Corp,10.03,10.05
+HCICU,Hennessy Capital Investment VIII Units,10.1,10.22
+IEAG,Infinite Eagle Acquisition Corp,10.13,10.26
+IGIC,International General Insurance Holdings Ltd,26.86,28.2
+IRWD,Ironwood Pharmaceuticals Inc,4.3,4.77
 ITHAU,ITHAX Acquisition III Units,10.16,10.41
 KELYB,Kelly Services Inc Class B,21.08,23.61
-KRAQU,KRAKacquisition Units,10.1,10.29
-KURA,Kura Oncology Inc,11.25,11.99
 LFACU,Leapfrog Acquisition Units,10.1,10.15
-LFWD,Lifeward Ltd,7.95,8.45
-LOAN,Manhattan Bridge Capital Inc,4.49,4.69
-MGTX,MeiraGTx Holdings PLC,12.54,14.66
-MRKR,Marker Therapeutics Inc,1.57,1.68
-NAAS,NaaS Technology Inc ADR,3.18,3.49
-NKTX,Nkarta Inc,3.3,3.38
-NPACU,New Providence Acquisition III Units,10.43,10.45
+LSE,Leishen Energy Holding Co Ltd,4.6,4.74
+LZ,LegalZoom.com Inc,6.68,7.28
+MDIA,Mediaco Holding Inc,0.99,0.98
+MNPR,Monopar Therapeutics Inc,94.56,99.27
+MRKR,Marker Therapeutics Inc,1.57,1.61
+NCEL,NewcelX AG,3.69,4.23
+NCI,Neo-Concept International Group Holdings Ltd,11.47,11.96
 NTWO,Newbury Street II Acquisition Corp,10.67,10.73
-OMDA,Omada Health Inc,21.67,23.0
-PEPG,PepGen Inc,1.83,2.05
-PHOE,Phoenix Asia Holdings Ltd,17.96,24.56
-PMN,ProMIS Neurosciences Inc,10.98,13.55
-PROF,Profound Medical Corp,6.9,7.44
-PYXS,Pyxis Oncology Inc,2.86,3.07
+NVVE,Nuvve Holding Corp,0.43,8.49
+OIM,OneIM Acquisition Corp,10.09,10.19
+OLPX,Olaplex Holdings Inc,2.06,2.07
+OTGAU,OTG Acquisition I Units,10.35,10.4
+PENG,Penguin Solutions Inc,76.01,78.47
+PHVS,Pharvaris NV,34.71,35.92
+PMN,ProMIS Neurosciences Inc,13.16,13.78
+PRME,Prime Medicine  Inc,3.72,4.62
+PRPO,Precipio Inc,24.76,26.12
+RAPP,Rapport Therapeutics Inc,41.67,41.99
+SNDX,Syndax Pharmaceuticals Inc,21.86,24.56
 SSEA,Starry Sea Acquisition Corp,10.25,10.27
 SUMAU,SUMA Acquisition Units,10.15,10.25
-TACH,Titan Acquisition Corp,10.43,10.45
-TECX,Tectonic Therapeutic Inc,33.09,36.53
-TLIH,Ten-League International Holdings Ltd,4.81,4.98
-TLNC,Talon Capital Corp,10.31,10.37
-TNYA,Tenaya Therapeutics Inc,0.87,0.92
-TRVI,Trevi Therapeutics Inc,18.63,19.5
-TTRX,Turn Therapeutics Inc,6.93,9.71
-TVACU,Texas Ventures Acquisition III Units,10.68,10.9
-VANI,Vivani Medical Inc,1.32,1.35
-WENN,Wen Acquisition Corp,10.3,10.31
-WRAP,Wrap Technologies Inc,1.46,1.66
-XHLD,TEN Holdings Inc,1.64,2.13
+SUPN,Supernus Pharmaceuticals Inc,47.77,50.44
+TCRX,TScan Therapeutics Inc,1.08,1.26
+TTRX,Turn Therapeutics Inc,7.3,9.19
+TVA,Texas Ventures Acquisition III Corp,10.55,10.58
+TVACU,Texas Ventures Acquisition III Units,10.68,10.93
+VANI,Vivani Medical Inc,1.32,1.6
+XCBEU,X3 Acquisition Units,10.03,10.03
+XENE,Xenon Pharmaceuticals Inc,60.36,69.95
+XOMA,Xoma Royalty Corp,42.5,45.0
