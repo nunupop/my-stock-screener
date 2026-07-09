@@ -1,78 +1,60 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABVC,ABVC Biopharma Inc,1.58,2.02
-ACOG,Alpha Cognition Inc,7.22,8.5
-ACRV,Acrivon Therapeutics Inc,1.78,2.04
+ABEO,Abeona Therapeutics Inc,6.18,7.12
+ACRV,Acrivon Therapeutics Inc,1.78,2.05
+ADVB,Advanced Biomed Inc,5.17,5.32
 AEAQU,Activate Energy Acquisition Units,10.16,10.2
-AFBI,Affinity Bancshares Inc,22.6,22.63
-ANIK,Anika Therapeutics Inc,15.1,16.34
-ANNX,Annexon Inc,5.71,5.96
-ARTCU,Art Technology Acquisition Units,10.05,10.4
-BCTX,Briacell Therapeutics Corp,3.64,3.7
+AGRZ,Agroz Inc,0.38,0.43
+ARCI,Archimedes Tech SPAC Partners III Co,10.04,10.05
+BBIO,BridgeBio Pharma Inc,74.52,90.17
 BEAG,Bold Eagle Acquisition Corp,10.7,10.71
-BEAM,Beam Therapeutics Inc,35.53,36.88
-BFRI,Biofrontera Inc,1.08,1.14
-BIXI,Bitcoin Infrastructure Acquisition Corp Ltd,10.0,10.01
-BKYI,BIO-Key International Inc,4.75,5.31
-BPAC,Blueport Acquisition Ltd,10.12,10.14
-CBUS,Cibus Inc,1.5,1.82
-CCII,Cohen Circle Acquisition Corp II,10.35,10.36
-CEPF,Cantor Equity Partners IV Inc,10.4,10.43
-CEPV,Cantor Equity Partners V Inc,10.35,10.43
-CLNE,Clean Energy Fuels Corp,2.11,2.24
+BKYI,BIO-Key International Inc,4.75,5.01
+BRAG,Bragg Gaming Group Inc,1.76,1.85
+CBUS,Cibus Inc,1.5,1.9
+CNTB,Connect Biopharma Holdings Ltd,2.49,2.66
+CPBI,Central Plains Bancshares Inc,19.03,19.11
+CRACU,Crown Reserve Acquisition I Units,10.23,10.26
 CRANU,Crane Harbor Acquisition II Units,10.3,10.39
-CRNX,Crinetics Pharmaceuticals Inc,37.42,83.49
-CRVS,Corvus Pharmaceuticals Inc,14.94,16.08
-CUE,Cue Biopharma Inc,31.56,35.35
+CRAQU,Cal Redwood Acquisition Units,10.41,10.53
+CYCN,Cyclerion Therapeutics Inc,3.39,3.93
 DAAQ,Digital Asset Acquisition Corp,10.39,10.41
-DBCAU,D Boral Acquisition I Units,10.21,10.26
-DMAA,Drugs Made In America Acquisition Corp,10.65,10.66
-DNMX,Dynamix Corp III,10.03,10.04
-DTIL,Precision BioSciences Inc,7.92,9.28
-DWSN,Dawson Geophysical Co,5.94,6.77
-EDUC,Educational Development Corp,1.54,1.58
-EMIS,Emmis Acquisition Corp,10.15,10.18
+DWSN,Dawson Geophysical Co,5.99,7.17
+EDUC,Educational Development Corp,1.54,1.57
 ESPR,Esperion Therapeutics Inc,3.17,3.19
-FHTX,Foghorn Therapeutics Inc,4.88,6.17
-GAIN,Gladstone Investment Corp,16.01,16.36
-GMAB,Genmab A/S ADR,27.47,29.54
-GREE,Greenidge Generation Holdings Inc,1.79,2.07
-GSHD,Goosehead Insurance Inc,48.5,56.9
-GSRF,GSR IV Acquisition Corp,10.16,10.17
+FBIO,Fortress Biotech Inc,3.16,3.29
+FBRX,Forte Biosciences Inc,21.47,36.7
+GMAB,Genmab A/S ADR,27.64,29.78
+GPACU,General Purpose Acquisition Units,10.1,10.11
+GREE,Greenidge Generation Holdings Inc,1.79,2.16
+GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,22.5,24.0
+GTLB,GitLab Inc,33.79,33.86
 HACQ,HCM IV Acquisition Corp,10.03,10.05
 HCICU,Hennessy Capital Investment VIII Units,10.1,10.22
+ICCC,ImmuCell Corp,11.0,11.45
 IEAG,Infinite Eagle Acquisition Corp,10.13,10.26
-IGIC,International General Insurance Holdings Ltd,26.86,28.2
-IRWD,Ironwood Pharmaceuticals Inc,4.3,4.77
-ITHAU,ITHAX Acquisition III Units,10.16,10.41
-KELYB,Kelly Services Inc Class B,21.08,23.61
 LFACU,Leapfrog Acquisition Units,10.1,10.15
-LSE,Leishen Energy Holding Co Ltd,4.6,4.74
-LZ,LegalZoom.com Inc,6.68,7.28
-MDIA,Mediaco Holding Inc,0.99,0.98
-MNPR,Monopar Therapeutics Inc,94.56,99.27
-MRKR,Marker Therapeutics Inc,1.57,1.61
-NCEL,NewcelX AG,3.69,4.23
-NCI,Neo-Concept International Group Holdings Ltd,11.47,11.96
-NTWO,Newbury Street II Acquisition Corp,10.67,10.73
-NVVE,Nuvve Holding Corp,0.43,8.49
-OIM,OneIM Acquisition Corp,10.09,10.19
-OLPX,Olaplex Holdings Inc,2.06,2.07
-OTGAU,OTG Acquisition I Units,10.35,10.4
-PENG,Penguin Solutions Inc,76.01,78.47
-PHVS,Pharvaris NV,34.71,35.92
-PMN,ProMIS Neurosciences Inc,13.16,13.78
-PRME,Prime Medicine  Inc,3.72,4.62
-PRPO,Precipio Inc,24.76,26.12
-RAPP,Rapport Therapeutics Inc,41.67,41.99
-SNDX,Syndax Pharmaceuticals Inc,21.86,24.56
-SSEA,Starry Sea Acquisition Corp,10.25,10.27
+METCI,Ramaco Resources 8 250 Senior Notes due 2030,25.41,25.43
+MKTW,MarketWise Inc,19.14,19.67
+MNPR,Monopar Therapeutics Inc,95.03,104.5
+NCEL,NewcelX AG,3.85,4.13
+NEXN,Nexxen International Ltd,9.54,9.62
+OIM,OneIM Acquisition Corp,10.11,10.19
+OTGAU,OTG Acquisition I Units,10.35,10.36
+PCAP,Procap Acquisition Corp,10.28,10.3
+PENG,Penguin Solutions Inc,76.01,81.39
+PHAT,Phathom Pharmaceuticals Inc,11.0,12.16
+PHVS,Pharvaris NV,34.71,35.96
+PONOU,Pono Capital Four Units,10.3,10.31
+PROF,Profound Medical Corp,6.9,7.33
+PRPO,Precipio Inc,24.93,26.48
+PYPD,PolyPid Ltd,5.13,5.42
+SAIH,SAIHEAT Ltd,13.0,13.1
+SOCAU,Solarius Capital Acquisition Units,10.33,10.44
 SUMAU,SUMA Acquisition Units,10.15,10.25
-SUPN,Supernus Pharmaceuticals Inc,47.77,50.44
-TCRX,TScan Therapeutics Inc,1.08,1.26
-TTRX,Turn Therapeutics Inc,7.3,9.19
-TVA,Texas Ventures Acquisition III Corp,10.55,10.58
+TBBK,Bancorp Inc,64.54,66.54
+TRAX,First Tracks Biotherapeutics Inc,20.12,32.4
+TTRX,Turn Therapeutics Inc,7.3,8.81
 TVACU,Texas Ventures Acquisition III Units,10.68,10.93
-VANI,Vivani Medical Inc,1.32,1.6
-XCBEU,X3 Acquisition Units,10.03,10.03
-XENE,Xenon Pharmaceuticals Inc,60.36,69.95
-XOMA,Xoma Royalty Corp,42.5,45.0
+VSTM,Verastem Inc,4.33,5.4
+WRAP,Wrap Technologies Inc,1.48,2.36
+XHLD,TEN Holdings Inc,2.03,2.06
+XOMA,Xoma Royalty Corp,42.62,44.8
