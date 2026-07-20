@@ -1,50 +1,44 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACFN,Acorn Energy Inc,17.25,20.18
-ADAMN,Adamas 8 00 Fixed Floating Rate Cumulative Redeemable Pref Shs Series D,24.05,24.18
-BSVN,Bank7 Corp,51.75,50.96
-CCRN,Cross Country Healthcare Inc,13.22,13.24
-CHMG,Chemung Financial Corp,76.28,75.95
-CHRW,CH Robinson Worldwide Inc,193.74,208.5
-CJMB,Callan JMB Inc,0.83,1.22
-CLBK,Columbia Financial Inc,21.47,23.42
-CLMT,Calumet Inc,39.47,42.83
-CLST,Catalyst Bancorp Inc,17.0,17.28
-CRDL,Cardiol Therapeutics Inc,1.15,1.21
-DCBO,Docebo Inc,18.81,20.38
-DSGR,Distribution Solutions Group Inc,28.61,34.5
-EA,Electronic Arts Inc,206.56,208.9
-ETON,Eton Pharmaceuticals Inc,38.02,42.32
-FFBC,First Financial Bancorp,34.67,35.72
-FIVE,Five Below Inc,201.97,202.63
-FMST,Foremost Clean Energy Ltd,1.78,1.93
-FSLY,Fastly Inc,20.33,20.72
-GHRS,GH Research PLC,28.49,28.71
-GOODN,Gladstone Coml Pref Shs Series E,22.78,23.0
-GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,20.28,20.5
-GPRE,Green Plains Inc,16.89,19.23
+ACGLN,Arch Capital Group Depositary Shares Rep1000 Non Cumu Pref Shs Series G,16.36,16.46
+ACGLO,Acrh Cap Group 1000 Dep Shs Repstg Non Cumulative Pref Shs Series F,19.45,19.58
+ADVB,Advanced Biomed Inc,5.35,8.9
+AEBI,Aebi Schmidt Holding AG,13.2,12.75
+AFBI,Affinity Bancshares Inc,22.68,22.79
+AGPU,Axe Compute Inc,8.41,8.71
+ANL,Adlai Nortye Ltd ADR,11.5,11.98
+BLBD,Blue Bird Corp,79.6,81.5
+BWAY,Brainsway Ltd ADR,16.02,16.5
+CCRN,Cross Country Healthcare Inc,13.22,13.25
+CLBK,Columbia Financial Inc,21.47,24.5
+CNSP,CNS Pharmaceuticals Inc,5.4,5.5
+COAG,Hemab Therapeutics Holdings Inc,39.51,49.39
+DCBO,Docebo Inc,19.09,19.48
+DPZ,Domino's Pizza Inc,323.88,328.97
+GEVO,Gevo Inc,1.63,1.72
+GOODN,Gladstone Coml Pref Shs Series E,22.78,23.12
+GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,24.19,24.55
 GTERA,Globa Terra Acquisition Corp,10.34,10.35
-HIT,Health In Tech Inc,1.09,1.13
-INAC,Indigo Acquisition Corp,10.28,10.28
-IPCX,Inflection Point Acquisition Corp III,10.39,10.4
+HBANM,Huntington Bancshares Dep Shs Rep 1 1000 Prf Shs Series I,20.9,20.92
+HIHO,Highway Holdings Ltd,0.88,0.93
+INEO,INNEOVA Holdings Ltd,0.73,0.75
 KCHVU,Kochav Defense Acquisition Units,10.52,10.54
-LBGJ,Li Bang International Corporation Inc,1.31,2.41
-LCID,Lucid Group Inc,6.69,7.36
-LIVE,Live Ventures Inc,10.98,11.2
-LPBB,Launch Two Acquisition Corp,10.73,10.74
-MMED,MiniMed Group Inc,15.59,16.93
-OTTR,Otter Tail Corp,91.39,92.83
-PACHU,Pioneer Acquisition I Units,10.34,10.37
-PDLB,Ponce Financial Group Inc,20.47,20.25
-PFX,PhenixFIN Corp,45.5,45.9
-PMN,ProMIS Neurosciences Inc,14.27,15.19
-SCII,SC II Acquisition Corp,10.07,10.09
-SSEA,Starry Sea Acquisition Corp,10.28,10.28
-TCBIO,Texas Capital Bancshares Depositary Shares 5 75 Non Cum Pref Shs Series B,20.7,20.74
-TLIH,Ten-League International Holdings Ltd,5.02,5.7
-TMTSU,Spartacus Acquisition II Units,10.18,10.26
-TOP,TOP Financial Group Ltd,2.11,2.81
-UG,United-Guardian Inc,7.31,7.55
-WTFC,Wintrust Financial Corp,162.79,164.3
-XMTR,Xometry Inc,96.52,98.54
-XNCR,Xencor Inc,16.46,17.47
-ZNTL,Zentalis Pharmaceuticals Inc,4.88,5.11
+KXIN,Kaixin Holdings,5.53,5.79
+LANDP,Gladstone Land 6 00 Cumulative Redeemable Preferred Stock Series C,20.62,21.12
+LCNB,LCNB Corp,18.52,19.81
+LVLU,Lulu's Fashion Lounge Holdings Inc,8.77,16.62
+NFBK,Northfield Bancorp Inc,14.99,15.31
+NSTS,NSTS Bancorp Inc,13.8,13.8
+OCCIN,OFS Credit Company 5 25 Prf Shs Series E Due 2026,24.85,24.9
+RGS,Regis Corp,28.0,29.64
+SANG,Sangoma Technologies Corp,4.1,4.13
+SLGL,Sol Gel Technologies Ltd,80.0,80.1
+SOPH,Sophia Genetics SA,5.98,6.33
+STHO,Star Holdings,9.23,9.4
+STIM,Neuronetics Inc,1.79,2.02
+UG,United-Guardian Inc,7.31,7.7
+VYNE,Vyne Therapeutics Inc,0.68,0.81
+WERN,Werner Enterprises Inc,44.78,46.31
+XNCR,Xencor Inc,16.46,18.81
+YIBO,Planet Image International Ltd,1.1,1.14
+ZION,Zions Bancorporation NA,70.7,71.89
+ZYBT,Zhengye Biotechnology Holding Ltd,0.9,8.01
