@@ -1,44 +1,60 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACGLN,Arch Capital Group Depositary Shares Rep1000 Non Cumu Pref Shs Series G,16.36,16.46
-ACGLO,Acrh Cap Group 1000 Dep Shs Repstg Non Cumulative Pref Shs Series F,19.45,19.58
-ADVB,Advanced Biomed Inc,5.35,8.9
-AEBI,Aebi Schmidt Holding AG,13.2,12.75
-AFBI,Affinity Bancshares Inc,22.68,22.79
-AGPU,Axe Compute Inc,8.41,8.71
-ANL,Adlai Nortye Ltd ADR,11.5,11.98
-BLBD,Blue Bird Corp,79.6,81.5
-BWAY,Brainsway Ltd ADR,16.02,16.5
+AGPU,Axe Compute Inc,8.41,9.54
+ALOT,AstroNova Inc,28.57,28.83
+ASBP,Aspire Biopharma Holdings Inc,6.65,7.54
+ASRV,Ameriserv Financial Inc,3.9,3.93
+BCAL,California Bancorp,21.17,21.22
+BULL,Webull Corp,7.53,8.15
+CCBG,Capital City Bank Group Inc,50.27,51.83
 CCRN,Cross Country Healthcare Inc,13.22,13.25
-CLBK,Columbia Financial Inc,21.47,24.5
-CNSP,CNS Pharmaceuticals Inc,5.4,5.5
-COAG,Hemab Therapeutics Holdings Inc,39.51,49.39
-DCBO,Docebo Inc,19.09,19.48
-DPZ,Domino's Pizza Inc,323.88,328.97
-GEVO,Gevo Inc,1.63,1.72
-GOODN,Gladstone Coml Pref Shs Series E,22.78,23.12
-GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,24.19,24.55
-GTERA,Globa Terra Acquisition Corp,10.34,10.35
-HBANM,Huntington Bancshares Dep Shs Rep 1 1000 Prf Shs Series I,20.9,20.92
-HIHO,Highway Holdings Ltd,0.88,0.93
-INEO,INNEOVA Holdings Ltd,0.73,0.75
-KCHVU,Kochav Defense Acquisition Units,10.52,10.54
-KXIN,Kaixin Holdings,5.53,5.79
-LANDP,Gladstone Land 6 00 Cumulative Redeemable Preferred Stock Series C,20.62,21.12
-LCNB,LCNB Corp,18.52,19.81
-LVLU,Lulu's Fashion Lounge Holdings Inc,8.77,16.62
-NFBK,Northfield Bancorp Inc,14.99,15.31
-NSTS,NSTS Bancorp Inc,13.8,13.8
-OCCIN,OFS Credit Company 5 25 Prf Shs Series E Due 2026,24.85,24.9
-RGS,Regis Corp,28.0,29.64
-SANG,Sangoma Technologies Corp,4.1,4.13
-SLGL,Sol Gel Technologies Ltd,80.0,80.1
-SOPH,Sophia Genetics SA,5.98,6.33
-STHO,Star Holdings,9.23,9.4
-STIM,Neuronetics Inc,1.79,2.02
-UG,United-Guardian Inc,7.31,7.7
-VYNE,Vyne Therapeutics Inc,0.68,0.81
-WERN,Werner Enterprises Inc,44.78,46.31
-XNCR,Xencor Inc,16.46,18.81
-YIBO,Planet Image International Ltd,1.1,1.14
-ZION,Zions Bancorporation NA,70.7,71.89
-ZYBT,Zhengye Biotechnology Holding Ltd,0.9,8.01
+CHAR,Charlton Aria Acquisition Corp,10.82,10.9
+CNSP,CNS Pharmaceuticals Inc,5.4,5.39
+COIN,Coinbase Global Inc,169.62,175.85
+CTAAU,ClearThink 1 Acquisition Units,10.08,10.1
+CZFS,Citizens Financial Services Inc,74.13,74.29
+DCBO,Docebo Inc,19.09,19.36
+DSGR,Distribution Solutions Group Inc,28.61,34.51
+ELSE,Electro-Sensors Inc,7.71,7.72
+FMST,Foremost Clean Energy Ltd,1.78,1.99
+FRNM,Perceptive Capital Solutions Corp,11.85,13.01
+FWRD,Forward Air Corp (Delaware),14.87,16.21
+GIXXU,GigCapital9 Units,10.22,10.24
+GOODN,Gladstone Coml Pref Shs Series E,22.78,23.41
+GREEL,Greenidge Generation Holdings 8 50 Senior Notes due 2026,24.19,24.7
+HAS,Hasbro Inc,85.33,88.78
+HIHO,Highway Holdings Ltd,0.88,1.07
+HVII,Hennessy Capital Investment Corp VII,10.47,10.48
+IPCX,Inflection Point Acquisition Corp III,10.4,10.41
+KCHVU,Kochav Defense Acquisition Units,10.52,11.0
+KELYB,Kelly Services Inc Class B,23.95,24.34
+MBWM,Mercantile Bank Corp,58.9,59.68
+NAKA,Nakamoto Inc,4.68,4.8
+NIU,NIU Technologies ADR,2.34,2.71
+NMPAU,NMP Acquisition Units,10.4,10.47
+NPAC,New Providence Acquisition Corp III,10.39,10.4
+PEBO,Peoples Bancorp Inc,39.16,39.5
+PLTK,Playtika Holding Corp,4.11,4.13
+QSEA,Quartzsea Acquisition Corp,10.55,10.56
+RDI,Reading International Inc Class A,1.34,1.49
+RILYG,BRC Group Holdings 5 00 Senior Notes due 2026,24.57,24.58
+RNGTU,Range Capital Acquisition II Units,10.5,10.6
+ROMA,Roma Green Finance Ltd,9.28,9.55
+SBRA,Sabra Health Care REIT Inc,20.16,22.04
+SERA,Sera Prognostics Inc,2.13,2.27
+SLGL,Sol Gel Technologies Ltd,80.0,89.74
+SMX,SMX (Security Matters) PLC,17.5,20.3
+SPEG,Silver Pegasus Acquisition Corp,10.3,10.3
+SXTC,China SXT Pharmaceuticals Inc,2.57,2.68
+TLIH,Ten-League International Holdings Ltd,5.34,5.87
+TMTSU,Spartacus Acquisition II Units,10.18,10.5
+UG,United-Guardian Inc,7.31,7.9
+VYNE,Vyne Therapeutics Inc,0.71,0.89
+WASH,Washington Trust Bancorp Inc,36.89,39.28
+WENNU,WEN Acquisition Units,10.41,10.45
+WVVIP,Willamette Valley Vineyards Redeemable Pref Shs Series A,2.88,2.88
+XBP,XBP Global Holdings Inc,2.72,2.85
+XNCR,Xencor Inc,16.46,20.45
+YDKG,Yueda Digital Holding,1.01,1.05
+YHNA,YHN Acquisition I Ltd,10.88,10.92
+YIBO,Planet Image International Ltd,1.1,1.23
+ZYBT,Zhengye Biotechnology Holding Ltd,0.9,2.85
