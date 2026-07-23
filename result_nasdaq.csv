@@ -1,53 +1,52 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACCL,Acco Group Holdings Ltd,1.93,2.14
-ADVB,Advanced Biomed Inc,5.35,12.25
-APXT,Apex Treasury Corp,10.08,10.15
-APXTU,Apex Treasury Units,10.3,10.42
-ASBP,Aspire Biopharma Holdings Inc,6.58,7.76
-ASRV,Ameriserv Financial Inc,3.9,4.14
-BAFN,Bayfirst Financial Corp,5.71,5.75
-BLFS,BioLife Solutions Inc,29.15,31.15
+ACCL,Acco Group Holdings Ltd,1.93,2.12
+ADVB,Advanced Biomed Inc,5.35,16.78
+AFBI,Affinity Bancshares Inc,22.7,22.94
+APXTU,Apex Treasury Units,10.3,10.35
+BAFN,Bayfirst Financial Corp,5.75,5.78
+BLFS,BioLife Solutions Inc,30.26,30.77
 BPAC,Blueport Acquisition Ltd,10.14,10.15
-CAKE,Cheesecake Factory Inc,82.76,85.68
-CCBG,Capital City Bank Group Inc,50.27,50.93
-CHAR,Charlton Aria Acquisition Corp,10.82,10.9
-CLBK,Columbia Financial Inc,10.0,10.94
-CPBI,Central Plains Bancshares Inc,20.0,20.33
+BWAY,Brainsway Ltd ADR,16.02,16.51
+CJMB,Callan JMB Inc,0.86,2.35
+CSX,CSX Corp,50.89,52.81
 CTAAU,ClearThink 1 Acquisition Units,10.08,10.1
-DCBO,Docebo Inc,19.09,19.54
-DRIO,DarioHealth Corp,7.53,7.9
-ELSE,Electro-Sensors Inc,7.71,7.72
+DMLP,Dorchester Minerals Units,27.41,27.44
+ETS,Elite Express Holding Inc,0.97,1.04
 EURKU,Eureka Acquisition Units,11.99,12.09
-FBIZ,First Business Financial Services Inc,64.76,66.14
-FCBC,First Community Bankshares Inc,45.64,46.91
-FNWD,Finward Bancorp,37.06,44.79
-FRNM,Perceptive Capital Solutions Corp,11.87,13.14
-GGRP,Glimpse Group Inc,0.88,0.98
-HBAN,Huntington Bancshares Inc,18.12,18.27
-KCHVU,Kochav Defense Acquisition Units,10.52,11.0
-KFFB,Kentucky First Federal Bancorp,5.25,5.28
+FCNCA,First Citizens BancShares Inc (Delaware),2156.45,2212.77
+FRMEP,First Merchants Depository Shares Reprs 1 100Th 7 50 Non Cum Perp Prf Shs A,25.8,25.95
+FVAV,Fortress Value Acquisition Corp V,10.2,10.22
+GIXXU,GigCapital9 Units,10.22,10.22
+GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,20.3,20.58
+HAVA,Harvard Ave Acquisition Corp,10.13,10.14
 KVAC,Keen Vision Acquisition Corp,12.4,12.55
-LQDA,Liquidia Corp,81.45,87.04
-MGRT,Mega Fortune Co Ltd,86.01,88.63
-MGRX,Mangoceuticals Inc,0.47,0.51
-MLAA,Mountain Lake Acquisition II Corp,9.95,9.96
-NMPAU,NMP Acquisition Units,10.4,10.47
-NSTS,NSTS Bancorp Inc,13.8,13.81
-PCAR,Paccar Inc,125.91,131.11
-PCSA,Processa Pharmaceuticals Inc,2.39,2.54
+LBRX,LB Pharmaceuticals Inc,34.29,34.62
+MEDP,Medpace Holdings Inc,565.09,605.82
+MNTK,Montauk Renewables Inc,1.7,1.8
+MUZEU,Muzero Acquisition Units,10.34,10.46
+NBBK,NB Bancorp Inc,21.64,22.29
+NTGR,NETGEAR Inc,24.53,25.05
+NVCR,Novocure Ltd,17.85,19.99
+PAA,Plains All American Pipeline Units,23.75,24.69
+PCAR,Paccar Inc,126.67,130.75
+PCRX,Pacira Biosciences Inc,25.82,25.93
+PCSA,Processa Pharmaceuticals Inc,2.39,2.87
 PGAC,Pantages Capital Acquisition Corp,10.69,10.71
-PLSE,Pulse Biosciences Inc,29.24,32.76
-PN,PN Smart Energy Ltd,4.3,9.34
-QSEA,Quartzsea Acquisition Corp,10.55,10.56
+POWWP,AMMO 8 75 Cumulative Redeemable Perpetual Prf Shs Series A,24.4,24.6
 QUMS,Quantumsphere Acquisition Corp,10.27,10.27
-RDI,Reading International Inc Class A,1.34,1.47
-RNGTU,Range Capital Acquisition II Units,10.5,10.6
-SBRA,Sabra Health Care REIT Inc,20.16,21.98
-SPEG,Silver Pegasus Acquisition Corp,10.3,10.3
+RDI,Reading International Inc Class A,1.34,1.43
+RECT,Rectitude Holdings Ltd,1.36,1.41
+RSVR,Reservoir Media Inc,10.49,10.5
+SAIH,SAIHEAT Ltd,13.1,13.66
+SKYA,Skyai  Inc,1.29,1.43
+SKYQ,Sky Quarry Inc,3.99,5.64
+SMTI,Sanara Medtech Inc,25.32,25.5
+SSEA,Starry Sea Acquisition Corp,10.29,10.3
 SSEAU,Starry Sea Acquisition Units,10.33,10.45
-TIGR,UP Fintech Holding Ltd ADR,4.83,5.02
-TMTSU,Spartacus Acquisition II Units,10.18,10.5
+STBA,S&T Bancorp Inc,50.78,50.98
+TAVI,Tavia Acquisition Corp,10.68,10.77
+THRM,Gentherm Inc,37.13,45.61
+TRGSU,TRG Latin America Acquisitions Units,10.06,10.12
 TVAIU,Thayer Ventures Acquisition II Units,10.46,10.65
-WSBC,WesBanco Inc,40.15,40.91
-YHNA,YHN Acquisition I Ltd,10.88,10.92
-ZCMD,Zhongchao Inc,2.5,4.29
+WSTN,Westin Acquisition Corp,10.12,10.13
+XBP,XBP Global Holdings Inc,2.76,2.82
