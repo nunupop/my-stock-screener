@@ -1,80 +1,105 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ADSE,ADS-TEC Energy PLC,12.75,12.88
-AMCX,AMC Global Media Inc,10.9,11.2
-ANIK,Anika Therapeutics Inc,16.34,19.28
-APUR,Aperture AC,9.94,9.96
+ACNT,Ascent Industries Co,15.39,15.53
+ADAML,Adamas 6 875 Fixed To Floating Rate Cumulative Redeemable Pref Shs Series F,24.53,24.6
+ADIL,Adial Pharmaceuticals Inc,2.91,3.64
+AMCX,AMC Global Media Inc,10.9,10.9
+AMZN,Amazon.com Inc,254.96,284.02
+ANIK,Anika Therapeutics Inc,16.34,20.74
 ARCL,ARC Group Acquisition I Corp,9.91,9.95
-BANX,ArrowMark Financial Corp,20.09,20.4
-BPAC,Blueport Acquisition Ltd,10.15,10.16
-BUSEP,First Busey Corp Dep Shs Repstg 1 40Th Int Non Cum Perp Pfd Depositary Shares,25.98,26.28
-CASS,Cass Information Systems Inc,54.25,55.92
-CHEF,Chefs' Warehouse Inc,102.36,115.35
-CHSCN,CHS Reset Rate Pref Shs Class B Series 2,25.07,25.18
-CMCO,Columbus McKinnon Corp,16.12,19.17
-CNOBP,Connectone Bancorp New Depositary Shs Rep A 1 40Th Non Cm Perp Pref Shs Series A,25.14,25.28
-CSHR,Coinshares PLC,4.39,4.9
-CSTL,Castle Biosciences Inc,25.48,28.0
-CZFS,Citizens Financial Services Inc,74.88,77.52
-DRH,Diamondrock Hospitality Co,12.97,13.24
-DXCM,Dexcom Inc,77.98,83.45
-EA,Electronic Arts Inc,209.29,209.86
-ECBK,ECB Bancorp Inc,20.48,20.55
-EMIS,Emmis Acquisition Corp,10.18,10.21
-ESCA,Escalade Inc,19.37,19.86
-EXPO,Exponent Inc,64.41,66.85
-FBIZ,First Business Financial Services Inc,67.18,70.21
-FMAC,Future Money Acquisition Corp,10.02,10.03
-FORR,Forrester Research Inc,10.48,11.5
-GDYN,Grid Dynamics Holdings Inc,6.24,6.89
-GNLX,Genelux Corp,3.03,2.94
-GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,20.58,20.65
-GSAT,Globalstar Inc,81.29,83.38
-GTERU,Globa Terra Acquisition Units,10.44,10.49
-HURN,Huron Consulting Group Inc,118.76,151.77
-IDAI,T Stamp Inc,2.33,2.68
-ILMN,Illumina Inc,196.86,205.1
-INBK,First Internet Bancorp,28.59,29.46
-KC,Kingsoft Cloud Holdings Ltd ADR,10.91,11.15
-KFIIU,K and F Growth Acquisition Ii Units,10.66,10.69
-LANDO,Gladstone Land 6 00 Cum Redmabe Prf Shs Series B,21.41,21.86
-LCCC,Lakeshore Acquisition III Corp,10.46,10.48
-LIFE,Ethos Technologies Inc,20.09,20.42
-MGRX,Mangoceuticals Inc,0.56,0.56
+ASUR,Asure Software Inc,8.47,8.76
+ATEC,Alphatec Holdings Inc,9.74,10.15
+AZTA,Azenta  Inc,28.3,29.88
+BAER,Bridger Aerospace Group Holdings Inc,1.97,1.96
+BANFP,BancFirst 7.2% Cumulative Pref Shs,27.04,27.95
+BLRKU,Bluerock Acquisition Units,10.2,10.3
+BPRN,Princeton Bancorp Inc,40.85,42.4
+BUSEP,First Busey Corp Dep Shs Repstg 1 40Th Int Non Cum Perp Pfd Depositary Shares,26.0,26.18
+BVS,Bioventus Inc,12.45,13.47
+CCLD,CareCloud Inc,2.38,2.65
+CFFN,Capitol Federal Financial Inc,8.79,9.1
+CG,Carlyle Group Inc,46.63,48.91
+CHSCM,CHS Reset Rate Cumulative Redeemable Pref Shs Series 3 Class B,24.62,24.64
+CNDT,Conduent Inc,1.62,1.73
+CNOBP,Connectone Bancorp New Depositary Shs Rep A 1 40Th Non Cm Perp Pref Shs Series A,25.16,25.36
+CSHR,Coinshares PLC,4.39,5.24
+CSTL,Castle Biosciences Inc,25.48,30.39
+CUB,Lionheart Holdings,10.82,10.84
+DRH,Diamondrock Hospitality Co,12.97,13.38
+DXCM,Dexcom Inc,77.98,87.31
+DYNC,Dynamix Corp,10.8,10.85
+EA,Electronic Arts Inc,209.29,209.91
+ECBK,ECB Bancorp Inc,20.48,20.6
+ELVN,Enliven Therapeutics Inc,54.33,58.04
+ESCA,Escalade Inc,19.37,21.37
+FATN,FatPipe Inc,6.31,6.89
+FBIZ,First Business Financial Services Inc,67.48,72.2
+FCAP,First Capital Inc,66.11,66.24
+FOSL,Fossil Group Inc,4.36,5.89
+FSEA,First Seacoast Bancorp Inc,16.95,17.01
+GENVR,Gen Digital Contingent Value Rights,1.6,2.2
+GENVR,Gen Digital Contingent Value Rights,1.6,2.2
+GLBS,Globus Maritime Ltd,3.17,3.22
+GSAT,Globalstar Inc,81.29,84.18
+HLNE,Hamilton Lane Inc,87.71,94.91
+ICUI,ICU Medical Inc,162.17,172.94
+IDAI,T Stamp Inc,2.33,3.04
+IEP,Icahn Enterprises Units,7.76,7.76
+INBK,First Internet Bancorp,28.59,29.94
+KC,Kingsoft Cloud Holdings Ltd ADR,10.91,11.9
+KIDS,OrthoPediatrics Corp,20.72,20.87
+KSPI,Kaspi.kz AO ADR,90.19,92.0
+LATA,Galata Acquisition Corp II,10.13,10.14
+LBGJ,Li Bang International Corporation Inc,1.31,2.41
+LBRX,LB Pharmaceuticals Inc,35.84,42.84
+LIFE,Ethos Technologies Inc,20.09,22.83
+LIND,Lindblad Expeditions Holdings Inc,29.57,33.12
+LUNG,Pulmonx Corp,1.54,2.12
+MCHX,Marchex Inc,1.85,1.9
+MFIN,Medallion Financial Corp,10.34,10.6
 MKLY,McKinley Acquisition Corp,10.2,10.22
-MKTX,Marketaxess Holdings Inc,120.33,162.3
-MMSI,Merit Medical Systems Inc,75.55,85.01
-MREO,Mereo BioPharma Group PLC ADR,0.34,0.34
-MSFT,Microsoft Corp,402.29,464.72
-NBRG,Newbridge Acquisition Ltd,9.98,10.0
-NEOG,Neogen Corp,10.33,12.04
-NMIH,NMI Holdings Inc,43.01,44.3
+MMSI,Merit Medical Systems Inc,76.1,85.53
+MMYT,MakeMyTrip Ltd,58.7,61.78
+MNPR,Monopar Therapeutics Inc,113.57,111.64
+MSFT,Microsoft Corp,402.29,487.65
+MTCH,Match Group Inc,40.29,40.54
+NCMI,National Cinemedia Inc,4.01,4.18
+NCT,Intercont (Cayman) Ltd,3.41,3.51
+NEOG,Neogen Corp,10.33,11.9
+NKSH,National Bankshares Inc,38.34,41.08
+NSIT,Insight Enterprises Inc,122.93,131.67
 OACC,Oaktree Acquisition III Life Sciences Corp,10.74,10.74
-ORIQ,Origin Investment Corp I,10.33,10.34
-PAYO,Payoneer Global Inc,7.13,7.17
-PBAM,CalPrivate Bank,81.24,84.1
-PECE,Peace Acquisition Corp,9.92,9.94
-POLE,Andretti Acquisition Corp. II,10.8,10.81
-PRHI,Presurance Holdings Inc,5.52,5.73
-PWP,Perella Weinberg Partners,17.22,17.65
-PXS,Pyxis Tankers Inc,4.57,4.76
-QUMS,Quantumsphere Acquisition Corp,10.27,10.28
-RANG,Range Capital Acquisition Corp,10.69,10.73
-RILYG,BRC Group Holdings 5 00 Senior Notes due 2026,24.58,24.71
-SHIP,Seanergy Maritime Holdings Corp,16.37,17.49
-SHOO,Steven Madden Ltd,44.19,46.08
-SLMBP,SLM Floating Rate Non Cumulative Pref Shs Series B,75.07,75.08
-SLNHP,Soluna Holdings 9.0 Cumulative Perpetual Pref Shs Series A,11.31,11.5
-SMTI,Sanara Medtech Inc,25.56,33.86
-SPSC,SPS Commerce Inc,65.75,73.39
-STGW,Stagwell Inc,7.87,8.45
-STRC,Strategy Variable Rate Perpetual Stretch Prf Shs Series A,88.79,89.46
-TWLV,Twelve Seas Investment Company III,10.0,10.01
-UROY,Uranium Royalty Corp,3.1,3.4
-VLYPN,Valley National Bancorp 8 250 Fixed Rate Reset Non Cumulative 8.250,25.85,25.88
-VLYPO,Valley National 5.50% Fixed to Floating Rate Non Cum Perp Pref Shs Series B,25.01,25.02
-VLYPP,Valley National 6 25 Fixed to Floating Rate Non Cumulative Perpetual Pref Shs,25.05,25.13
+OCTV,Octave Intelligence PLC,18.24,19.13
+OPBK,OP Bancorp,15.66,15.88
+PBAM,CalPrivate Bank,81.25,85.7
+PCRX,Pacira Biosciences Inc,26.47,26.92
+PGEN,Precigen Inc,5.92,6.61
+PGY,Pagaya Technologies Ltd,18.77,22.24
+PI,Impinj Inc,148.0,161.44
+PROF,Profound Medical Corp,7.55,8.24
+QSEA,Quartzsea Acquisition Corp,10.58,10.63
+RDAG,Republic Digital Acquisition Co,10.36,10.37
+RDVT,Red Violet Inc,68.71,68.6
+RFAI,RF Acquisition Corp II,11.08,11.09
+RNXT,RenovoRx Inc,0.98,1.06
+RRGB,Red Robin Gourmet Burgers Inc,7.99,8.09
+SGLY,Singularity Future Technology Ltd,4.9,5.44
+SHIP,Seanergy Maritime Holdings Corp,16.37,18.17
+STEP,StepStone Group Inc,45.46,46.59
+STGW,Stagwell Inc,7.87,8.7
+STRC,Strategy Variable Rate Perpetual Stretch Prf Shs Series A,88.79,92.32
+TMDX,Transmedics Group Inc,77.75,81.55
+TNDM,Tandem Diabetes Care Inc,18.1,20.11
+TOP,TOP Financial Group Ltd,2.11,2.81
+TPG,TPG Inc,44.49,46.32
+TSBK,Timberland Bancorp Inc,45.4,45.47
+ULH,Universal Logistics Holdings Inc,16.5,18.21
+ULTA,Ulta Beauty Inc,489.47,534.41
+USEA,United Maritime Corp,2.68,2.63
 VNME,Vendome Acquisition Corp I,10.23,10.25
-YHNA,YHN Acquisition I Ltd,10.92,10.94
-ZG,Zillow Group Inc Class A,33.99,34.69
+VRRM,Verra Mobility Corp,4.52,5.61
+WEYS,WEYCO Group Inc,40.33,40.42
+WVVIP,Willamette Valley Vineyards Redeemable Pref Shs Series A,2.88,2.9
+YDKG,Yueda Digital Holding,1.05,1.08
+YHNA,YHN Acquisition I Ltd,10.93,10.94
+ZBRA,Zebra Technologies Corp,272.65,291.64
 ZKPU,Lafayette Digital Acquisition I Units,10.0,10.03
-ZTEK,Zentek Ltd,0.54,0.68
