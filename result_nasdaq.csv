@@ -1,129 +1,108 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACAD,Acadia Pharmaceuticals Inc.,26.41,27.15
-ADAMI,Adamas 9 125 Senior Notes Due 2029,25.21,25.31
-ADIL,Adial Pharmaceuticals Inc,2.95,3.8
-ALZN,Alzamend Neuro Inc,1.37,1.45
-AMAN,Amanat Acquisition Corp,10.16,10.33
-AMLX,Amylyx Pharmaceuticals  Inc.,19.55,21.87
-ANIK,Anika Therapeutics Inc,16.34,19.61
-ANTX,AN2 Therapeutics Inc,5.2,5.94
-APPF,AppFolio  Inc.,181.45,199.53
-ARCI,Archimedes Tech SPAC Partners III Co,10.1,10.15
-ARVN,Arvinas Inc,8.59,9.0
-ARXS,Arxis Inc,46.66,58.05
-ASUR,Asure Software Inc,8.47,8.81
-ATEC,Alphatec Holdings  Inc.,9.74,10.35
-AVXL,Anavex Life Sciences Corp,2.76,3.15
-AYA,Aya Gold & Silver Inc,20.9,22.9
-BANX,ArrowMark Financial Corp.,20.09,20.54
-BOLD,Boundless Bio  Inc.,2.6,2.7
-BOSC,BOS Better Online Solutions Ltd,4.51,4.59
-BPRN,Princeton Bancorp Inc,41.85,42.24
-BTBD,Bt Brands Inc,1.2,1.23
-CBC,Central Bancompany  Inc.,32.45,33.36
-CCLD,CareCloud Inc,2.38,2.6
-CG,Carlyle Group Inc,46.63,50.64
-CNDT,Conduent Incorporated,1.62,1.78
-CNOBP,Connectone Bancorp New Depositary Shs Rep A 1 40Th Non Cm Perp Pref Shs Series A,25.18,25.37
-COGT,Cogent Biosciences  Inc.,40.67,42.84
-CPBI,Central Plains Bancshares Inc,20.33,20.73
-CRCT,Cricut Inc,4.73,4.94
-CSHR,Coinshares PLC,4.39,5.43
-CSWC,Capital Southwest Corporation,24.3,24.72
-CTSH,Cognizant Technology Solutions Corporation,50.31,56.13
-CZFS,Citizens Financial Services Inc,76.88,82.63
-DDI,DoubleDown Interactive Co Ltd ADR,11.61,12.0
+ACAD,Acadia Pharmaceuticals Inc.,26.41,28.8
+ACB,Aurora Cannabis Inc,2.88,2.91
+ACNT,Ascent Industries Co,15.49,15.58
+ACRS,Aclaris Therapeutics  Inc.,5.71,6.36
+ADAMI,Adamas 9 125 Senior Notes Due 2029,25.2,25.35
+ADIL,Adial Pharmaceuticals Inc,3.15,4.05
+AGNCL,AGNC Invt Dep Shs Repstg 1 1000Th Pref Shs Series G,25.09,25.15
+ALTI,AlTi Global  Inc,4.01,4.62
+AMCX,AMC Global Media Inc,10.9,12.03
+AMGN,Amgen Inc,393.1,407.83
+ARVN,Arvinas Inc,8.59,8.4
+ASRV,Ameriserv Financial Inc,4.5,4.62
+ATLCP,Atlanticus Holdings 7.625 Cumulative Perpetual Pref Shs Series B,24.49,24.5
+AVT,Avnet Inc,90.81,97.22
+AYA,Aya Gold & Silver Inc (Quebec),20.9,25.07
+AYTU,Aytu Biopharma Inc,2.25,2.3
+AZTA,Azenta  Inc.,28.93,31.82
+BEEP,Mobile Infrastructure Corp,1.94,2.1
+BKNG,Booking Holdings Inc.,201.3,207.02
+BLMN,Bloomin' Brands Inc,9.16,11.85
+BOLD,Boundless Bio  Inc.,2.6,2.8
+BVS,Bioventus Inc.,13.21,15.26
+CBC,Central Bancompany  Inc.,32.67,33.07
+CCLD,CareCloud Inc,2.42,2.54
+CCNE,CNB Financial Corp,35.55,35.55
+CENX,Century Aluminum Company,46.68,46.9
+CFFI,C&F Financial Corp,86.18,87.2
+CG,Carlyle Group Inc,46.63,49.84
+CHEC,Chenghe Acquisition III Co,10.21,10.23
+CHYM,Chime Financial  Inc.,22.42,25.92
+CMRC,Commerce.com  Inc.,3.3,3.41
+CRCT,Cricut Inc,4.79,6.07
+CRSR,Corsair Gaming Inc,10.74,11.2
+CTOR,Citius Oncology Inc,0.73,0.79
+CTXR,Citius Pharmaceuticals Inc,0.61,0.78
+CZFS,Citizens Financial Services Inc,77.26,82.03
+DOO,BRP Inc.,62.49,65.52
 EA,Electronic Arts Inc,209.29,209.7
-ELVN,Enliven Therapeutics  Inc.,54.33,61.11
-ELWT,Elauwit Connection Inc,8.27,8.78
-ESCA,Escalade Inc,19.89,22.0
-FATN,FatPipe Inc,6.31,6.95
-FBLA,FB Bancorp Inc,15.66,15.86
-FCAP,First Capital Inc,66.11,64.8
-FDBC,Fidelity D&D Bancorp Inc,53.35,54.35
-FISV,Fiserv Inc,54.21,55.78
-FMAC,Future Money Acquisition Corp,10.02,10.03
-FMAO,Farmers & Merchants Bancorp Inc,34.44,34.77
-FRPT,Freshpet  Inc.,61.22,62.38
-GDRX,GoodRx Holdings  Inc.,3.14,3.34
-GENVR,Gen Digital Contingent Value Rights,1.6,2.68
-GENVR,Gen Digital Contingent Value Rights,1.6,2.68
-GIX,GigCapital9 Corp,9.95,9.95
-HIT,Health In Tech Inc,1.13,1.14
-HLMN,Hillman Solutions Corp,8.47,9.51
-HLNE,Hamilton Lane Incorporated,89.52,101.61
-HNVR,Hanover Bancorp Inc,26.88,27.12
-HRMY,Harmony Biosciences Holdings  Inc.,38.26,38.78
-HSIC,Henry Schein  Inc.,88.26,89.11
-HSTM,HealthStream  Inc.,29.07,29.8
-HVII,Hennessy Capital Investment Corp VII,10.48,10.52
+ELVN,Enliven Therapeutics  Inc.,54.33,59.7
+ESCA,Escalade Inc,19.89,22.33
+EXPE,Expedia Group  Inc.,304.27,319.66
+FDBC,Fidelity D&D Bancorp Inc,53.35,53.89
+FGII,FG Imperii Acquisition Corp,9.96,9.97
+FRPT,Freshpet  Inc.,61.94,71.47
+FSLY,Fastly  Inc.,20.9,26.03
+GBLI,Global Indemnity Group LLC,27.72,28.52
+GDRX,GoodRx Holdings  Inc.,3.22,3.27
+GSM,Ferroglobe PLC,3.58,4.15
+GTM,ZoomInfo Technologies Inc.,3.5,3.66
+HCAT,Health Catalyst  Inc.,2.33,2.39
+HLMN,Hillman Solutions Corp,8.47,9.22
 IBAC,IB Acquisition Corp,10.79,10.82
-IDAI,T Stamp Inc,2.33,3.12
-IDXX,IDEXX Laboratories Inc,576.07,588.09
-ILMN,Illumina Inc,196.86,203.01
-IMNM,Immunome  Inc.,24.39,25.06
-INTA,Intapp  Inc.,30.6,32.78
-JAZZ,Jazz Pharmaceuticals PLC,256.92,261.62
-KBSX,FST Ltd,1.1,1.13
-KC,Kingsoft Cloud Holdings Ltd ADR,10.91,13.08
-KIDS,OrthoPediatrics Corp,20.72,20.88
-KSPI,Kaspi.kz AO ADR,90.19,92.0
+INTA,Intapp  Inc.,31.67,36.96
+IOSP,Innospec Inc,85.9,91.96
+JJSF,J&J Snack Foods Corp,79.52,84.66
+KBSX,FST Ltd,1.03,1.06
+KIDS,OrthoPediatrics Corp,20.72,22.31
+KLTR,Kaltura Inc,1.46,1.89
+KMRK,K-Tech Solutions Co Ltd,1.11,1.21
+KSPI,Kaspi.kz AO ADR,90.19,92.19
 LAFAU,LaFayette Acquisition Units,10.17,10.2
 LATA,Galata Acquisition Corp II,10.13,10.14
-LBRX,LB Pharmaceuticals Inc,35.84,45.0
-LIF,Life360  Inc.,57.71,63.97
-LIFE,Ethos Technologies Inc,20.09,27.65
-LIND,Lindblad Expeditions Holdings  Inc.,29.74,34.09
-LIVN,LivaNova PLC,84.03,85.32
-LUNG,Pulmonx Corp,1.54,2.06
-MCHX,Marchex Inc,1.85,1.88
-MFIN,Medallion Financial Corp,10.34,10.9
-MKTW,MarketWise Inc,20.83,21.2
-MMYT,MakeMyTrip Limited,58.7,63.22
-MSBIP,Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A,25.3,25.34
-MTCH,Match Group  Inc.,40.29,41.24
-MVBF,MVB Financial Corp,29.92,30.95
-NAVI,Navient Corporation,8.75,9.36
-NKLR,Terra Innovatum Global NV,5.51,6.21
-NMFC,New Mountain Finance Corp,7.23,7.48
-NPT,Texxon Holding Ltd,2.79,3.36
-NSIT,Insight Enterprises Inc,124.8,137.26
-OCTV,Octave Intelligence PLC,18.24,19.65
-ORIC,ORIC Pharmaceuticals  Inc.,12.1,13.47
-PAMT,PAMT Corp,17.18,17.56
-PCRX,Pacira BioSciences  Inc.,26.81,27.62
-PDLB,Ponce Financial Group Inc,20.55,20.66
-PGEN,Precigen  Inc.,5.92,6.53
-POLE,Andretti Acquisition Corp. II,10.8,10.81
-PROV,Provident Financial Holdings Inc,17.6,17.94
-RDNT,RadNet  Inc.,68.92,69.22
-RMNI,Rimini Street Inc,4.89,4.92
-RNXT,RenovoRx Inc,0.98,1.04
-RRGB,Red Robin Gourmet Burgers Inc,7.99,8.03
-SEAT,Vivid Seats Inc,8.07,9.54
-SHOO,Steven Madden  Ltd.,44.06,48.86
-SIBN,SI-BONE  Inc.,17.93,18.44
-SION,Sionna Therapeutics  Inc.,49.41,49.94
-SOPH,Sophia Genetics SA,6.5,6.84
-SSNC,SS&C Technologies Holdings  Inc.,77.9,81.06
-STEP,StepStone Group Inc.,44.78,48.62
-STGW,Stagwell Inc.,7.97,9.01
-STRK,Strategy 8 00 Perpetual Strike Prf Shs Series A,62.99,63.2
-TACOU,Berto Acquisition Units,10.87,10.9
-TLSI,TriSalus Life Sciences Inc,4.74,4.74
-TNDM,Tandem Diabetes Care  Inc.,18.1,20.2
-TPG,TPG Inc,44.49,48.98
-TRI,Thomson Reuters Corp,103.29,109.15
-UEIC,Universal Electronics Inc,4.77,4.8
-UFPT,UFP Technologies Inc,272.36,334.84
-ULH,Universal Logistics Holdings Inc,16.5,19.46
-VCTR,Victory Capital Holdings  Inc.,100.58,102.62
-WENN,Wen Acquisition Corp,10.33,10.34
-WEYS,WEYCO Group Inc,40.33,40.96
-WIX,Wix.com Ltd.,58.55,66.78
-WKHS,Workhorse Group Inc,3.07,3.41
-XGN,Exagen Inc.,4.95,6.45
-YHNA,YHN Acquisition I Ltd,10.93,10.94
-YSWY,Yesway Inc,21.62,22.18
-ZBRA,Zebra Technologies Corp,284.4,368.83
-ZTG,Zenta Group Co Ltd,3.5,5.68
+LIFE,Ethos Technologies Inc,20.09,27.72
+MAMO,Massimo Group,1.04,1.09
+MBAI,Check Cap Ltd,1.29,1.3
+MDRR,Medalist Diversified Inc,12.0,12.17
+MFIN,Medallion Financial Corp,10.34,10.79
+MMSI,Merit Medical Systems Inc,80.84,87.18
+MOB,Mobilicom Limited,5.33,5.62
+NEWTP,NewtekOne Depositary Shs Non Cumulative Perpetual Pref Shs Series B,25.0,25.01
+NPT,Texxon Holding Ltd,2.93,3.87
+NSIT,Insight Enterprises Inc,127.42,140.28
+NWSA,News Corporation Class A,28.82,29.06
+OBA,Oxley Bridge Acquisition Ltd,10.26,10.28
+OBAWU,Oxley Bridge Acquisition Units,10.39,10.44
+OCCIN,OFS Credit Company 5 25 Prf Shs Series E Due 2026,24.9,24.91
+OCTV,Octave Intelligence PLC,18.24,19.59
+OHACU,Oceanhawk Acquisition Units,10.16,10.19
+OSPN,OneSpan Inc.,15.74,16.3
+PCTY,Paylocity Holding Corp,144.79,147.81
+PFX,PhenixFIN Corp,45.99,46.15
+PGEN,Precigen  Inc.,5.92,6.89
+PLUS,ePlus inc.,93.11,94.56
+PROV,Provident Financial Holdings Inc,17.78,18.03
+RDI,Reading International Inc Class A,1.49,1.5
+ROCK,Gibraltar Industries  Inc.,46.73,54.86
+SFBC,Sound Financial Bancorp Inc,47.3,46.98
+SFST,Southern First Bancshares Inc,63.69,64.18
+SGMT,Sagimet Biosciences Inc.,7.99,8.64
+SHOP,Shopify Inc.,130.28,144.24
+SOPH,Sophia Genetics SA,6.5,6.3
+SORNU,Soren Acquisition Units,10.05,10.26
+STGW,Stagwell Inc.,8.08,8.85
+STRK,Strategy 8 00 Perpetual Strike Prf Shs Series A,62.99,64.91
+TCPC,BlackRock TCP Capital Corp,3.45,3.5
+TDWD,Tailwind 2.0 Acquisition Corp,10.06,10.06
+TMCI,Treace Medical Concepts  Inc.,4.66,4.78
+TPG,TPG Inc,44.49,47.91
+TVTX,Travere Therapeutics  Inc.,59.03,62.76
+UEIC,Universal Electronics Inc,4.77,4.76
+URGN,Urogen Pharma Ltd,43.78,46.43
+VHC,VirnetX Holding Corp,13.7,15.26
+VHCPU,Vine Hill Capital Investment II Units,10.16,10.24
+WEYS,WEYCO Group Inc,40.33,43.9
+XGN,Exagen Inc.,4.95,6.65
+ZBRA,Zebra Technologies Corp,284.4,368.99
+ZTG,Zenta Group Co Ltd,3.5,6.8
