@@ -1,120 +1,94 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABEO,Abeona Therapeutics Inc,7.29,7.4
-ABNB,Airbnb  Inc.,153.11,184.98
-ACB,Aurora Cannabis Inc,2.84,3.48
-ACGCU,ACP Holdings Acquisition Units,10.08,10.12
-ACHV,Achieve Life Sciences  Inc.,6.53,6.77
-ADAM,Adamas Trust  Inc.,9.51,10.23
-AIHS,Senmiao Technology Ltd,1.5,1.84
+ABEO,Abeona Therapeutics Inc,7.29,7.46
+ACB,Aurora Cannabis Inc,2.91,3.82
+ACGLN,Arch Capital Group Depositary Shares Rep1000 Non Cumu Pref Shs Series G,16.36,16.46
+ACGLO,Acrh Cap Group 1000 Dep Shs Repstg Non Cumulative Pref Shs Series F,19.45,19.58
+ACIU,AC Immune SA,2.6,2.62
 ALDF,Aldel Financial II Inc,10.77,10.78
-ALEC,Alector  Inc.,2.06,2.09
-ALLR,Allarity Therapeutics Inc,1.33,1.43
-ALMR,Alamar Biosciences Inc,28.42,36.57
-ANGH,Anghami Inc,3.69,3.76
-APMCU,AmperCap Acquisition Company Units,10.05,10.09
+ALMR,Alamar Biosciences Inc,28.42,33.12
 APUR,Aperture AC,9.96,9.97
-AURA,Aura Biosciences  Inc.,7.74,8.04
-BEEP,Mobile Infrastructure Corp,1.94,2.77
-BMRN,BioMarin Pharmaceutical Inc.,62.07,69.55
-BPYPM,Brookfield Property Preferred Pref Shs Class A,16.16,16.27
-BSIN,Big Sky Industrial Inc,1.4,1.43
-BTBD,Bt Brands Inc,1.23,1.3
-BVC,BitVentures Ltd,11.71,14.08
-BWEN,Broadwind Inc,5.18,5.34
-BWMN,Bowman Consulting Group Ltd.,29.44,42.37
-CAPS,Capstone Holding Corp,0.27,0.32
-CBLL,CeriBell  Inc.,20.0,21.31
-CHPG,ChampionsGate Acquisition Corp,10.42,10.45
-CLIR,ClearSign Technologies Corp,4.12,4.17
-CSTE,Caesarstone Ltd,2.55,3.0
-CWCO,Consolidated Water Co Ltd,30.25,32.32
-DCTH,Delcath Systems Inc,13.52,17.22
-DDI,DoubleDown Interactive Co Ltd ADR,12.0,12.37
-DRUG,Bright Minds Biosciences Inc.,78.2,80.25
-DSP,Viant Technology Inc,13.35,13.19
-EMBC,Embecta Corp.,3.82,4.88
-EOLS,Evolus Inc,6.99,8.34
-EXFY,Expensify  Inc.,1.95,2.31
-FENC,Fennec Pharmaceuticals Inc.,11.16,12.78
-FHTX,Foghorn Therapeutics Inc.,6.17,6.59
-FLNT,Fluent Inc,4.06,4.12
+AQST,Aquestive Therapeutics Inc,4.33,4.23
+ASBP,Aspire Biopharma Holdings Inc,6.65,7.54
+AVLN,Avalyn Pharma Inc,32.0,37.38
+BIOX,Bioceres Crop Solutions Corp,0.38,0.38
+BLIV,Belive Holdings,2.41,2.45
+BPRN,Princeton Bancorp Inc,42.4,43.23
+BSVN,Bank7 Corp,51.8,52.0
+BTBD,Bt Brands Inc,1.23,1.26
+BUUU,BUUU Group Ltd,25.96,30.85
+BWMN,Bowman Consulting Group Ltd.,29.44,42.22
+CBRS,Cerebras Systems Inc,227.15,262.06
+CDIO,Cardio Diagnostics Holdings Inc,2.11,2.16
+CGC,Canopy Growth Corporation,1.0,1.02
+CGEN,Compugen Ltd.,2.49,2.5
+CMPX,Compass Therapeutics Inc.,2.34,2.37
+CNSP,CNS Pharmaceuticals Inc,5.4,5.5
+CSCO,Cisco Systems Inc,121.74,123.88
+CUVL,Clinuvel Pharmaceuticals Ltd ADR,7.36,7.4
+ECBK,ECB Bancorp Inc,20.63,20.82
+ELE,Elemental Royalty Corp,18.16,20.48
+EVOX,Evolution Global Acquisition Corp,10.07,10.08
 FMACU,Future Money Acquisition Units,10.17,10.18
-FNUC,Frontier Nuclear and Minerals Inc,1.82,1.86
-FUND,Sprott Focus Trust,10.09,10.66
-FWONK,Liberty Media Formula One Ord Shs Series C,102.2,102.38
-GANX,Gain Therapeutics Inc,2.03,2.06
-GITS,Global Interactive Technologies Inc,2.28,2.84
-GLBS,Globus Maritime Limited,3.22,3.68
-GOODN,Gladstone Coml Pref Shs Series E,23.43,23.89
-GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,20.66,20.7
-GRI,GRI Bio Inc,1.87,2.2
-GSHRU,Gesher Acquisition II Units,10.53,10.61
+GECC,Great Elm Capital Corp,5.46,5.89
+GIW,GigCapital8 Corp,10.12,10.13
 GTENU,Gores Holdings X Units,10.7,10.9
-GTIM,Good Times Restaurants Inc,1.46,1.48
-HMR,Heidmar Maritime Holdings Corp,1.28,1.32
-HQI,Hirequest Inc,14.17,17.19
-HVII,Hennessy Capital Investment Corp VII,10.52,10.53
-JRSH,Jerash Holdings (US) Inc,4.86,5.33
-KOPN,Kopin Corp,4.48,5.2
-KRNT,Kornit Digital Ltd.,16.98,17.58
-KSPI,Kaspi.kz AO ADR,92.0,95.36
-LCUT,Lifetime Brands Inc,8.83,9.63
-LFST,LifeStance Health Group  Inc.,11.58,11.5
-MASS,908 Devices Inc.,8.88,10.01
-MELI,MercadoLibre  Inc.,1898.79,1940.0
-MFIN,Medallion Financial Corp,10.9,11.03
-MLAB,Mesa Laboratories  Inc.,105.54,111.23
-MTEK,Maris Tech Ltd,1.19,1.2
+GTIM,Good Times Restaurants Inc,1.46,1.5
+GWRS,Global Water Resources Inc,7.48,7.61
+IMUX,Immunic  Inc.,15.36,15.93
+IMVT,Immunovant  Inc.,41.09,42.6
+INBS,Intelligent Bio Solutions Inc,2.3,2.54
+IVDA,Iveda Solutions Inc,0.35,0.37
+JACK,Jack in the Box Inc,18.42,18.77
+JYD,Jayud Global Logistics Ltd,1.02,1.03
+KOPN,Kopin Corp,4.23,5.02
+KRNT,Kornit Digital Ltd.,16.98,17.64
+LATA,Galata Acquisition Corp II,10.14,10.15
+LINK,Interlink Electronics Inc,5.01,5.69
+MAKO,Mako Mining Corp,8.2,9.99
+MASS,908 Devices Inc.,8.88,10.02
 MYX,Maywood Acquisition Corp 2,9.96,9.98
-NSPR,InspireMD Inc,0.72,0.85
-NWTG,Newton Golf Company Inc,1.15,1.21
-OABI,OmniAb Inc,2.46,3.38
-OBA,Oxley Bridge Acquisition Ltd,10.26,10.29
-OBIO,Orchestra Biomed Holdings Inc,4.32,4.4
-OCTV,Octave Intelligence PLC,19.65,19.72
-OGI,Organigram Global Inc,1.03,1.23
-ORIQ,Origin Investment Corp I,10.34,10.35
-OYSE,Oyster Enterprises II Acquisition Corp,10.32,10.34
-PETZ,TDH Holdings Inc,1.36,1.54
-PIII,P3 Health Partners Inc,11.37,12.37
-PLBY,Playboy Inc,1.27,1.36
+NBIS,Nebius Group NV,229.18,259.2
+NHPAP,National Healthcare 7 375 Pref Shs Series A,23.5,25.17
+NIU,NIU Technologies ADR,2.34,2.71
+NSPR,InspireMD Inc,0.72,0.86
+NSTS,NSTS Bancorp Inc,13.8,13.8
+OGI,Organigram Global Inc,1.03,1.29
+OPRX,OptimizeRx Corporation,6.93,7.04
+ORIQ,Origin Investment Corp I,10.34,10.37
+PBAM,Private Bancorp of America Inc,75.95,80.36
+PKOH,Park Ohio Holdings Corp,41.61,49.38
+PLPC,Preformed Line Products Co,471.29,468.03
+PLTK,Playtika Holding Corp,4.11,4.13
 PMTRU,Perimeter Acquisition I Units,10.88,11.14
-PMTS,CPI Card Group Inc,22.92,30.5
-POLE,Andretti Acquisition Corp. II,10.81,10.82
 PONO,Pono Capital Four Inc,9.97,10.03
-QMCO,Quantum Corp,11.66,19.4
-QUMS,Quantumsphere Acquisition Corp,10.29,10.3
+PRLD,Prelude Therapeutics Incorporated,5.12,5.73
+PXLW,Pixelworks Inc,6.38,6.65
+QMCO,Quantum Corp,11.66,21.93
 RANG,Range Capital Acquisition Corp,10.73,10.74
-RDVT,Red Violet Inc,69.73,71.22
-RFAMU,RF Acquisition III Units,10.0,10.1
-RMBI,Richmond Mutual Bancorporation Inc,16.02,16.07
-RNW,Renew Energy Global PLC,6.29,6.85
-RPD,Rapid7  Inc.,12.97,13.38
-RUM,RUM Group Inc.,6.51,6.92
-RXST,RxSight  Inc.,6.29,7.04
-SENS,Senseonics Holdings Inc,5.68,7.87
-SEPN,Septerna  Inc.,38.98,47.76
-SLN,Silence Therapeutics PLC ADR,12.07,14.72
-SMSI,Smith Micro Software Inc,2.8,2.97
-SPAI,Safe Pro Group Inc,4.51,4.71
-SQFTP,Presidio Property Trus 9.375 Cumulative Redeemable Perpetual Cumulative,6.15,7.37
-SSP,E W Scripps Co,3.26,3.31
-STIM,Neuronetics Inc,2.3,3.19
-TKNO,Alpha Teknova  Inc.,5.88,7.04
-TLPH,Talphera Inc,1.46,1.47
-TSCO,Tractor Supply Company,33.12,35.29
-TTAN,ServiceTitan Inc,86.24,88.39
-TUSK,Mammoth Energy Services Inc,3.25,3.28
-UEIC,Universal Electronics Inc,4.8,5.79
-UK,Ucommune International Ltd,2.19,2.24
-VALN,Valneva SE ADR,5.4,5.59
-VFF,Village Farms International Inc,2.05,2.43
+RDI,Reading International Inc Class A,1.34,1.49
+RDVT,Red Violet Inc,69.73,68.87
+RILYZ,BRC Group Holdings 5 25 Senior Notes due 2028,19.41,19.93
+RNW,Renew Energy Global PLC,6.29,6.81
+RUM,RUM Group Inc.,6.51,7.55
+SANG,Sangoma Technologies Corp,4.1,4.13
+SENS,Senseonics Holdings Inc,5.63,7.93
+SEPN,Septerna  Inc.,38.98,48.19
+SGHT,Sight Sciences  Inc.,5.64,8.28
+SIEB,Siebert Financial Corp,1.72,1.73
+SLGL,SOL-GEL TECHNOLOGIES LTD.,80.0,80.1
+SLNG,Stabilis Solutions Inc,4.81,5.5
+SMCI,Super Micro Computer Inc,31.69,37.61
+SMCIP,Super Micro Computer Depositary Shs representing 1 20th Mandatory Convert Prf,55.3,64.22
+TPG,TPG Inc,48.98,50.88
+TWLV,Twelve Seas Investment Company III,10.02,10.04
+UK,Ucommune International Ltd,2.19,2.37
+URGN,Urogen Pharma Ltd,46.43,49.0
+VFF,Village Farms International Inc,2.05,2.51
 VHCP,Vine Hill Capital Investment Corp II,10.01,10.02
 VNME,Vendome Acquisition Corp I,10.25,10.27
-VRDN,Viridian Therapeutics Inc,20.84,22.97
-VREX,Varex Imaging Corporation,12.37,18.58
-WHF,WhiteHorse Finance Inc,6.78,7.15
-WTBA,West Bancorporation Inc,28.61,29.11
-WXM,WF International Ltd,4.64,7.9
-YDKG,Yueda Digital Holding,1.08,1.13
-ZLAB,Zai Lab Ltd ADR,20.75,26.0
+VTSI,VirTra Inc,3.2,3.3
+WERN,Werner Enterprises  Inc.,44.78,46.31
+YHNA,YHN Acquisition I Ltd,10.94,10.96
+YIBO,Planet Image International Ltd,1.1,1.14
+ZLAB,Zai Lab Ltd ADR,20.75,25.49
+ZURA,Zura Bio Ltd,5.69,5.78
