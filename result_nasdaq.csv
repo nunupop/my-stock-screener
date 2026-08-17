@@ -1,108 +1,111 @@
 ﻿종목코드,종목명,진입가,오늘종가
 ACGCU,ACP Holdings Acquisition Units,10.08,10.12
-ACHV,Achieve Life Sciences  Inc.,6.66,7.59
 ADAML,Adamas 6 875 Fixed To Floating Rate Cumulative Redeemable Pref Shs Series F,24.6,24.79
 AFRI,Forafric Global PLC,10.85,10.75
 AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.14,25.18
-AIRO,AIRO Group Holdings Inc,8.52,9.57
+AGPU,Axe Compute Inc,9.54,10.62
 ARCI,Archimedes Tech SPAC Partners III Co,10.14,10.17
 ASBP,Aspire Biopharma Holdings Inc,7.76,7.79
-ASMB,Assembly Biosciences Inc,28.97,32.95
+ASMB,Assembly Biosciences Inc,28.97,30.01
 ASTL,Algoma Steel Group Inc,4.39,4.43
-AYTU,Aytu Biopharma Inc,2.36,2.38
 AZ,A2Z Cust2Mate Solutions Corp,6.28,6.47
 BDSX,Biodesix Inc,24.5,24.86
 BEEP,Mobile Infrastructure Corp,1.94,2.76
-BFRI,Biofrontera Inc,1.27,1.3
+BFRI,Biofrontera Inc,1.27,1.35
 BHAV,BHAV Acquisition Corp,9.99,10.0
 BOLD,Boundless Bio  Inc.,2.57,2.82
 BPYPM,Brookfield Property Preferred Pref Shs Class A,16.16,16.1
-BTAI,BioXcel Therapeutics Inc,1.1,1.19
 BTBD,Bt Brands Inc,1.2,1.25
 BUUU,BUUU Group Ltd,24.86,27.75
 BWMN,Bowman Consulting Group Ltd.,29.6,42.42
-CADL,Candel Therapeutics Inc,10.59,11.72
+CADL,Candel Therapeutics Inc,10.59,12.16
+CBRS,Cerebras Systems Inc,230.01,251.98
+CCXI,Churchill Capital Corp XI,16.62,17.2
 CEPO,Cantor Equity Partners I Inc,10.67,10.68
 CGBD,Carlyle Secured Lending Inc,10.94,11.14
-CHNR,China Natural Resources Inc,4.1,4.17
+CHCI,Comstock Holding Companies Inc,16.04,18.77
 CHPG,ChampionsGate Acquisition Corp,10.42,10.45
 COCP,Cocrystal Pharma Inc,1.05,1.08
-CPRT,Copart Inc,30.82,31.61
+CPRT,Copart Inc,30.82,31.7
 CRCT,Cricut Inc,4.79,5.9
-CRDL,Cardiol Therapeutics Inc,1.42,1.8
+CRDL,Cardiol Therapeutics Inc,1.47,1.8
 DCBO,Docebo Inc.,22.02,23.41
 DDI,DoubleDown Interactive Co Ltd ADR,11.67,12.05
 DSP,Viant Technology Inc,13.35,14.09
+ECPG,Encore Capital Group  Inc.,100.2,103.68
 EDRY,EuroDry Ltd,26.51,36.39
 EMBC,Embecta Corp.,3.72,4.99
 FENC,Fennec Pharmaceuticals Inc.,11.16,10.94
 FHTX,Foghorn Therapeutics Inc.,6.17,6.24
+FIEE,FiEE Inc,4.15,5.63
+FIGR,Figure Technology Solutions  Inc.,32.79,35.76
 FOXF,Fox Factory Holding Corp.,19.53,21.03
-FRBA,FIRST BANK (Hamilton),18.87,19.02
 FTDR,Frontdoor Inc,79.07,83.91
-GASS,StealthGas Inc,9.01,9.46
+GAME,GameSquare Holdings Inc,0.42,0.44
+GASS,StealthGas Inc,9.01,9.6
 GIX,GigCapital9 Corp,9.95,9.97
+GLBS,Globus Maritime Limited,3.39,3.67
 GLIBK,Liberty Capital Corp Series C,23.68,25.28
-GMAB,Genmab A/S ADR,31.25,31.94
+GP,GreenPower Motor Company Inc,1.62,1.64
+GRWG,GrowGeneration Corp,1.54,1.89
 GSHRU,Gesher Acquisition II Units,10.53,10.61
-HHS,Harte Hanks Inc,2.49,4.3
-HRZN,Horizon Technology Finance Corporation,4.73,5.01
+HMR,Heidmar Maritime Holdings Corp,1.26,1.36
+HTHT,H World Group Ltd ADR,43.25,46.61
 HVII,Hennessy Capital Investment Corp VII,10.49,10.52
-IPWR,Ideal Power Inc,4.95,5.23
+IPWR,Ideal Power Inc,4.67,5.2
+IVF,INVO Fertility Inc,1.34,1.53
 JCSE,JE Cleantech Holdings Ltd,1.48,1.49
+JCTC,Jewett-Cameron Trading Company Ltd,3.14,3.3
 JRSH,Jerash Holdings (US) Inc,4.9,5.17
-JYD,Jayud Global Logistics Ltd,1.02,1.0
+JYD,Jayud Global Logistics Ltd,1.02,1.05
+KGEI,Kolibri Global Energy Inc,5.4,6.04
 KRKR,36Kr Holdings Inc ADR,3.07,3.15
+KRNY,Kearny Financial Corp,9.74,9.77
 KSPI,Kaspi.kz AO ADR,92.0,94.0
-LTRX,Lantronix Inc,6.1,6.47
-LUNR,Intuitive Machines Inc,18.89,19.01
+LTRX,Lantronix Inc,6.1,6.65
+LUNR,Intuitive Machines Inc,17.85,20.38
 MCGA,Yorkville Acquisition Corp,10.24,10.29
 MCGAU,Yorkville Acquisition Units,10.35,10.36
 MTEK,Maris Tech Ltd,1.15,1.19
 MYX,Maywood Acquisition Corp 2,9.96,9.97
 NESR,National Energy Services Reunited Corp.,29.93,35.79
 NRDS,NerdWallet  Inc.,9.62,9.8
-NSPR,InspireMD Inc,0.74,0.98
+NTHI,NeOnc Technologies Holdings Inc,4.49,4.91
 NTRA,Natera  Inc.,283.8,318.35
-NWFL,Norwood Financial Corp,34.13,34.49
-OCC,Optical Cable Corp,17.15,17.8
+OCUL,Ocular Therapeutix  Inc.,10.54,10.65
 ONC,BeOne Medicines AG ADR,330.46,359.0
 OPAL,Opal Fuels Inc.,2.53,2.6
 OTGA,OTG Acquisition I Corp,10.19,10.21
-OXLC,Oxford Lane Capital Corp,9.25,9.61
 OYSE,Oyster Enterprises II Acquisition Corp,10.32,10.34
 PMTS,CPI Card Group Inc,21.96,28.59
+PNRG,Primeenergy Resources Corp,197.67,210.6
 PONO,Pono Capital Four Inc,9.97,10.03
 PRAX,Praxis Precision Medicines  Inc.,350.56,366.96
-PROP,Prairie Operating Co,0.84,1.0
 PUBM,PubMatic  Inc.,13.83,17.76
 PXS,Pyxis Tankers Inc,4.85,4.95
-QMCO,Quantum Corp,12.04,26.11
 QNRX,Quoin Pharmaceuticals Ltd ADR,4.84,5.36
-QRHC,Quest Resource Holding Corp,1.5,1.6
-RCMT,R C M Technologies Inc,29.38,35.05
-RDI,Reading International Inc Class A,1.55,1.61
-RICK,RCI Hospitality Holdings Inc,28.07,30.87
+QRHC,Quest Resource Holding Corp,1.5,1.63
+RCMT,R C M Technologies Inc,29.38,40.43
+RDI,Reading International Inc Class A,1.55,1.75
 RILYZ,BRC Group Holdings 5 25 Senior Notes due 2028,19.41,19.5
 RMCO,Royalty Management Holding Corp,2.74,3.05
-RNXT,RenovoRx Inc,1.15,1.4
-RRGB,Red Robin Gourmet Burgers Inc,8.44,10.14
+RRGB,Red Robin Gourmet Burgers Inc,8.44,10.59
+RUM,RUM Group Inc.,6.43,8.24
 RWAY,Runway Growth Finance Corp,5.77,6.63
-SBC,SBC Medical Group Holdings Inc,3.21,3.66
-SCNX,Scienture Holdings Inc,0.42,0.46
+SBC,SBC Medical Group Holdings Inc,3.21,3.65
 SCZM,Santacruz Silver Mining Ltd,6.81,8.98
-SELF,Global Self Storage Inc,5.28,5.35
 SENS,Senseonics Holdings Inc,5.94,7.54
-SILC,Silicom Ltd,46.8,49.5
-SLNG,Stabilis Solutions Inc,4.81,6.48
-SOHU,Sohu.com Ltd ADR,14.12,14.5
+SIEB,Siebert Financial Corp,1.72,1.94
+SILC,Silicom Ltd,46.8,48.65
+SMTC,Semtech Corporation,141.36,154.22
 SPT,Sprout Social  Inc.,8.82,10.05
 SQFTP,Presidio Property Trus 9.375 Cumulative Redeemable Perpetual Cumulative,6.15,7.2
+SWMR,Swarmer Inc,46.18,47.08
+TLF,Tandy Leather Factory Inc,2.45,2.6
 TMCI,Treace Medical Concepts  Inc.,4.68,4.67
 TORO,Toro Corp.,5.35,5.74
-TPCS,TechPrecision Corp,5.03,5.99
+TPCS,TechPrecision Corp,4.96,6.23
 TRUP,Trupanion  Inc.,27.37,29.06
 TUSK,Mammoth Energy Services Inc,3.25,3.36
-VUZI,Vuzix Corp,2.72,3.1
-WDAY,Workday  Inc.,179.64,198.68
-WTBA,West Bancorporation Inc,28.61,29.83
+VUZI,Vuzix Corp,2.69,3.09
+WOK,WORK Medical Technology Group Ltd,2.3,2.33
