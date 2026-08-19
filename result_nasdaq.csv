@@ -1,91 +1,119 @@
 ﻿종목코드,종목명,진입가,오늘종가
+ABTC,American Bitcoin Corp,7.07,7.9
 ACGCU,ACP Holdings Acquisition Units,10.08,10.12
+ACHV,Achieve Life Sciences  Inc.,6.77,8.53
 ADAML,Adamas 6 875 Fixed To Floating Rate Cumulative Redeemable Pref Shs Series F,24.6,24.79
 AFRI,Forafric Global PLC,10.85,10.75
 AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.14,25.18
-ALEC,Alector  Inc.,2.09,2.21
+ALEC,Alector  Inc.,2.15,2.43
+AQST,Aquestive Therapeutics Inc,4.41,4.59
 ARCI,Archimedes Tech SPAC Partners III Co,10.14,10.17
 ASBP,Aspire Biopharma Holdings Inc,7.76,7.79
-ASMB,Assembly Biosciences Inc,28.73,32.13
+ASMB,Assembly Biosciences Inc,27.87,33.84
+ASST,Strive Inc,13.0,14.73
 ASTL,Algoma Steel Group Inc,4.39,4.43
 AZ,A2Z Cust2Mate Solutions Corp,6.28,6.47
+AZI,Autozi Internet Technology (Global) Ltd,1.62,1.66
 BDSX,Biodesix Inc,24.5,24.86
+BEEM,Beam Global,1.17,1.21
 BEEP,Mobile Infrastructure Corp,1.94,2.76
-BFRI,Biofrontera Inc,1.27,1.44
 BHAV,BHAV Acquisition Corp,9.99,10.0
 BOLD,Boundless Bio  Inc.,2.57,2.82
 BPYPM,Brookfield Property Preferred Pref Shs Class A,16.16,16.1
 BTBD,Bt Brands Inc,1.2,1.25
+BTCS,BTCS Inc,1.13,1.26
+BULL,Webull Corp,8.15,8.64
 BUUU,BUUU Group Ltd,24.86,27.75
 BWMN,Bowman Consulting Group Ltd.,29.6,42.42
+CADL,Candel Therapeutics Inc,10.68,13.5
 CEPO,Cantor Equity Partners I Inc,10.67,10.68
 CGBD,Carlyle Secured Lending Inc,10.94,11.14
+CGC,Canopy Growth Corporation,1.02,1.04
 CHPG,ChampionsGate Acquisition Corp,10.42,10.45
+CHYM,Chime Financial  Inc.,31.73,33.07
 COCP,Cocrystal Pharma Inc,1.05,1.08
+CPB,Campbell's Co,23.05,23.81
 CRCT,Cricut Inc,4.79,5.9
-CYPH,Cypherpunk Technologies Inc,0.75,0.81
+CRSP,CRISPR Therapeutics AG,56.34,59.81
+CURX,Curanex Pharmaceuticals Inc,0.23,0.27
+CYPH,Cypherpunk Technologies Inc,0.75,1.07
 DCBO,Docebo Inc.,22.02,23.41
 DDI,DoubleDown Interactive Co Ltd ADR,11.67,12.05
+DFDV,DeFi Development Corp (Nevada),3.12,3.42
 DSP,Viant Technology Inc,13.35,14.09
 EDRY,EuroDry Ltd,26.51,36.39
 EMBC,Embecta Corp.,3.72,4.99
-FBLG,Fibrobiologics Inc,1.03,1.14
+FBLG,Fibrobiologics Inc,1.11,1.19
 FENC,Fennec Pharmaceuticals Inc.,11.16,10.94
 FHTX,Foghorn Therapeutics Inc.,6.17,6.24
+FLD,Fold Holdings Inc,0.5,0.52
 FORTY,Formula Systems 1985 Ltd ADR,114.0,116.21
 FOXF,Fox Factory Holding Corp.,19.53,21.03
 FTDR,Frontdoor Inc,79.07,83.91
+FWDI,Forward Industries Inc,4.54,4.94
+GASS,StealthGas Inc,9.01,9.69
+GDC,GD Culture Group Ltd,1.94,2.2
+GENB,Generate Biomedicines Inc,15.72,16.97
 GIX,GigCapital9 Corp,9.95,9.97
 GLIBK,Liberty Capital Corp Series C,23.68,25.28
 GSHRU,Gesher Acquisition II Units,10.53,10.61
-HBIO,Harvard Bioscience Inc,6.47,6.97
-HMR,Heidmar Maritime Holdings Corp,1.32,1.39
+GYRE,Gyre Therapeutics  Inc.,6.86,7.15
+HAIN,Hain Celestial Group Inc,0.6,0.63
+HSDT,Solana Co,1.83,1.86
+HTHT,H World Group Ltd ADR,43.25,48.59
 HVII,Hennessy Capital Investment Corp VII,10.49,10.52
+IMNM,Immunome  Inc.,27.99,29.83
+IPM,Intelligent Protection Management Corp,1.93,1.95
 JCSE,JE Cleantech Holdings Ltd,1.48,1.49
-JCTC,Jewett-Cameron Trading Company Ltd,3.14,3.04
+JKHY,Jack Henry & Associates Inc,161.15,163.06
 JRSH,Jerash Holdings (US) Inc,4.9,5.17
-JYD,Jayud Global Logistics Ltd,1.02,1.03
 KRKR,36Kr Holdings Inc ADR,3.07,3.15
 KSPI,Kaspi.kz AO ADR,92.0,94.0
-KURA,Kura Oncology  Inc.,12.12,12.33
-LCUT,Lifetime Brands Inc,9.63,9.9
+KURA,Kura Oncology  Inc.,12.08,12.53
+LGVN,Longeveron Inc,0.77,0.82
+MAKO,Mako Mining Corp,9.99,10.4
 MCGA,Yorkville Acquisition Corp,10.24,10.29
 MCGAU,Yorkville Acquisition Units,10.35,10.36
-MSEX,Middlesex Water Company,58.28,58.81
+MLAB,Mesa Laboratories  Inc.,112.8,119.72
+MRNA,Moderna Inc,76.56,174.38
+MSTR,Strategy Inc,101.95,104.25
 MTEK,Maris Tech Ltd,1.15,1.19
 MYX,Maywood Acquisition Corp 2,9.96,9.97
+NCI,Neo-Concept International Group Holdings Ltd,12.39,12.35
 NESR,National Energy Services Reunited Corp.,29.93,35.79
 NRDS,NerdWallet  Inc.,9.62,9.8
+NTHI,NeOnc Technologies Holdings Inc,4.49,4.63
 NTRA,Natera  Inc.,283.8,318.35
-OCUL,Ocular Therapeutix  Inc.,10.54,11.01
+OCGN,Ocugen  Inc.,1.47,1.48
 ONC,BeOne Medicines AG ADR,330.46,359.0
 OPAL,Opal Fuels Inc.,2.53,2.6
-ORMP,Oramed Pharmaceuticals Inc,4.46,4.78
+ORMP,Oramed Pharmaceuticals Inc,4.46,4.79
 OTGA,OTG Acquisition I Corp,10.19,10.21
-OVLY,Oak Valley Bancorp,34.39,34.49
 OYSE,Oyster Enterprises II Acquisition Corp,10.32,10.34
-PCYO,Pure Cycle Corp,11.4,11.44
+PHIO,Phio Pharmaceuticals Corp,1.13,1.15
 PMTS,CPI Card Group Inc,21.96,28.59
-PNRG,Primeenergy Resources Corp,197.67,212.71
+PNRG,Primeenergy Resources Corp,199.9,213.35
 PONO,Pono Capital Four Inc,9.97,10.03
+PPC,Pilgrims Pride Corp,29.95,31.28
 PRAX,Praxis Precision Medicines  Inc.,350.56,366.96
 PUBM,PubMatic  Inc.,13.83,17.76
+PURR,Hyperliquid Strategies Inc,7.61,9.39
 PXS,Pyxis Tankers Inc,4.85,4.95
 QNRX,Quoin Pharmaceuticals Ltd ADR,4.84,5.36
-RCEL,AVITA Medical Inc,8.2,9.85
-RCMT,R C M Technologies Inc,29.38,41.05
+RGEN,Repligen Corporation,165.7,176.36
 RILYZ,BRC Group Holdings 5 25 Senior Notes due 2028,19.41,19.5
 RMCO,Royalty Management Holding Corp,2.74,3.05
 RWAY,Runway Growth Finance Corp,5.77,6.63
-SBC,SBC Medical Group Holdings Inc,3.21,3.6
+SANA,Sana Biotechnology  Inc.,3.93,4.1
+SBC,SBC Medical Group Holdings Inc,3.21,3.87
+SBET,Sharplink Inc,6.44,7.08
 SCZM,Santacruz Silver Mining Ltd,6.81,8.98
 SENS,Senseonics Holdings Inc,5.94,7.54
-SIEB,Siebert Financial Corp,1.72,2.04
-SOHU,Sohu.com Ltd ADR,14.43,14.5
 SPT,Sprout Social  Inc.,8.82,10.05
 SQFTP,Presidio Property Trus 9.375 Cumulative Redeemable Perpetual Cumulative,6.15,7.2
+TAYD,Taylor Devices Inc,57.09,57.7
 TMCI,Treace Medical Concepts  Inc.,4.68,4.67
 TORO,Toro Corp.,5.35,5.74
 TRUP,Trupanion  Inc.,27.37,29.06
 TUSK,Mammoth Energy Services Inc,3.25,3.36
-VUZI,Vuzix Corp,2.69,3.08
+USAU,US Gold Corp,15.62,15.66
