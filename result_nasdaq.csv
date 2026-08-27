@@ -1,137 +1,85 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABUS,Arbutus Biopharma Corp,4.84,5.2
-ACOG,Alpha Cognition Inc,9.13,9.75
-ACRS,Aclaris Therapeutics  Inc.,6.36,6.53
-ADAMM,Adamas 7 875 Fixed to Floating Rate Cumulative Redeemable Prf Shs Series E,25.49,25.52
-AESPU,Aeon Acquisition I Units,10.15,10.2
-AKTS,Aktis Oncology Inc,26.0,26.69
-ALDFU,Aldel Financial II Units,10.85,10.9
+ACAAU,Averin Capital Acquisition Unit,10.08,10.12
+AEAQ,Activate Energy Acquisition Corp,10.09,10.1
 ALOT,AstroNova Inc,28.95,28.99
-ALVO,Alvotech SA,4.12,5.05
-AMST,Amesite Inc,1.08,1.12
-APMC,AmperCap Acquisition Co,9.92,9.97
-APRE,Aprea Therapeutics Inc,0.71,0.95
-APUR,Aperture AC,9.97,9.99
-ARCT,Arcturus Therapeutics Holdings Inc,8.23,15.44
-ASMB,Assembly Biosciences Inc,32.95,35.33
-ASST,Strive Inc,13.2,21.39
-AVXL,Anavex Life Sciences Corp,3.51,3.56
-AXIN,Axiom Intelligence Acquisition Corp 1,10.32,10.33
-BAFN,Bayfirst Financial Corp,6.8,7.37
-BDSX,Biodesix Inc,24.86,28.08
-BHAV,BHAV Acquisition Corp,10.01,10.02
-BLZR,Trailblazer Acquisition Corp,10.18,10.2
-BMEA,Biomea Fusion  Inc.,1.35,1.73
-BMRA,Biomerica Inc,1.67,1.77
-BPOPM,Popular Capital Trust II 6 125 Cumulative Monthly Income Pref Shs,25.25,25.28
-BPYPO,Brookfield Ppty Partners 6 375 Cum Red Perp Pfd Unit Class A,15.4,15.41
-BRR,ProCap Financial Inc,2.13,2.25
-BULL,Webull Corp,8.16,8.94
-CAAS,China Automotive Systems Inc,4.72,5.34
-CAN,Canaan Inc ADR,0.29,0.42
-CCG,Cheche Group Inc,17.01,17.21
-CDZI,Cadiz Inc,3.64,4.14
-CEPO,Cantor Equity Partners I Inc,10.69,10.78
-CFFI,C&F Financial Corp,88.64,89.44
-CGEN,Compugen Ltd.,2.5,2.87
-CHCI,Comstock Holding Companies Inc,19.06,19.52
-CHTRP,Charter Communications Cumulative Redeemable Prf Shs Series A,22.1,23.79
-CLAR,Clarus Corp,3.81,3.8
-CLIR,ClearSign Technologies Corp,4.67,4.7
-CLPT,Clearpoint Neuro Inc,15.67,16.96
-CRBP,Corbus Pharmaceuticals Holdings  Inc.,10.49,11.31
-CRML,Critical Metals Corp,7.47,8.1
-CUVL,Clinuvel Pharmaceuticals Ltd ADR,7.4,7.6
-CYPH,Cypherpunk Technologies Inc,0.81,1.64
-DFDV,DeFi Development Corp (Nevada),3.16,4.58
-DMAA,Drugs Made In America Acquisition Corp,10.72,10.76
-DMII,Drugs Made In America Acquisition II Corp,10.13,10.15
-DNMX,Dynamix Corp III,10.04,10.06
-DTCX,Datacentrex Inc,2.16,2.74
-EDIT,Editas Medicine  Inc.,3.04,3.28
-ELUT,Elutia Inc,0.98,1.01
-ENTA,Enanta Pharmaceuticals Inc,13.81,14.08
-EOLS,Evolus Inc,8.34,8.98
-EVOX,Evolution Global Acquisition Corp,10.09,10.1
-FCNCO,First Citizens BancShares 5 625 Non Cumulative Perpetual Prf Shs Series C,20.8,20.97
-FGNX,FG Nexus Inc,7.82,7.86
-FLD,Fold Holdings Inc,0.5,0.52
-FLXS,Flexsteel Industries Inc,77.88,81.53
-FORTY,Formula Systems 1985 Ltd ADR,116.21,117.51
-FRHC,Freedom Holding Corp,160.8,171.02
-FUTU,Futu Holdings Limited ADR,110.22,125.63
-FWDI,Forward Industries Inc,4.54,6.05
-GENB,Generate Biomedicines Inc,16.08,20.38
-GFAI,Guardforce AI Co Ltd,0.4,0.41
-GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,20.92,21.18
-GTERA,Globa Terra Acquisition Corp,10.39,10.4
+APRE,Aprea Therapeutics Inc,0.71,0.98
+ARCT,Arcturus Therapeutics Holdings Inc,10.28,15.83
+ASST,Strive Inc,14.73,21.5
+AXIN,Axiom Intelligence Acquisition Corp 1,10.31,10.32
+BDSX,Biodesix Inc,25.54,30.6
+BEEM,Beam Global,1.21,1.71
+BLZR,Trailblazer Acquisition Corp,10.18,10.21
+BMEA,Biomea Fusion  Inc.,1.39,1.71
+BNKK,Bonk Inc,1.25,1.28
+BPYPO,Brookfield Ppty Partners 6 375 Cum Red Perp Pfd Unit Class A,15.4,15.4
+BRNS,Barinthus Biotherapeutics PLC ADR,0.67,0.71
+BZ,KANZHUN LIMITED ADR,17.46,18.84
+CBIO,Crescent Biopharma  Inc.,17.48,18.02
+CDZI,Cadiz Inc,3.55,4.03
+CELU,Celularity Inc,0.81,0.88
+CFFI,C&F Financial Corp,88.64,91.59
+CGEN,Compugen Ltd.,2.5,2.84
+CHTRP,Charter Communications Cumulative Redeemable Prf Shs Series A,22.13,23.92
+CRAQ,Cal Redwood Acquisition Corp,10.35,10.38
+CRE,Cre8 Enterprise Ltd,3.17,6.81
+CRML,Critical Metals Corp,7.25,7.99
+CYCN,Cyclerion Therapeutics Inc,4.13,4.15
+DTCX,Datacentrex Inc,2.16,2.71
+DYOR,Insight Digital Partners II,10.1,10.12
+ENGN,enGene Therapeutics Inc.,1.93,1.95
+FLD,Fold Holdings Inc,0.52,0.57
+FOXX,Foxx Development Holdings Inc,2.87,3.0
+FSHPU,Flag Ship Acquisition Units,11.19,11.25
+GBLI,Global Indemnity Group LLC,28.97,29.0
+GOODO,Gladstone Commercial 6 00 Cum Red Prf Shs Series G,20.92,21.17
 HAVA,Harvard Ave Acquisition Corp,10.18,10.2
-HSDT,Solana Co,1.81,2.14
-HYPD,Hyperion DeFi Inc,3.02,3.41
-IFRX,InflaRx NV,2.18,2.46
-IMMX,Immix Biopharma  Inc.,11.81,14.47
-INBX,Inhibrx Biosciences Inc,98.36,122.72
-IRD,Opus Genetics Inc,3.88,4.11
-IRHO,Iron Horse Acquisitions Corp II,10.03,10.05
-IXHL,Incannex Healthcare Inc,3.36,3.75
-JANX,Janux Therapeutics  Inc.,16.96,18.68
-JOYY,JOYY Inc. ADR,74.88,75.0
-KCHV,Kochav Defense Acquisition Corp,10.43,10.44
-KFFB,Kentucky First Federal Bancorp,5.62,5.83
-KURA,Kura Oncology  Inc.,12.33,13.59
-KYNB,Kyntra Bio  Inc.,7.39,8.1
-LAFAU,LaFayette Acquisition Units,10.2,10.22
-LATA,Galata Acquisition Corp II,10.15,10.18
-LBTYB,Liberty Global Ltd Class B,13.2,13.4
-LHSW,Lianhe Sowell International Group Ltd,3.1,3.77
-LITS,Lite Strategy Inc,1.03,1.05
-LOT,Lotus Technology Inc ADR,1.09,1.15
-LSBK,Lake Shore Bancorp Inc,17.24,17.24
-MESH,Meshflow Acquisition Corp,10.05,10.07
-MGYR,Magyar Bancorp Inc,19.5,19.5
-MNOV,MediciNova Inc,1.42,1.57
-MOLN,Molecular Partners AG ADR,4.29,4.38
-MRKR,Marker Therapeutics Inc,1.41,1.52
-MRNA,Moderna Inc,68.28,158.83
-MSBIP,Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A,25.34,25.4
-NCNO,nCino  Inc.,20.81,20.81
-NGEN,NervGen Pharma Corp,1.78,2.08
-NGNE,Neurogene Inc.,39.45,40.84
-NMP,Nmp Acquisition Corp,10.33,10.34
-NVAX,Novavax  Inc.,8.43,9.44
-OHAC,Oceanhawk Acquisition Corp,9.95,9.96
-OMEX,Odyssey Marine Exploration Inc,0.91,0.93
-ORKT,Orangekloud Technology Inc,1.07,1.11
-ORMP,Oramed Pharmaceuticals Inc,4.78,5.21
-PBHC,Pathfinder Bancorp Inc (MARYLAND),16.53,16.5
-PECE,Peace Acquisition Corp,9.96,9.98
-PHIO,Phio Pharmaceuticals Corp,1.13,1.19
-PMN,ProMIS Neurosciences Inc,15.19,15.36
-PRE,Prenetics Global Ltd,22.06,23.25
-PRPO,Precipio Inc,25.24,30.85
-PRQR,ProQR Therapeutics NV,2.15,2.38
-PURR,Hyperliquid Strategies Inc,7.61,11.87
-QADR,QDRO Acquisition Corp,9.97,10.0
-RAND,Rand Capital Corp,10.38,11.47
-RDI,Reading International Inc Class A,1.75,1.93
+HDL,Super Hi International Holding Ltd. ADR,14.1,14.12
+HURC,Hurco Companies Inc,22.88,22.91
+IFRX,InflaRx NV,2.18,2.42
+INACU,Indigo Acquisition Units,10.33,10.37
+IRON,Disc Medicine  Inc.,81.21,82.67
+JABRU,JAB Acquisition I Units,10.09,10.1
+JOYY,JOYY Inc. ADR,74.89,74.81
+KEYY,Keystone Acquisition Corp,9.89,9.89
+KFFB,Kentucky First Federal Bancorp,5.62,6.34
+KMDA,Kamada Ltd.,7.89,8.38
+LOT,Lotus Technology Inc ADR,1.09,1.19
+MBBC,Marathon Bancorp Inc,15.27,15.4
+MCGA,Yorkville Acquisition Corp,10.3,10.33
+MESH,Meshflow Acquisition Corp,10.05,10.06
+MGYR,Magyar Bancorp Inc,19.5,19.68
+MOLN,Molecular Partners AG ADR,4.33,4.45
+MSBIP,Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A,25.4,25.45
+MTEX,Mannatech Inc,6.5,7.1
+NCNO,nCino  Inc.,20.81,21.51
+NERV,Minerva Neurosciences  Inc,4.79,5.43
+NEWTH,NewtekOne 8 625 Fixed Rate Senior Notes due 2029,25.3,25.37
+NEWTH,NewtekOne 8 625 Fixed Rate Senior Notes due 2029,25.3,25.37
+NEXM,NexMetals Mining Corp,2.34,2.52
+NTRSO,Northern Trust DS Representing 1 1000th Non Cumulative Perpetual Pref Shs,18.63,18.65
+NVCT,Nuvectis Pharma Inc,23.33,25.0
+ODTX,Odyssey Therapeutics Inc,24.25,25.62
+ORMP,Oramed Pharmaceuticals Inc,4.79,5.34
+OYSE,Oyster Enterprises II Acquisition Corp,10.35,10.38
+PACH,Pioneer Acquisition I Corp,10.3,10.31
+PRE,Prenetics Global Ltd,22.06,25.78
+RAND,Rand Capital Corp,10.38,11.23
+RDIB,Reading International Inc Class B,9.34,15.38
 RIBB,Ribbon Acquisition Corp,10.82,10.88
-RR,Richtech Robotics Inc.,1.8,1.97
-RUM,RUM Group Inc.,8.24,10.23
-SOPH,SOPHiA GENETICS SA,7.71,8.65
-SPRB,Spruce Biosciences  Inc.,52.92,63.4
-SSEA,Starry Sea Acquisition Corp,10.33,10.34
-STKE,Sol Strategies Inc,1.18,1.3
-SUPX,SuperX AI Technology Ltd,7.69,10.5
-SVCC,Stellar V Capital Corp,10.65,10.66
-SWVL,Swvl Holdings Corp,1.48,2.21
-TCBIO,Texas Capital Bancshares Depositary Shares 5 75 Non Cum Pref Shs Series B,20.74,20.77
-TDWD,Tailwind 2.0 Acquisition Corp,10.08,10.1
-TNXP,Tonix Pharmaceuticals Holding Corp.,12.71,13.66
-TRGS,TRG Latin America Acquisitions Corp,9.93,9.95
+RMTI,Rockwell Medical Inc,7.83,7.91
+RR,Richtech Robotics Inc.,1.8,1.85
+SOGP,Sound Group Inc ADR,12.89,13.46
+SPRB,Spruce Biosciences  Inc.,52.96,61.48
+SRRK,Scholar Rock Holding Corporation,56.51,60.04
+SUPX,SuperX AI Technology Ltd,7.69,9.37
+SVRN,Oceanpal Inc,8.2,8.75
+TCBIO,Texas Capital Bancshares Depositary Shares 5 75 Non Cum Pref Shs Series B,20.74,20.75
+TIGR,UP Fintech Holding Limited ADR,5.02,5.46
+TLF,Tandy Leather Factory Inc,2.6,2.6
+TWFG,TWFG  Inc.,29.07,30.9
 TXMD,TherapeuticsMD Inc,2.11,2.28
-UPXI,Upexi  Inc,0.88,1.09
-VIR,Vir Biotechnology  Inc.,9.61,10.71
-VLYPP,Valley National 6 25 Fixed to Floating Rate Non Cumulative Perpetual Pref Shs,25.13,25.17
-YHNA,YHN Acquisition I Ltd,10.96,11.03
-ZOOZ,Zooz Strategy Ltd,5.5,6.21
-ZURA,Zura Bio Ltd,5.97,6.32
+XPON,Expion360 Inc,4.43,9.17
+YYGH,YY Group Holding Ltd,1.44,2.12
+ZKP,Lafayette Digital Acquisition Corp I,10.01,10.02
+ZOOZ,Zooz Strategy Ltd,5.5,6.18
+ZYME,Zymeworks Inc.,27.21,29.31
