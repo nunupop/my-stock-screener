@@ -1,66 +1,87 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AACPU,Apogee Acquisition Units,10.28,10.72
-ADSK,Autodesk  Inc.,257.96,260.66
-AIIR,Air Global PLC,7.9,7.47
-AIOS,AIOS Tech Inc,15.48,16.65
-AKTX,Akari Therapeutics PLC ADR,10.66,10.7
+AERT,Aeries Technology Inc,7.09,7.12
+AFCG,Advanced Flower Capital Inc,3.58,3.6
+AIOS,AIOS Tech Inc,15.48,15.55
+AQMS,Aqua Metals Inc,2.86,2.99
 ARCIU,Archimedes Tech SPAC Partners III Units,10.38,10.41
-ASST,Strive Inc,18.22,21.74
-AXIN,Axiom Intelligence Acquisition Corp 1,10.31,10.33
-BCIC,BCP Investment Corp,7.75,7.78
-BEAGU,Bold Eagle Acquisition Units,11.03,11.22
+ASND,Ascendis Pharma A/S,259.62,263.04
+ASST,Strive Inc,19.73,24.22
+BANX,ArrowMark Financial Corp.,20.83,20.89
+BLZR,Trailblazer Acquisition Corp,10.18,10.21
 BLZRU,Trailblazer Acquisition Units,10.28,10.33
-BREZ,Breeze Acquisition Corp II,10.0,10.0
-BTBD,Bt Brands Inc,1.31,1.48
-CFFI,C&F Financial Corp,88.84,91.75
-CME,CME Group Inc.,274.98,285.8
-CYAB,Cyabra Inc,0.39,0.45
-DFDV,DeFi Development Corp (Nevada),3.94,4.98
+BPOPM,Popular Capital Trust II 6 125 Cumulative Monthly Income Pref Shs,25.25,25.5
+BPYPM,Brookfield Property Preferred Pref Shs Class A,16.51,17.0
+BPYPN,Brookfield Ppty Partners 5 750 Cum Red Perp Series 3 Class A,14.0,14.09
+BPYPO,Brookfield Ppty Partners 6 375 Cum Red Perp Pfd Unit Class A,15.41,15.44
+CHCI,Comstock Holding Companies Inc,19.06,19.76
+CHPG,ChampionsGate Acquisition Corp,10.47,10.48
+CHSCL,CHS Cumulative Redeemable Pref Shs Series 4 Class B,25.43,25.54
+CHSCO,CHS Cumulative Redeemable Pref Shs Class B,25.93,25.99
+CLGN,Collplant Biotechnologies Ltd,0.34,0.39
+CLST,Catalyst Bancorp Inc,17.61,17.81
+CME,CME Group Inc.,279.17,285.5
+COOT,Australian Oilseeds Holdings Ltd,0.48,0.59
+COSM,Cosmos Health Inc,0.23,0.24
+CPBI,Central Plains Bancshares Inc,21.0,21.05
+CRNX,Crinetics Pharmaceuticals  Inc.,84.78,84.95
+DFDV,DeFi Development Corp (Nevada),4.09,5.38
+DH,Definitive Healthcare Corp,0.73,0.95
+DPRO,Draganfly Inc,4.89,5.42
 DRDBU,Roman DBDR Acquisition II Units,10.63,10.72
-DSGX,The Descartes Systems Group Inc.,80.0,81.83
-DUO,Fangdd Network Group Ltd,0.69,0.96
-EPSN,Epsilon Energy Ltd,5.94,6.02
-FMAC,Future Money Acquisition Corp,10.06,10.08
-FRHC,Freedom Holding Corp,170.66,174.85
-FRNM,Freenome  Inc.,13.81,14.79
-FSEA,First Seacoast Bancorp Inc,17.12,17.18
-GBLI,Global Indemnity Group LLC,28.97,29.62
+DSGX,The Descartes Systems Group Inc.,80.0,80.64
+FACT,FACT II Acquisition Corp,10.69,10.7
+FRHC,Freedom Holding Corp,170.66,175.01
+GBLI,Global Indemnity Group LLC,28.97,29.57
 GENVR,Gen Digital Contingent Value Rights,3.97,5.2
-GSRV,GSR V Acquisition Corp,9.88,9.9
-KTTA,Pasithea Therapeutics Corp,0.54,0.56
+HAVA,Harvard Ave Acquisition Corp,10.19,10.21
+HCAC,Hall Chadwick Acquisition Corp,10.09,10.1
+HCACU,Hall Chadwick Acquisition Units,10.3,10.32
+HLP,Hongli Group Inc,1.31,1.37
+HNNA,Hennessy Advisors Inc,10.05,10.07
+ITHAU,ITHAX Acquisition III Units,10.06,10.13
+JSM,Navient 6 Prcnt Senior Notes Exp 15 Dec 2043,18.01,18.39
+KTTA,Pasithea Therapeutics Corp,0.54,0.57
 LATA,Galata Acquisition Corp II,10.15,10.18
-LOT,Lotus Technology Inc ADR,1.11,1.24
+LHSW,Lianhe Sowell International Group Ltd,3.1,3.89
+LIEN,Chicago Atlantic BDC Inc,10.15,10.34
+LILAP,Liberty Latin America 9 0 Fixed Rate Cumulative Perpetual Redeemable Prf Shs,20.98,21.14
+MCGA,Yorkville Acquisition Corp,10.3,10.34
 MESHU,Meshflow Acquisition Units,10.13,10.15
-MEVO,M Evo Global Acquisition Corp II,9.99,10.01
-MGYR,Magyar Bancorp Inc,19.6,19.49
-MTLS,Materialise NV ADR,6.92,7.02
-NA,Nano Labs Ltd,2.0,2.22
-NGEN,NervGen Pharma Corp,1.86,2.28
-NICM,Nicola Mining Inc ADR,6.85,6.88
-ORIO,Orion Digital Corp,0.95,1.09
+MEVO,M Evo Global Acquisition Corp II,9.99,10.02
+MIACU,Meridian3 Industrials Acquisition Units,10.0,10.05
+MKLY,McKinley Acquisition Corp,10.23,10.25
+NCSM,NCS Multistage Holdings Inc,51.69,53.35
+NVAX,Novavax  Inc.,8.94,9.37
+OMSE,OMS Energy Technologies Inc,4.5,4.82
 ORIQ,Origin Investment Corp I,10.38,10.39
-PAACU,Proem Acquisition Units,10.29,10.3
-PAHC,Phibro Animal Health Corp,37.15,37.67
-PBAM,Private Bancorp of America Inc,87.71,88.7
-PECE,Peace Acquisition Corp,9.97,9.99
-PRTS,Carparts.Com Inc,6.75,7.27
-PSQL,Bleichroeder Acquisition Corp II,10.31,19.11
-QNBC,QNB Corp,44.5,45.17
-QNRX,Quoin Pharmaceuticals Ltd ADR,6.05,6.12
-RCKT,Rocket Pharmaceuticals  Inc.,3.65,3.86
-REGCO,Regency Centers 5 875 Series B Cumulative Redeemable Preferred Stock Series B,22.2,22.4
+PAHC,Phibro Animal Health Corp,37.15,37.74
+PASW,Ping An Biomedical Co Ltd,0.15,0.15
+PBAM,Private Bancorp of America Inc,88.5,88.7
+PMTRU,Perimeter Acquisition I Units,11.14,11.14
+PRGS,Progress Software Corp,44.73,46.27
+PSQL,Bleichroeder Acquisition Corp II,10.45,17.3
+PURR,Hyperliquid Strategies Inc,10.64,12.25
+RCMT,R C M Technologies Inc,41.12,41.6
+RDHL,Redhill Biopharma Ltd ADR,0.73,0.9
 REGCP,Regency Centers 6 25 Series A Cumulative Redeemable Preferred Stock Series A,23.23,23.42
-RMNI,Rimini Street Inc,5.25,5.65
-RREVU,RRE Ventures Acquisition Units,10.08,10.09
-SIEB,Siebert Financial Corp,2.1,2.19
-SRTS,Sensus Healthcare Inc,3.34,3.52
-STHO,Star Holdings,9.8,9.85
-SVCC,Stellar V Capital Corp,10.65,10.66
-SVCCU,Stellar V Capital Units,10.65,10.71
-SY,So-Young International Inc ADR,2.39,2.4
-TAYD,Taylor Devices Inc,58.52,60.0
-TRVG,Trivago NV ADR,5.62,6.0
-UYSC,UY Scuti Acquisition Corp,10.85,10.88
-WCT,Wellchange Holdings Co Ltd,1.07,1.09
-XRPN,Armada Acquisition Corp II,10.51,10.55
-XRTX,XORTX Therapeutics Inc,2.19,2.34
+RILYG,BRC Group Holdings 5 00 Senior Notes due 2026,24.71,24.84
+RILYG,BRC Group Holdings 5 00 Senior Notes due 2026,24.71,24.84
+RILYN,BRC Group Holdings 6 50 Senior Notes Due 2026,25.04,25.15
+RMTI,Rockwell Medical Inc,8.1,8.31
+RREVU,RRE Ventures Acquisition Units,10.08,10.1
+SAIC,Science Applications International Corp,128.71,128.22
+SIEB,Siebert Financial Corp,2.11,2.22
+SKYX,SKYX Platforms Corp,1.32,1.34
+SLNHP,Soluna Holdings 9.0 Cumulative Perpetual Pref Shs Series A,12.51,12.53
+SQFTP,Presidio Property Trus 9.375 Cumulative Redeemable Perpetual Cumulative,7.37,7.38
+SRTS,Sensus Healthcare Inc,3.49,3.54
+SSAC,Spacsphere Acquisition Corp,10.09,10.09
+SY,So-Young International Inc ADR,2.39,2.91
+TITN,Titan Machinery Inc,20.18,20.57
+TLF,Tandy Leather Factory Inc,2.6,2.62
+VHCP,Vine Hill Capital Investment Corp II,10.05,10.06
+WAFDP,Wafd Depositary Shares,16.59,16.71
+WFRD,Weatherford International PLC,94.79,97.77
+YDDL,One and one Green Technologies.INC,1.97,2.28
+YSXT,YSX Tech Co Ltd,1.15,1.19
+ZOOZ,Zooz Strategy Ltd,6.09,6.69
