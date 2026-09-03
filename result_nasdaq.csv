@@ -1,76 +1,74 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AACPU,Apogee Acquisition Units,10.28,10.28
-ADBE,Adobe Inc,272.96,289.15
-ADSK,Autodesk  Inc.,257.96,270.58
-AIIR,Air Global PLC,7.9,7.98
-AIOS,AIOS Tech Inc,15.48,16.77
-APRE,Aprea Therapeutics Inc,0.71,0.86
-APUR,Aperture AC,9.97,10.0
-BEAG,Bold Eagle Acquisition Corp,10.75,10.8
-BEAGU,Bold Eagle Acquisition Units,11.03,11.22
-BIRD,Smartbird Inc,2.76,2.77
-BL,BlackLine Inc,33.12,33.72
-BMRA,Biomerica Inc,1.64,2.1
-BPYPN,Brookfield Ppty Partners 5 750 Cum Red Perp Series 3 Class A,14.0,14.1
-BREZ,Breeze Acquisition Corp II,10.0,10.0
-BRNS,Barinthus Biotherapeutics PLC ADR,0.62,0.73
-BZ,KANZHUN LIMITED ADR,17.46,18.0
-CFFI,C&F Financial Corp,88.84,90.6
-CLMB,Climb Global Solutions Inc,28.51,29.05
-DFDV,DeFi Development Corp (Nevada),3.77,5.28
-DMAA,Drugs Made In America Acquisition Corp,10.73,10.76
-DMII,Drugs Made In America Acquisition II Corp,10.14,10.14
-DNMX,Dynamix Corp III,10.06,10.07
-DSGX,The Descartes Systems Group Inc.,80.0,80.66
-FMAC,Future Money Acquisition Corp,10.06,10.08
-FROG,JFrog Ltd.,96.17,104.03
-GSRV,GSR V Acquisition Corp,9.88,9.9
-HOLO,MicroCloud Hologram Inc,1.77,1.89
-HSDT,Solana Co,1.86,2.43
-HYPD,Hyperion DeFi Inc,3.14,3.62
-KFFB,Kentucky First Federal Bancorp,5.62,5.91
-KZIA,Kazia Therapeutics Ltd ADR,14.6,16.9
-LHSW,Lianhe Sowell International Group Ltd,3.1,3.93
-LOT,Lotus Technology Inc ADR,1.09,1.25
-MESO,Mesoblast Limited ADR,17.43,18.18
-MKLY,McKinley Acquisition Corp,10.23,10.26
-MOLN,Molecular Partners AG ADR,4.33,4.65
-MSBIP,Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A,25.4,25.52
-MTLS,Materialise NV ADR,6.92,7.42
-NAVN,Navan  Inc.,29.71,30.58
-NCNO,nCino  Inc.,20.81,23.32
-NEO,NeoGenomics  Inc.,16.66,18.64
-NGEN,NervGen Pharma Corp,1.78,2.34
-OMSE,OMS Energy Technologies Inc,4.5,4.57
-OYSE,Oyster Enterprises II Acquisition Corp,10.35,10.37
-PECE,Peace Acquisition Corp,9.97,9.99
-PPIH,Perma-Pipe International Holdings Inc,26.89,27.22
-PRE,Prenetics Global Ltd,22.06,26.25
-PRTS,Carparts.Com Inc,6.75,7.17
-PSNYW,Polestar Automotive Holding UK PLC ADR Class C,5.25,6.23
+AERT,Aeries Technology Inc,7.09,7.28
+AFRI,Forafric Global PLC,11.18,11.3
+AKTX,Akari Therapeutics PLC ADR,9.81,10.37
+ALDF,Aldel Financial II Inc,10.78,10.8
+APACU,StoneBridge Acquisition II Units,10.35,10.4
+ASBP,Aspire Biopharma Holdings Inc,8.27,8.91
+BKHAU,Black Hawk Acquisition Units,12.3,12.47
+BLZR,Trailblazer Acquisition Corp,10.2,10.21
+BRNS,Barinthus Biotherapeutics PLC ADR,0.66,0.76
+CBIO,Crescent Biopharma  Inc.,17.48,17.93
+CFFI,C&F Financial Corp,89.44,91.41
+CHA,Chagee Holdings Ltd ADR,11.74,11.93
+CHEF,The Chefs' Warehouse  Inc.,115.35,115.52
+CLMT,Calumet  Inc.,50.81,51.52
+CNXC,Concentrix Corporation,26.87,32.28
+CTMX,CytomX Therapeutics  Inc.,3.57,3.67
+CYCN,Cyclerion Therapeutics Inc,4.13,4.17
+DPRO,Draganfly Inc,4.89,5.38
+DUOL,Duolingo  Inc.,147.03,158.77
+EMPD,Empery Digital Inc,3.42,3.51
+FLYE,Fly-E Group Inc,1.85,2.2
+FRNM,Freenome  Inc.,13.99,15.25
+GTERA,Globa Terra Acquisition Corp,10.4,10.42
+GTLB,GitLab Inc.,43.35,45.09
+GWAV,Greenwave Technology Solutions Inc,4.7,5.85
+HLP,Hongli Group Inc,1.31,1.38
+IPEXU,Inflection Point Acquisition V Units,11.08,11.5
+KRAQU,KRAKacquisition Units,10.11,10.12
+LAND,Gladstone Land Corp,8.83,9.56
+LPBB,Launch Two Acquisition Corp,10.8,10.81
+MEVO,M Evo Global Acquisition Corp II,9.99,10.02
+MGRT,Mega Fortune Co Ltd,101.99,107.99
+MMED,MiniMed Group Inc,20.7,22.42
+NGEN,NervGen Pharma Corp,2.08,2.32
+NOEMU,CO2 Energy Transition Units,12.12,12.16
+NVAX,Novavax  Inc.,9.44,10.12
+OMSE,OMS Energy Technologies Inc,4.5,4.73
+ONCH,1rt Acquisition Corp,10.32,10.32
+ONCHU,1RT Acquisition Units,10.43,10.44
+OYSE,Oyster Enterprises II Acquisition Corp,10.38,10.4
+PAAC,Proem Acquisition Corp I,9.98,10.1
+PAHC,Phibro Animal Health Corp,37.15,38.37
+PBAM,Private Bancorp of America Inc,88.51,89.09
+PEGA,Pegasystems Inc.,34.28,36.68
+PGACU,Pantages Capital Acquisition Units,10.84,11.6
+PNRG,Primeenergy Resources Corp,213.97,217.84
+PRGS,Progress Software Corp,44.73,45.22
 PSQL,Bleichroeder Acquisition Corp II,10.45,15.56
-QNBC,QNB Corp,44.5,45.0
-RANG,Range Capital Acquisition Corp,10.79,10.8
-RDI,Reading International Inc Class A,1.77,2.1
-RILYN,BRC Group Holdings 6 50 Senior Notes Due 2026,25.04,25.07
-SAIL,SailPoint  Inc.,19.99,20.45
-SATA,Strive Perp Var Rate Pref Shs Series A,99.94,100.01
-SKYA,Skyai  Inc,1.43,1.47
-SLMBP,SLM Floating Rate Non Cumulative Pref Shs Series B,75.2,75.23
-SNPS,Synopsys  Inc.,421.5,464.89
-SRPT,Sarepta Therapeutics  Inc.,19.73,21.59
-STHO,Star Holdings,9.8,9.87
-STKE,Sol Strategies Inc,1.21,1.34
-SVCC,Stellar V Capital Corp,10.65,10.66
-SVCCU,Stellar V Capital Units,10.65,10.71
-SZZL,Sizzle Acquisition Corp II,10.45,10.45
-TAOX,TAO Synergies Inc,3.76,4.28
-TAYD,Taylor Devices Inc,57.7,60.8
-TH,Target Hospitality Corp.,18.07,18.96
-TRMD,Torm PLC,31.06,31.8
-URBN,Urban Outfitters  Inc.,79.49,78.79
-UYSC,UY Scuti Acquisition Corp,10.85,10.88
-VNCE,Vince Holding Corp,6.86,7.81
-WSE,Wise Group PLC,13.09,13.12
-XRTX,XORTX Therapeutics Inc,2.19,2.44
-ZOOZ,Zooz Strategy Ltd,5.5,6.78
+PXS,Pyxis Tankers Inc,5.44,6.23
+PYPD,PolyPid Ltd,5.1,5.33
+QUCY,Quantum Cyber NV,1.5,1.48
+RENX,RenX Enterprises Corp,2.02,2.06
+RIBBU,Ribbon Acquisition Units,11.0,13.99
+SIMAU,SM Acquisition Units,10.96,11.25
+SLNG,Stabilis Solutions Inc,6.48,6.59
+SOCAU,Solarius Capital Acquisition Units,10.4,10.41
+SOWG,Sow Good Inc,3.47,3.73
+SZZL,Sizzle Acquisition Corp II,10.45,10.46
+TAVIU,Tavia Acquisition Units,10.8,11.0
+TGTX,TG Therapeutics  Inc.,56.04,56.09
+TITN,Titan Machinery Inc,20.18,20.54
+TJGC,TJGC Group Ltd,6.56,10.02
+TRVG,Trivago NV ADR,5.62,5.86
+TVACU,Texas Ventures Acquisition III Units,10.75,10.77
+VIOT,Viomi Technology Co Ltd ADR,0.77,0.97
+VIR,Vir Biotechnology  Inc.,10.71,11.63
+VNME,Vendome Acquisition Corp I,10.27,10.28
+WFCF,Where Food Comes From Inc,13.31,14.12
+WFRD,Weatherford International PLC,94.79,94.52
+WKHS,Workhorse Group Inc,3.51,3.56
+XCBEU,X3 Acquisition Units,10.09,10.25
+XSLL,Xsolla SPAC 1,9.98,9.99
+YHNAU,YHN Acquisition I Units,11.04,11.29
