@@ -1,81 +1,96 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AGMB,Agomab Therapeutics NV ADR,15.0,15.78
-ALIS,Calisa Acquisition Corp,10.22,10.3
-ATER,Aterian Inc,0.51,0.63
-BLTE,Belite Bio  Inc ADR,178.94,193.61
-BNKK,Bonk Inc,1.32,1.39
-BNR,Burning Rock Biotech Limited ADR,10.86,11.99
-BRNS,Barinthus Biotherapeutics PLC ADR,0.75,0.76
-BSVN,Bank7 Corp,52.34,57.43
-CHSCP,CHS 8 Cumulative Redeemable Pref Shs,26.75,26.79
-CLST,Catalyst Bancorp Inc,17.61,17.81
-CTAAU,ClearThink 1 Acquisition Units,10.1,10.12
-CYPH,Cypherpunk Technologies Inc,1.89,2.42
-DOCU,Docusign  Inc.,64.09,68.41
-DRDB,Roman Dbdr Acquisition Corp. II,10.66,10.68
-DXLG,Destination XL Group Inc,0.64,0.67
-EPRX,Eupraxia Pharmaceuticals Inc,7.43,8.4
-FTEK,Fuel Tech Inc,1.53,1.55
-GBLI,Global Indemnity Group LLC,29.62,30.36
-GIBO,Gibo Holdings Ltd,32.9,33.7
-GRI,GRI Bio Inc,2.2,2.88
-GRNQ,GreenPro Capital Corp,13.7,18.7
+AGMB,Agomab Therapeutics NV ADR,15.0,14.91
+AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.27,25.33
+ALM,Almonty Industries Inc.,18.93,19.12
+ANL,Adlai Nortye Group Ltd ADR,15.06,15.51
+ATER,Aterian Inc,0.51,0.73
+ATLO,Ames National Corp,32.1,32.3
+ATRA,Atara Biotherapeutics  Inc.,9.84,10.23
+BDCIU,BTC Development Units,10.25,10.3
+BLTE,Belite Bio  Inc ADR,178.94,192.85
+BNC,CEA Industries Inc,3.15,5.25
+BNR,Burning Rock Biotech Limited ADR,10.86,10.71
+BSRR,Sierra Bancorp,41.05,40.69
+BTBD,Bt Brands Inc,1.53,1.85
+BUUU,BUUU Group Ltd,31.84,37.95
+CBIO,Crescent Biopharma  Inc.,18.02,20.46
+CEG,Constellation Energy Corp,282.5,299.05
+CHA,Chagee Holdings Ltd ADR,11.64,12.59
+CHMG,Chemung Financial Corp,83.92,84.43
+CLST,Catalyst Bancorp Inc,17.81,18.15
+CNL,Collective Mining Ltd.,16.47,16.94
+CTOR,Citius Oncology Inc,0.91,0.93
+CTRM,Castor Maritime Inc,2.5,2.57
+CZWI,Citizens Community Bancorp Inc,22.0,22.1
+DMAA,Drugs Made In America Acquisition Corp,10.76,10.79
+DYNCU,Dynamix Units,10.85,11.2
+ECHO,EchoStar Corporation,92.51,93.42
+EFSI,Eagle Financial Services Inc,43.69,45.66
+EHLD,Euroholdings Ltd,10.68,12.2
+FACT,FACT II Acquisition Corp,10.7,10.71
+FTEK,Fuel Tech Inc,1.53,1.65
+GIBO,Gibo Holdings Ltd,32.9,33.26
+GRNQ,GreenPro Capital Corp,13.9,18.8
 GSRF,GSR IV Acquisition Corp,10.22,10.23
-HCM,HUTCHMED (China) Ltd ADR,12.64,14.09
-HLP,Hongli Group Inc,1.31,1.43
-HVIIU,Hennessy Capital Investment VII Units,10.8,11.9
+HACQ,HCM IV Acquisition Corp,10.07,10.08
+HITI,High Tide Inc,2.57,2.69
+HRMY,Harmony Biosciences Holdings  Inc.,39.93,42.07
 HVMCU,Highview Merger Units,10.35,10.43
-IMRN,Immuron Ltd ADR,1.19,1.8
-IRD,Opus Genetics Inc,4.12,4.67
+IBAC,IB Acquisition Corp,10.89,10.91
+ICMB,Investcorp Credit Management BDC Inc,0.86,0.86
+IDAI,T Stamp Inc,3.35,3.43
+INDP,Indaptus Therapeutics Inc,1.82,1.85
 JONEU,Jones Ventures INTL Acquisition1 Units,9.93,9.97
-LATA,Galata Acquisition Corp II,10.18,10.21
-LHSW,Lianhe Sowell International Group Ltd,4.16,4.5
+KOYNU,CSLM Digital Asset Acquisition III Units,10.29,10.31
+LAFA,LaFayette Acquisition Corp,10.15,10.16
+LSBK,Lake Shore Bancorp Inc,17.25,18.0
+MCGA,Yorkville Acquisition Corp,10.35,10.36
+MDRR,Medalist Diversified Inc,12.19,12.2
+MESH,Meshflow Acquisition Corp,10.08,10.11
 MESHU,Meshflow Acquisition Units,10.15,10.21
-MMTX,Miluna Acquisition Corp,10.18,10.21
-MNOV,MediciNova Inc,1.57,1.63
-MNTK,Montauk Renewables Inc,1.93,2.23
-MRX,Marex Group Ltd,72.99,78.27
-MTC,MMTEC Inc,4.06,4.36
-MTLS,Materialise NV ADR,7.42,7.46
-NMP,Nmp Acquisition Corp,10.34,10.37
-NSTS,NSTS Bancorp Inc,14.04,14.05
-ODTX,Odyssey Therapeutics Inc,26.39,28.76
-OTGA,OTG Acquisition I Corp,10.23,10.24
+MLYS,Mineralys Therapeutics  Inc.,27.38,31.12
+MNOV,MediciNova Inc,1.57,1.75
+MNSB,MainStreet Bancshares  Inc.,25.35,25.61
+MNTK,Montauk Renewables Inc,1.93,2.5
+MSGM,Motorsport Games Inc,4.73,4.8
+MTC,MMTEC Inc,4.14,4.67
+MTLS,Materialise NV ADR,7.42,7.56
+NKTX,Nkarta  Inc.,2.76,3.23
+NMP,Nmp Acquisition Corp,10.34,10.36
+NUAI,New Era Energy & Digital Inc,5.57,6.6
+OESX,Orion Energy Systems Inc,26.63,30.52
+ORBS,Eightco Holdings Inc (Texas),0.88,1.14
+OTGA,OTG Acquisition I Corp,10.23,10.23
+OVBC,Ohio Valley Banc Corp,46.29,46.57
 PAAC,Proem Acquisition Corp I,9.98,10.15
-PAYP,PayPay Corp ADR,16.69,17.04
-PBAM,Private Bancorp of America Inc,88.7,90.96
-PBFS,Pioneer Bancorp Inc,18.02,18.54
-PECE,Peace Acquisition Corp,9.99,10.01
-PGAC,Pantages Capital Acquisition Corp,10.74,10.71
-PROV,Provident Financial Holdings Inc,18.35,18.7
-PRTS,Carparts.Com Inc,7.27,9.3
-PTN,Palatin Technologies Inc,10.51,12.7
-PYXS,Pyxis Oncology Inc,3.83,3.89
+PAYP,PayPay Corp ADR,16.69,17.56
+PBAM,Private Bancorp of America Inc,88.7,90.56
+PBFS,Pioneer Bancorp Inc,18.02,18.28
+PECE,Peace Acquisition Corp,9.99,10.02
+PMVP,PMV Pharmaceuticals  Inc.,1.33,1.34
+PPIH,Perma-Pipe International Holdings Inc,27.61,29.11
+PRTS,Carparts.Com Inc,7.27,9.5
+PSIX,Power Solutions International  Inc.,43.0,43.15
+QCOM,QUALCOMM Incorporated,170.48,174.09
 QETA,Quetta Acquisition Corp,11.74,11.85
-QSEAU,Quartzsea Acquisition Units,10.71,10.98
-RCBC,River City Bank,51.16,53.0
+QRVO,Qorvo  Inc.,99.08,104.07
+RBKB,Rhinebeck Bancorp Inc,12.9,13.07
 RDAG,Republic Digital Acquisition Co,10.4,10.43
-RGC,Regencell Bioscience Holdings Ltd,6.18,6.89
-RNTX,Rein Therapeutics Inc,0.84,0.89
-RTAC,Renatus Tactical Acquisition I Corp,10.5,10.55
-RXRX,Recursion Pharmaceuticals  Inc.,3.56,3.63
-SDHIU,Siddhi Acquisition Units,10.6,10.62
-SFBC,Sound Financial Bancorp Inc,47.75,48.0
-SMCIP,Super Micro Computer Depositary Shs representing 1 20th Mandatory Convert Prf,66.9,67.54
-SMX,SMX (Security Matters) PLC,17.26,19.48
+RGC,Regencell Bioscience Holdings Ltd,6.18,6.82
+RNTX,Rein Therapeutics Inc,0.84,0.86
+RTACU,Renatus Tactical Acquisition I Units,10.92,10.87
+SDHI,Siddhi Acquisition Corp,10.51,10.53
+SGP,SpyGlass Pharma  Inc.,27.23,28.92
+SLDP,Solid Power  Inc.,2.42,2.57
 SORN,Soren Acquisition Corp,9.96,10.0
-SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.45,25.49
-SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.45,25.49
-TARS,Tarsus Pharmaceuticals  Inc.,73.44,90.78
-TITN,Titan Machinery Inc,20.18,26.22
-TRMD,Torm PLC,32.62,35.18
+SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.48,25.54
+SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.48,25.54
+TARS,Tarsus Pharmaceuticals  Inc.,74.24,87.22
+TRMD,Torm PLC,32.81,34.94
+TTRX,Turn Therapeutics Inc,10.54,12.66
 TVIVU,Texas Ventures Acquisition IV Units,10.23,10.38
-USEA,United Maritime Corp,2.84,3.04
-VANI,Vivani Medical Inc,1.45,1.49
-VBNK,Versabank,20.49,22.41
-VEON,VEON Ltd ADR,62.34,64.21
-VIRC,Virco Mfg Corp,6.18,6.52
-VLYPP,Valley National 6 25 Fixed to Floating Rate Non Cumulative Perpetual Pref Shs,25.2,25.24
-VOD,Vodafone Group PLC ADR,16.42,16.9
-YSXT,YSX Tech Co Ltd,1.15,1.56
-ZOOZ,Zooz Strategy Ltd,6.78,7.74
+UROY,Uranium Royalty Corp,4.43,4.82
+USCB,USCB Financial Holdings Inc,22.67,23.13
+VEON,VEON Ltd ADR,62.34,64.83
+VHCP,Vine Hill Capital Investment Corp II,10.06,10.1
+VSTM,Verastem Inc,7.43,8.08
