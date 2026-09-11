@@ -1,96 +1,74 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AGMB,Agomab Therapeutics NV ADR,15.0,14.91
-AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.27,25.33
-ALM,Almonty Industries Inc.,18.93,19.12
-ANL,Adlai Nortye Group Ltd ADR,15.06,15.51
-ATER,Aterian Inc,0.51,0.73
-ATLO,Ames National Corp,32.1,32.3
-ATRA,Atara Biotherapeutics  Inc.,9.84,10.23
+AESPU,Aeon Acquisition I Units,10.23,10.25
+AFJKU,Aimei Health Technology Units,12.0,13.0
+AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.27,25.35
+ANNA,AleAnna Inc,3.14,3.29
+AVX,AVAX One Technology Ltd,3.69,3.83
 BDCIU,BTC Development Units,10.25,10.3
-BLTE,Belite Bio  Inc ADR,178.94,192.85
-BNC,CEA Industries Inc,3.15,5.25
-BNR,Burning Rock Biotech Limited ADR,10.86,10.71
-BSRR,Sierra Bancorp,41.05,40.69
-BTBD,Bt Brands Inc,1.53,1.85
-BUUU,BUUU Group Ltd,31.84,37.95
-CBIO,Crescent Biopharma  Inc.,18.02,20.46
-CEG,Constellation Energy Corp,282.5,299.05
-CHA,Chagee Holdings Ltd ADR,11.64,12.59
-CHMG,Chemung Financial Corp,83.92,84.43
-CLST,Catalyst Bancorp Inc,17.81,18.15
-CNL,Collective Mining Ltd.,16.47,16.94
-CTOR,Citius Oncology Inc,0.91,0.93
-CTRM,Castor Maritime Inc,2.5,2.57
-CZWI,Citizens Community Bancorp Inc,22.0,22.1
-DMAA,Drugs Made In America Acquisition Corp,10.76,10.79
+BRLT,Brilliant Earth Group Inc,1.41,1.45
+CHAR,Charlton Aria Acquisition Corp,10.95,10.97
+CHYM,Chime Financial  Inc.,33.36,34.55
+CLST,Catalyst Bancorp Inc,17.81,18.0
+COCP,Cocrystal Pharma Inc,1.17,1.24
 DYNCU,Dynamix Units,10.85,11.2
-ECHO,EchoStar Corporation,92.51,93.42
-EFSI,Eagle Financial Services Inc,43.69,45.66
-EHLD,Euroholdings Ltd,10.68,12.2
-FACT,FACT II Acquisition Corp,10.7,10.71
-FTEK,Fuel Tech Inc,1.53,1.65
-GIBO,Gibo Holdings Ltd,32.9,33.26
-GRNQ,GreenPro Capital Corp,13.9,18.8
-GSRF,GSR IV Acquisition Corp,10.22,10.23
+EEIQ,EpicQuest Education Group International Ltd,2.99,3.3
+EHLD,Euroholdings Ltd,10.68,13.0
+EQ,Equillium Inc,2.48,2.56
+FTEK,Fuel Tech Inc,1.53,1.72
+GIBO,Gibo Holdings Ltd,32.9,33.2
+GIX,GigCapital9 Corp,9.99,10.0
+GYRE,Gyre Therapeutics  Inc.,7.15,6.95
 HACQ,HCM IV Acquisition Corp,10.07,10.08
-HITI,High Tide Inc,2.57,2.69
-HRMY,Harmony Biosciences Holdings  Inc.,39.93,42.07
-HVMCU,Highview Merger Units,10.35,10.43
-IBAC,IB Acquisition Corp,10.89,10.91
-ICMB,Investcorp Credit Management BDC Inc,0.86,0.86
-IDAI,T Stamp Inc,3.35,3.43
-INDP,Indaptus Therapeutics Inc,1.82,1.85
-JONEU,Jones Ventures INTL Acquisition1 Units,9.93,9.97
+IDAI,T Stamp Inc,3.35,3.41
+INDP,Indaptus Therapeutics Inc,1.82,2.08
+IRD,Opus Genetics Inc,4.12,5.73
+IRHOU,Iron Horse Acquisition II Units,10.24,10.25
+KGEI,Kolibri Global Energy Inc,6.22,6.72
 KOYNU,CSLM Digital Asset Acquisition III Units,10.29,10.31
 LAFA,LaFayette Acquisition Corp,10.15,10.16
-LSBK,Lake Shore Bancorp Inc,17.25,18.0
-MCGA,Yorkville Acquisition Corp,10.35,10.36
-MDRR,Medalist Diversified Inc,12.19,12.2
-MESH,Meshflow Acquisition Corp,10.08,10.11
-MESHU,Meshflow Acquisition Units,10.15,10.21
-MLYS,Mineralys Therapeutics  Inc.,27.38,31.12
-MNOV,MediciNova Inc,1.57,1.75
-MNSB,MainStreet Bancshares  Inc.,25.35,25.61
-MNTK,Montauk Renewables Inc,1.93,2.5
-MSGM,Motorsport Games Inc,4.73,4.8
-MTC,MMTEC Inc,4.14,4.67
-MTLS,Materialise NV ADR,7.42,7.56
-NKTX,Nkarta  Inc.,2.76,3.23
+LIFE,Ethos Technologies Inc,39.44,39.72
+LNAI,Lunai Bioworks Inc,2.55,2.61
+LPBB,Launch Two Acquisition Corp,10.81,10.81
+LSBK,Lake Shore Bancorp Inc,17.25,18.59
+MESH,Meshflow Acquisition Corp,10.08,10.1
+META,Meta Platforms  Inc.,599.12,653.69
+MLYS,Mineralys Therapeutics  Inc.,27.38,30.5
+MNOV,MediciNova Inc,1.57,1.79
+MNTK,Montauk Renewables Inc,1.93,2.46
+MSGM,Motorsport Games Inc,4.73,5.2
+MTC,MMTEC Inc,4.14,4.79
+NAUT,Nautilus Biotechnology  Inc.,1.04,1.12
 NMP,Nmp Acquisition Corp,10.34,10.36
-NUAI,New Era Energy & Digital Inc,5.57,6.6
-OESX,Orion Energy Systems Inc,26.63,30.52
-ORBS,Eightco Holdings Inc (Texas),0.88,1.14
-OTGA,OTG Acquisition I Corp,10.23,10.23
-OVBC,Ohio Valley Banc Corp,46.29,46.57
-PAAC,Proem Acquisition Corp I,9.98,10.15
-PAYP,PayPay Corp ADR,16.69,17.56
-PBAM,Private Bancorp of America Inc,88.7,90.56
-PBFS,Pioneer Bancorp Inc,18.02,18.28
+NOEMU,CO2 Energy Transition Units,12.16,12.65
+ODD,ODDITY Tech Ltd.,15.31,16.48
+OESX,Orion Energy Systems Inc,26.63,27.6
+OIM,OneIM Acquisition Corp,10.13,10.14
+PASG,Passage Bio Inc,4.83,4.94
+PAYP,PayPay Corp ADR,16.69,17.58
+PBAM,Private Bancorp of America Inc,89.09,90.89
 PECE,Peace Acquisition Corp,9.99,10.02
-PMVP,PMV Pharmaceuticals  Inc.,1.33,1.34
-PPIH,Perma-Pipe International Holdings Inc,27.61,29.11
-PRTS,Carparts.Com Inc,7.27,9.5
-PSIX,Power Solutions International  Inc.,43.0,43.15
-QCOM,QUALCOMM Incorporated,170.48,174.09
+PPIH,Perma-Pipe International Holdings Inc,27.61,29.55
+PPSI,Pioneer Power Solutions Inc,3.09,3.14
+PRTS,Carparts.Com Inc,7.48,10.0
 QETA,Quetta Acquisition Corp,11.74,11.85
-QRVO,Qorvo  Inc.,99.08,104.07
-RBKB,Rhinebeck Bancorp Inc,12.9,13.07
+QUMSU,Quantumsphere Acquisition Units,10.33,10.38
+RCBC,River City Bank,52.14,52.69
 RDAG,Republic Digital Acquisition Co,10.4,10.43
-RGC,Regencell Bioscience Holdings Ltd,6.18,6.82
-RNTX,Rein Therapeutics Inc,0.84,0.86
-RTACU,Renatus Tactical Acquisition I Units,10.92,10.87
-SDHI,Siddhi Acquisition Corp,10.51,10.53
-SGP,SpyGlass Pharma  Inc.,27.23,28.92
-SLDP,Solid Power  Inc.,2.42,2.57
-SORN,Soren Acquisition Corp,9.96,10.0
-SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.48,25.54
-SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.48,25.54
-TARS,Tarsus Pharmaceuticals  Inc.,74.24,87.22
-TRMD,Torm PLC,32.81,34.94
-TTRX,Turn Therapeutics Inc,10.54,12.66
-TVIVU,Texas Ventures Acquisition IV Units,10.23,10.38
-UROY,Uranium Royalty Corp,4.43,4.82
-USCB,USCB Financial Holdings Inc,22.67,23.13
-VEON,VEON Ltd ADR,62.34,64.83
-VHCP,Vine Hill Capital Investment Corp II,10.06,10.1
-VSTM,Verastem Inc,7.43,8.08
+RFAMU,RF Acquisition III Units,10.1,10.1
+RIBB,Ribbon Acquisition Corp,10.88,13.69
+RIBBU,Ribbon Acquisition Units,13.99,14.9
+SKHY,SK hynix Inc. ADR,171.38,198.63
+SOCAU,Solarius Capital Acquisition Units,10.41,10.45
+SSACU,SPACSphere Acquisition Units,10.29,10.31
+SVIVU,Spring Valley Acquisition IV Units,10.38,10.56
+TH,Target Hospitality Corp.,18.96,19.2
+TORO,Toro Corp.,6.24,6.42
+TRMD,Torm PLC,33.21,35.46
+TTRX,Turn Therapeutics Inc,10.54,13.75
+UFG,Uni-Fuels Holdings Ltd,0.7,0.72
+UROY,Uranium Royalty Corp,4.43,4.8
+UYSCU,UY Scuti Acquisition Units,11.08,11.88
+VIRC,Virco Mfg Corp,6.18,6.29
+WLCOU,Wilco 63 Units,10.0,10.05
+XCBE,X3 Acquisition Corp Ltd,10.0,10.01
+YQ,17 Education and Technology Group Inc ADR,2.51,4.57
