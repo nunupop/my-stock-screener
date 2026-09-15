@@ -1,51 +1,66 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ADAMH,Adamas 9 875 Senior Notes Due 2030,25.64,25.65
-ANL,Adlai Nortye Group Ltd ADR,15.06,15.09
-ANNA,AleAnna Inc,3.14,3.47
-APUR,Aperture AC,10.02,10.03
-ASPS,Altisource Portfolio Solutions S.A.,5.78,5.85
-BAFN,Bayfirst Financial Corp,7.61,8.18
-BCAL,California Bancorp,21.8,21.82
-BGC,Bgc Group Inc,12.12,12.22
-BNR,Burning Rock Biotech Limited ADR,10.86,11.62
-CHAR,Charlton Aria Acquisition Corp,10.95,10.97
-CRESY,Cresud SACIF y A ADR,12.2,12.61
-CULP,Culp Inc,3.54,3.83
-DGICB,Donegal Group Inc Class B,24.74,25.57
-DSAC,Daedalus Special Acquisition Corp,10.18,10.18
-EHLD,Euroholdings Ltd,11.9,15.7
-FACT,FACT II Acquisition Corp,10.7,10.71
-GIBO,Gibo Holdings Ltd,32.9,33.4
-GRCE,Grace Therapeutics  Inc,2.2,2.26
-GREEL,Vulcan Infrastructure and Power 8 50 Senior Notes due 2026,24.9,25.01
-HPK,Highpeak Energy Inc,8.32,8.58
-HVIIU,Hennessy Capital Investment VII Units,10.8,13.3
-IMPP,Imperial Petroleum Inc,5.46,5.61
-INDP,Indaptus Therapeutics Inc,1.44,2.56
-IRD,Opus Genetics Inc,4.45,6.07
-IRHOU,Iron Horse Acquisition II Units,10.24,10.25
-LSBK,Lake Shore Bancorp Inc,17.25,18.85
-MDXG,MiMedx Group  Inc.,4.55,4.6
-MEOH,Methanex Corp,60.57,62.72
-NAUT,Nautilus Biotechnology  Inc.,1.03,0.99
-NOEMU,CO2 Energy Transition Units,12.16,12.65
-OBIO,Orchestra Biomed Holdings Inc,5.66,5.81
-ODD,ODDITY Tech Ltd.,15.31,16.01
-PAYP,PayPay Corp ADR,16.69,18.24
-PBAM,Private Bancorp of America Inc,89.5,90.85
-PCLA,Picocela Inc ADR,9.11,9.72
-QETA,Quetta Acquisition Corp,11.74,11.85
-QRVO,Qorvo  Inc.,100.63,112.36
-QUMSU,Quantumsphere Acquisition Units,10.33,10.38
-RILYN,BRC Group Holdings 6 50 Senior Notes Due 2026,25.16,25.19
-SMCIP,Super Micro Computer Depositary Shs representing 1 20th Mandatory Convert Prf,66.9,67.34
-SOCAU,Solarius Capital Acquisition Units,10.41,10.45
-SORN,Soren Acquisition Corp,9.96,10.0
-SVAQ,Silicon Valley Acquisition Corp,10.05,10.07
+ACAAU,Averin Capital Acquisition Unit,10.12,10.16
+AENT,Alliance Entertainment Holding Corp,5.81,6.42
+AGNCM,AGNC Investment 1000 DS Rep 6.875 Fixed to Floating Cumulative Redeemable Pref,25.27,25.44
+ALDF,Aldel Financial II Inc,10.81,10.82
+ALZN,Alzamend Neuro Inc,1.7,1.72
+ANNA,AleAnna Inc,3.14,3.5
+AVT,Avnet Inc,98.63,99.63
+AVX,AVAX One Technology Ltd,3.69,3.93
+BAFN,Bayfirst Financial Corp,7.61,8.75
+BIDWU,Tribeca Strategic Acquisition Units,10.02,10.07
+BLRKU,Bluerock Acquisition Units,10.3,10.47
+CMRC,Commerce.com  Inc.,3.41,3.51
+CTOR,Citius Oncology Inc,0.91,0.92
+CULP,Culp Inc,3.54,3.75
+DTSQ,DT Cloud Star Acquisition Corp,11.36,11.39
+DXR,Daxor Corp,10.9,11.47
+DYOR,Insight Digital Partners II,10.12,10.13
+EDHL,Everbright Digital Holding Ltd,4.25,4.42
+EEIQ,EpicQuest Education Group International Ltd,2.99,3.62
+EHLD,Euroholdings Ltd,11.9,15.2
+FTEK,Fuel Tech Inc,1.53,1.73
+GENVR,Gen Digital Contingent Value Rights,5.32,5.9
+GIBO,Gibo Holdings Ltd,32.9,33.54
+GPAC,General Purpose Acquisition Corp,10.06,10.07
+GPACU,General Purpose Acquisition Units,10.17,10.18
+GRCE,Grace Therapeutics  Inc,2.2,2.22
+GREEL,Vulcan Infrastructure and Power 8 50 Senior Notes due 2026,24.9,25.0
+IACO,Idea Acquisition Corp,9.99,10.01
+IBEX,Ibex Ltd,39.41,39.8
+IMPP,Imperial Petroleum Inc,5.46,5.79
+JVA,Coffee Holding Co Inc,3.54,3.86
+LFST,LifeStance Health Group  Inc.,12.89,12.97
+LINK,Interlink Electronics Inc,5.82,5.84
+LPCVU,Launchpad Cadenza Acquisition I Units,10.1,10.12
+LSBK,Lake Shore Bancorp Inc,17.42,18.42
+MEOH,Methanex Corp,60.57,62.9
+MNTK,Montauk Renewables Inc,2.25,2.64
+MSGM,Motorsport Games Inc,4.73,4.97
+MTLS,Materialise NV ADR,7.42,7.64
+MYGN,Myriad Genetics  Inc.,3.26,3.42
+ODD,ODDITY Tech Ltd.,15.31,18.28
+OXBR,Oxbridge Re Holdings Ltd,1.55,1.57
+PALO,Paloma Acquisition Corp I,9.99,10.0
+PAYP,PayPay Corp ADR,16.93,18.45
+PBAM,Private Bancorp of America Inc,90.1,91.2
+PCLA,Picocela Inc ADR,9.11,10.11
+PECEU,Peace Acquisition Units,10.34,10.38
+QRVO,Qorvo  Inc.,100.63,116.65
+SEGG,Sports Entertainment Gaming Global Corp,3.43,3.56
+SORN,Soren Acquisition Corp,9.96,10.02
 SVIVU,Spring Valley Acquisition IV Units,10.38,10.56
-SWKS,Skyworks Solutions  Inc.,71.67,84.03
-TTRX,Turn Therapeutics Inc,10.54,13.38
+SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.56,25.57
+SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.56,25.57
+SWKS,Skyworks Solutions  Inc.,71.67,88.35
+TDWD,Tailwind 2.0 Acquisition Corp,10.1,10.11
+TTRX,Turn Therapeutics Inc,10.54,12.69
+TVGN,Tevogen Inc,7.17,7.36
 UYSCU,UY Scuti Acquisition Units,11.08,11.25
-WLCOU,Wilco 63 Units,10.0,10.05
-WLTH,Wealthfront Corporation,9.82,10.88
-XCBE,X3 Acquisition Corp Ltd,10.0,10.01
+VHCPU,Vine Hill Capital Investment II Units,10.24,10.25
+VHUB,Venhub Global  Inc.,0.88,0.92
+WLTH,Wealthfront Corporation,9.82,10.38
+XRX,Xerox Holdings Corp,3.3,3.43
+YTRA,Yatra Online Inc,1.03,1.05
+ZKP,Lafayette Digital Acquisition Corp I,10.03,10.05
+ZKPU,Lafayette Digital Acquisition I Units,10.03,10.24
