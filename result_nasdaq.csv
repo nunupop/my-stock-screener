@@ -1,74 +1,78 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACAAU,Averin Capital Acquisition Unit,10.12,10.16
-ALLT,Allot Ltd,8.19,8.38
-ANNA,AleAnna Inc,3.14,3.39
+ACGC,ACP Holdings Acquisition Corp,10.02,10.06
+ALLT,Allot Ltd,8.19,8.08
+ALZN,Alzamend Neuro Inc,1.7,1.78
 APXTU,Apex Treasury Units,10.29,10.3
-ATEC,Alphatec Holdings  Inc.,10.35,10.86
-AVX,AVAX One Technology Ltd,3.69,3.84
 AXIN,Axiom Intelligence Acquisition Corp 1,10.34,10.34
-BAFN,Bayfirst Financial Corp,7.61,8.8
-BCAL,California Bancorp,21.9,22.03
-BIDWU,Tribeca Strategic Acquisition Units,10.02,10.08
-BLRKU,Bluerock Acquisition Units,10.3,10.47
-BMGL,Basel Medical Group Ltd,5.93,7.14
-BNGO,Bionano Genomics  Inc.,1.27,1.33
-CCAQ,Collective Acquisition Corp,10.55,10.7
-CDRO,Codere Online Luxembourg SA,9.27,9.36
-CHA,Chagee Holdings Ltd ADR,11.93,12.51
-CODA,Coda Octopus Group Inc,10.64,10.73
-CRDF,Cardiff Oncology  Inc.,1.09,1.31
-CRWD,CrowdStrike Holdings  Inc.,231.0,235.38
-DMAA,Drugs Made In America Acquisition Corp,10.76,10.83
-DMII,Drugs Made In America Acquisition II Corp,10.17,10.17
-DTSQ,DT Cloud Star Acquisition Corp,11.37,11.4
-DXR,Daxor Corp,10.9,11.27
-DYOR,Insight Digital Partners II,10.12,10.13
-EDHL,Everbright Digital Holding Ltd,4.22,4.45
-FTEK,Fuel Tech Inc,1.55,1.75
-GECC,Great Elm Capital Corp,6.13,6.17
-GPAC,General Purpose Acquisition Corp,10.06,10.07
+BCAL,California Bancorp,21.9,22.09
+BCDA,BioCardia Inc,1.19,1.23
+BNGO,Bionano Genomics  Inc.,1.27,1.56
+BPRN,Princeton Bancorp Inc,43.53,43.88
+BUUU,BUUU Group Ltd,37.95,43.6
+CAI,Caris Life Sciences  Inc.,28.01,28.5
+CAPN,Cayson Acquisition Corp,11.25,11.29
+CHMG,Chemung Financial Corp,84.84,85.23
+CSTL,Castle Biosciences  Inc.,35.0,35.5
+EDHL,Everbright Digital Holding Ltd,4.22,4.74
+EEIQ,EpicQuest Education Group International Ltd,3.09,3.55
+FDBC,Fidelity D&D Bancorp Inc,55.74,56.72
+FLGT,Fulgent Genetics  Inc.,20.2,21.28
+FTEK,Fuel Tech Inc,1.65,1.91
+GCBC,Greene County Bancorp Inc,35.65,36.02
+GH,Guardant Health  Inc.,170.92,175.65
+GLE,Global Engine Group Holding Ltd,0.52,0.6
 GPACU,General Purpose Acquisition Units,10.17,10.18
-GREEL,Vulcan Infrastructure and Power 8 50 Senior Notes due 2026,24.9,25.23
-HCACU,Hall Chadwick Acquisition Units,10.32,10.38
-HITI,High Tide Inc,2.57,2.63
-HLP,Hongli Group Inc,1.43,1.51
-HMR,Heidmar Maritime Holdings Corp,1.45,1.77
-IACO,Idea Acquisition Corp,9.99,10.01
-IBEX,Ibex Ltd,39.41,40.49
-IMPP,Imperial Petroleum Inc,5.46,5.95
-JVA,Coffee Holding Co Inc,3.54,4.17
-KFII,K&F Growth Acquisition II Corp,10.65,10.66
-LAFA,LaFayette Acquisition Corp,10.15,10.17
-LPCVU,Launchpad Cadenza Acquisition I Units,10.1,10.25
+GREEL,Vulcan Infrastructure and Power 8 50 Senior Notes due 2026,24.9,25.22
+GREEL,Vulcan Infrastructure and Power 8 50 Senior Notes due 2026,24.9,25.22
+GVH,Globavend Holdings Ltd,1.09,1.29
+HLP,Hongli Group Inc,1.43,1.82
+HMR,Heidmar Maritime Holdings Corp,1.45,1.69
+IBAC,IB Acquisition Corp,10.91,10.93
+IBEX,Ibex Ltd,39.41,40.8
+KBSX,FST Ltd,1.14,1.16
+KGEI,Kolibri Global Energy Inc,6.41,6.88
+KRRO,Korro Bio  Inc.,13.95,14.07
+LARK,Landmark Bancorp Inc,32.48,33.33
+LPBB,Launch Two Acquisition Corp,10.81,10.83
+LPCVU,Launchpad Cadenza Acquisition I Units,10.1,10.26
 MACI,Melar Acquisition Corp I,10.99,11.02
-MEOH,Methanex Corp,60.57,62.71
-MWC,Micware Co Ltd ADR,1.58,1.83
-MYSE,Myseum AI Inc,2.89,3.06
-NTSK,Netskope  Inc.,16.19,17.0
-NUTX,Nutex Health Inc,197.68,217.02
-OSPN,OneSpan Inc.,16.92,17.52
-OTGA,OTG Acquisition I Corp,10.24,10.25
+MEOH,Methanex Corp,60.57,64.47
+MTC,MMTEC Inc,4.67,4.77
+MTCH,Match Group  Inc.,42.44,44.4
+MYGN,Myriad Genetics  Inc.,3.26,3.88
+MYSE,Myseum AI Inc,2.89,3.23
+NEOG,Neogen Corporation,12.15,12.25
+NTRA,Natera  Inc.,338.7,350.78
+NTRP,Nexttrip Inc,1.74,1.8
+NTSK,Netskope  Inc.,16.19,17.47
+NWFL,Norwood Financial Corp,34.71,35.25
+OFS,OFS Capital Corp,3.97,4.0
+OPRT,Oportun Financial Corp,8.09,7.86
+OSPN,OneSpan Inc.,16.92,17.83
 OTGAU,OTG Acquisition I Units,10.37,10.41
-PALO,Paloma Acquisition Corp I,9.99,10.0
-PECEU,Peace Acquisition Units,10.34,10.42
-PTN,Palatin Technologies Inc,13.08,13.36
-RCBC,River City Bank,53.04,53.18
-RIBBU,Ribbon Acquisition Units,14.45,14.09
-RVSB,Riverview Bancorp Inc,5.47,5.58
-SFBC,Sound Financial Bancorp Inc,48.0,48.76
-SKYX,SKYX Platforms Corp,1.37,1.48
+PECEU,Peace Acquisition Units,10.34,10.4
+PHVS,Pharvaris N.V.,37.84,38.06
+PPHC,Public Policy Holding Company Inc,11.45,11.77
+PSIG,PS International Group Ltd,2.79,3.42
+QRVO,Qorvo  Inc.,104.07,118.06
+RCBC,River City Bank,53.04,52.75
+RDWR,Radware Ltd.,29.68,29.77
+RLYB,Rallybio Corp,17.0,17.22
+RVSB,Riverview Bancorp Inc,5.47,5.63
+SDGR,Schrodinger Inc,20.88,23.25
+SDHIU,Siddhi Acquisition Units,10.62,10.62
+SFBC,Sound Financial Bancorp Inc,48.0,48.5
 SORN,Soren Acquisition Corp,10.0,10.02
-TDWD,Tailwind 2.0 Acquisition Corp,10.1,10.11
-TTRX,Turn Therapeutics Inc,10.54,13.45
-TVGN,Tevogen Inc,7.34,7.51
-VABK,Virginia National Bankshares Corp,47.91,49.16
-VHCPU,Vine Hill Capital Investment II Units,10.24,10.25
-VHUB,Venhub Global  Inc.,0.88,0.85
-VLOSU,Velos Acquisition I Units,10.81,10.82
-VRNS,Varonis Systems  Inc.,46.76,47.48
-WLTH,Wealthfront Corporation,9.82,10.65
-WPRT,Westport Fuel Systems Inc,1.93,1.94
-XCBE,X3 Acquisition Corp Ltd,10.0,10.01
-XSLLU,Xsolla SPAC 1 Units,10.06,10.15
-YTRA,Yatra Online Inc,1.03,1.12
-ZKPU,Lafayette Digital Acquisition I Units,10.03,10.24
+SPT,Sprout Social  Inc.,11.49,11.28
+SSEA,Starry Sea Acquisition Corp,10.35,10.34
+SVAQ,Silicon Valley Acquisition Corp,10.06,10.07
+SWKS,Skyworks Solutions  Inc.,75.38,90.0
+TLX,Telix Pharmaceuticals Limited ADR,12.42,12.83
+USEA,United Maritime Corp,3.04,3.15
+VLOSU,Velos Acquisition I Units,10.81,10.81
+VNCE,Vince Holding Corp,7.81,8.44
+VRA,Vera Bradley Inc,3.49,4.09
+WGS,GeneDx Holdings Corp.,90.29,94.64
+WLTH,Wealthfront Corporation,9.82,10.87
+XSLLU,Xsolla SPAC 1 Units,10.06,10.07
+ZD,Ziff Davis Inc,56.69,59.21
