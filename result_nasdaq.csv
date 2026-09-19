@@ -1,63 +1,87 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABVC,ABVC Biopharma Inc,1.06,1.08
-ACGC,ACP Holdings Acquisition Corp,10.02,10.06
-ADPT,Adaptive Biotechnologies Corporation,26.44,27.67
-BACC,Blue Acquisition Corp.,10.54,10.61
-BAFN,Bayfirst Financial Corp,7.61,9.23
-BCDA,BioCardia Inc,1.19,1.25
-BHAVU,BHAV Acquisition Units,10.24,10.27
+ABCL,AbCellera Biologics Inc.,12.5,12.73
+ABVC,ABVC Biopharma Inc,1.06,1.15
+ADACU,American Drive Acquisition Units,10.23,10.25
+ADPT,Adaptive Biotechnologies Corporation,26.44,28.55
+AGPU,Axe Compute Inc,11.26,12.92
+AMD,Advanced Micro Devices  Inc.,521.1,545.09
+BACC,Blue Acquisition Corp.,10.54,10.6
+BAFN,Bayfirst Financial Corp,8.18,9.04
+BBNX,Beta Bionics  Inc.,20.01,21.43
+BEAG,Bold Eagle Acquisition Corp,10.8,10.85
+BRKRP,Bruker 6 375 Mandatory Convertible Preference Shares Ser A,440.61,447.04
 BSAAU,Best SPAC I Acquistion Units,10.5,10.9
-BWIN,The Baldwin Insurance Group  Inc.,31.9,32.04
-CAPN,Cayson Acquisition Corp,11.25,11.32
-CLMT,Calumet  Inc.,55.69,58.01
-CSTL,Castle Biosciences  Inc.,35.0,35.48
-CTKB,Cytek Biosciences  Inc.,4.89,4.93
-CTOR,Citius Oncology Inc,0.94,0.95
-DLXY,Delixy Holdings Ltd,0.44,2.29
-DMII,Drugs Made In America Acquisition II Corp,10.17,10.18
-DXR,Daxor Corp,10.9,11.72
-FBLA,FB Bancorp  Inc.,15.99,16.17
-FFIV,F5  Inc.,422.95,423.59
+BWIN,The Baldwin Insurance Group  Inc.,31.9,31.95
+CAPN,Cayson Acquisition Corp,11.25,11.29
+CAPNU,Cayson Acquisition Units,11.17,11.25
+CBLL,CeriBell  Inc.,24.89,25.0
+CNXN,PC Connection Inc,86.6,86.46
+CODA,Coda Octopus Group Inc,10.64,10.78
+CRACU,Crown Reserve Acquisition I Units,10.25,10.34
+CRESY,Cresud SACIF y A ADR,12.61,12.83
+CTKB,Cytek Biosciences  Inc.,4.89,5.21
+CTOR,Citius Oncology Inc,0.94,1.02
+DMIIU,Drugs Made In America Acquisition II Units,10.2,10.25
+ECOR,electroCore  Inc.,10.81,11.38
+ENVB,Enveric Biosciences Inc,1.56,1.59
+EWTX,Edgewise Therapeutics  Inc.,46.44,46.94
 FGIIU,Fg Imperii Acquisition Units,10.05,10.11
-FTRE,Fortrea Holdings Inc,19.52,19.97
+FTRE,Fortrea Holdings Inc,19.52,20.28
+GLBS,Globus Maritime Limited,3.85,3.93
+GPAC,General Purpose Acquisition Corp,10.06,10.1
 GSRF,GSR IV Acquisition Corp,10.23,10.24
-HHS,Harte Hanks Inc,4.34,4.57
-HLP,Hongli Group Inc,1.43,2.07
-HVMC,Highview Merger Corp,10.26,10.27
-IBAC,IB Acquisition Corp,10.91,10.93
-IBEX,Ibex Ltd,39.41,40.28
-KBSX,FST Ltd,1.14,1.15
-KGEI,Kolibri Global Energy Inc,6.72,6.85
-KRRO,Korro Bio  Inc.,13.95,13.83
+GVH,Globavend Holdings Ltd,1.09,1.38
+GYRE,Gyre Therapeutics  Inc.,7.17,7.18
+HELP,Cybin Inc.,13.98,14.02
+IACQU,Irenic Acquisition Units,10.12,10.33
+IBAC,IB Acquisition Corp,10.92,10.93
+IBRX,ImmunityBio  Inc.,8.4,8.46
+ILMN,Illumina Inc,227.69,245.18
+INTC,Intel Corp,106.24,108.8
+IOVA,Iovance Biotherapeutics Inc,8.99,10.02
+IXHL,Incannex Healthcare Inc,3.75,3.59
+KRT,Karat Packaging Inc,50.06,50.38
+LAFA,LaFayette Acquisition Corp,10.16,10.17
 LTGRU,Long Table Growth Units,10.1,10.19
-MACI,Melar Acquisition Corp I,10.99,11.02
-MTC,MMTEC Inc,4.79,5.23
-NAVI,Navient Corporation,9.63,9.74
-NSIT,Insight Enterprises Inc,160.98,165.19
-OFS,OFS Capital Corp,3.97,3.99
-OSPN,OneSpan Inc.,16.92,17.86
-PECEU,Peace Acquisition Units,10.34,10.4
-PLMR,Palomar Holdings  Inc.,136.82,140.78
-PNTG,The Pennant Group  Inc.,39.64,42.48
-PPHC,Public Policy Holding Company Inc,11.45,11.81
-PPSI,Pioneer Power Solutions Inc,3.14,3.22
-PSKY,Paramount Skydance Corp,11.04,11.14
-QXL,Quantum X Labs Inc,4.9,5.16
-RDAG,Republic Digital Acquisition Co,10.43,10.45
-RLYB,Rallybio Corp,17.0,17.09
-RVSB,Riverview Bancorp Inc,5.44,5.62
+MACI,Melar Acquisition Corp I,11.0,11.02
+MGNI,Magnite  Inc.,24.88,25.63
+MTC,MMTEC Inc,4.79,6.56
+MTLS,Materialise NV ADR,7.56,7.71
+NEOG,Neogen Corporation,12.15,12.83
+NTRA,Natera  Inc.,338.7,366.31
+NTWK,NetSol Technologies Inc,4.37,4.44
+OFS,OFS Capital Corp,3.97,3.96
+OHAC,Oceanhawk Acquisition Corp,9.98,9.99
+PGEN,Precigen  Inc.,7.44,7.87
+PMEC,Primech Holdings Ltd,0.53,0.6
+PPHC,Public Policy Holding Company Inc,11.45,12.59
+PPSI,Pioneer Power Solutions Inc,3.14,3.4
+PSIG,PS International Group Ltd,2.79,4.44
+PSIX,Power Solutions International  Inc.,43.15,45.55
+PXS,Pyxis Tankers Inc,7.01,7.34
+QNBC,QNB Corp,45.3,45.74
+QXL,Quantum X Labs Inc,4.9,5.7
+RDAG,Republic Digital Acquisition Co,10.43,10.44
+RDCM,Radcom Ltd,10.49,10.59
+RDWR,Radware Ltd.,29.68,30.55
+REFI,Chicago Atlantic Real Estate Finance Inc,10.95,11.15
+RMBI,Richmond Mutual Bancorporation Inc,16.15,16.16
 SABR,Sabre Corporation,2.26,2.32
-SDGR,Schrodinger Inc,20.88,23.93
-SFBC,Sound Financial Bancorp Inc,48.35,48.48
-SMCIP,Super Micro Computer Depositary Shs representing 1 20th Mandatory Convert Prf,67.54,67.59
-SORN,Soren Acquisition Corp,10.0,10.02
-TGL,Treasure Global Inc,3.09,3.51
-TRMD,Torm PLC,35.46,36.6
-USEA,United Maritime Corp,3.04,3.06
-VLOSU,Velos Acquisition I Units,10.81,10.81
-VRA,Vera Bradley Inc,3.49,4.02
-WENN,Wen Acquisition Corp,10.39,10.4
-WGS,GeneDx Holdings Corp.,90.29,97.42
-WHF,WhiteHorse Finance Inc,7.26,7.32
-XSLLU,Xsolla SPAC 1 Units,10.06,10.16
-ZD,Ziff Davis Inc,56.69,58.75
+SAIH,SAIHEAT Ltd,26.22,25.73
+SDGR,Schrodinger Inc,20.88,30.24
+SGP,SpyGlass Pharma  Inc.,28.99,29.33
+SMCI,Super Micro Computer Inc,40.26,40.35
+SVIVU,Spring Valley Acquisition IV Units,10.56,10.72
+TEM,Tempus AI  Inc.,72.69,80.36
+TRVG,Trivago NV ADR,6.4,6.69
+TTRX,Turn Therapeutics Inc,13.75,13.82
+TWST,Twist Bioscience Corporation,153.1,155.56
+USEA,United Maritime Corp,3.04,3.08
+VBNK,Versabank,22.41,23.47
+VNCE,Vince Holding Corp,7.81,9.82
+VRME,VerifyMe Inc,0.74,0.77
+WABC,Westamerica Bancorp,59.93,60.32
+WGS,GeneDx Holdings Corp.,90.29,104.95
+WHF,WhiteHorse Finance Inc,7.26,7.45
+XRX,Xerox Holdings Corp,3.32,3.62
+ZD,Ziff Davis Inc,56.69,59.13
