@@ -1,87 +1,133 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABCL,AbCellera Biologics Inc.,12.5,12.73
-ABVC,ABVC Biopharma Inc,1.06,1.15
+AAPL,Apple Inc.,332.27,336.13
+ABTC,American Bitcoin Corp,9.34,10.1
+ABVC,ABVC Biopharma Inc,1.06,1.16
 ADACU,American Drive Acquisition Units,10.23,10.25
-ADPT,Adaptive Biotechnologies Corporation,26.44,28.55
-AGPU,Axe Compute Inc,11.26,12.92
-AMD,Advanced Micro Devices  Inc.,521.1,545.09
-BACC,Blue Acquisition Corp.,10.54,10.6
-BAFN,Bayfirst Financial Corp,8.18,9.04
-BBNX,Beta Bionics  Inc.,20.01,21.43
-BEAG,Bold Eagle Acquisition Corp,10.8,10.85
-BRKRP,Bruker 6 375 Mandatory Convertible Preference Shares Ser A,440.61,447.04
-BSAAU,Best SPAC I Acquistion Units,10.5,10.9
-BWIN,The Baldwin Insurance Group  Inc.,31.9,31.95
-CAPN,Cayson Acquisition Corp,11.25,11.29
+AGPU,Axe Compute Inc,11.26,12.13
+AIFF,Firefly Neuroscience Inc,1.2,1.26
+ALVO,Alvotech SA,5.38,5.87
+ALZN,Alzamend Neuro Inc,1.72,1.89
+AMD,Advanced Micro Devices  Inc.,521.1,559.82
+AMRX,Amneal Pharmaceuticals  Inc,18.42,18.71
+AMTX,Aemetis Inc,2.07,2.16
+ANGI,Angi Inc,5.04,5.3
+AUBN,Auburn National Bancorporation Inc,26.92,27.5
+BAFN,Bayfirst Financial Corp,8.75,9.24
+BLLN,BillionToOne  Inc.,100.07,105.92
+BRKRP,Bruker 6 375 Mandatory Convertible Preference Shares Ser A,440.61,456.63
+BSEM,BioStem Technologies  Inc.,4.31,4.74
+BTDR,Bitdeer Technologies Group,12.67,12.97
+CAI,Caris Life Sciences  Inc.,28.01,29.98
 CAPNU,Cayson Acquisition Units,11.17,11.25
-CBLL,CeriBell  Inc.,24.89,25.0
-CNXN,PC Connection Inc,86.6,86.46
-CODA,Coda Octopus Group Inc,10.64,10.78
+CFFN,Capitol Federal Financial Inc,8.88,8.9
+CLFD,Clearfield Inc,30.02,30.16
+CLMT,Calumet  Inc.,56.8,59.0
+CLSK,CleanSpark  Inc.,13.67,14.47
+CNXN,PC Connection Inc,85.76,86.68
+CODA,Coda Octopus Group Inc,10.64,10.84
+COSM,Cosmos Health Inc,0.27,0.32
 CRACU,Crown Reserve Acquisition I Units,10.25,10.34
-CRESY,Cresud SACIF y A ADR,12.61,12.83
-CTKB,Cytek Biosciences  Inc.,4.89,5.21
-CTOR,Citius Oncology Inc,0.94,1.02
-DMIIU,Drugs Made In America Acquisition II Units,10.2,10.25
-ECOR,electroCore  Inc.,10.81,11.38
-ENVB,Enveric Biosciences Inc,1.56,1.59
-EWTX,Edgewise Therapeutics  Inc.,46.44,46.94
+CSTL,Castle Biosciences  Inc.,35.0,35.34
+CTKB,Cytek Biosciences  Inc.,4.89,5.3
+CTOR,Citius Oncology Inc,0.94,1.14
+CUE,Cue Biopharma  Inc.,34.2,37.05
+DMAAU,Drugs Made In America Acquisition Units,10.79,10.99
+DMIIU,Drugs Made In America Acquisition II Units,10.2,10.24
+EBAY,eBay Inc.,111.98,111.84
+ECHO,EchoStar Corporation,93.42,93.46
+ENVB,Enveric Biosciences Inc,1.55,1.62
+EWTX,Edgewise Therapeutics  Inc.,46.44,45.32
+FAC,Factorial Energy Inc,5.96,6.25
+FBLA,FB Bancorp  Inc.,15.99,16.1
+FEAM,5E Advanced Materials  Inc.,1.96,2.5
+FFIV,F5  Inc.,422.95,432.03
 FGIIU,Fg Imperii Acquisition Units,10.05,10.11
-FTRE,Fortrea Holdings Inc,19.52,20.28
-GLBS,Globus Maritime Limited,3.85,3.93
-GPAC,General Purpose Acquisition Corp,10.06,10.1
-GSRF,GSR IV Acquisition Corp,10.23,10.24
-GVH,Globavend Holdings Ltd,1.09,1.38
-GYRE,Gyre Therapeutics  Inc.,7.17,7.18
-HELP,Cybin Inc.,13.98,14.02
-IACQU,Irenic Acquisition Units,10.12,10.33
-IBAC,IB Acquisition Corp,10.92,10.93
-IBRX,ImmunityBio  Inc.,8.4,8.46
-ILMN,Illumina Inc,227.69,245.18
-INTC,Intel Corp,106.24,108.8
-IOVA,Iovance Biotherapeutics Inc,8.99,10.02
-IXHL,Incannex Healthcare Inc,3.75,3.59
-KRT,Karat Packaging Inc,50.06,50.38
-LAFA,LaFayette Acquisition Corp,10.16,10.17
-LTGRU,Long Table Growth Units,10.1,10.19
-MACI,Melar Acquisition Corp I,11.0,11.02
-MGNI,Magnite  Inc.,24.88,25.63
-MTC,MMTEC Inc,4.79,6.56
-MTLS,Materialise NV ADR,7.56,7.71
-NEOG,Neogen Corporation,12.15,12.83
-NTRA,Natera  Inc.,338.7,366.31
-NTWK,NetSol Technologies Inc,4.37,4.44
-OFS,OFS Capital Corp,3.97,3.96
-OHAC,Oceanhawk Acquisition Corp,9.98,9.99
-PGEN,Precigen  Inc.,7.44,7.87
-PMEC,Primech Holdings Ltd,0.53,0.6
-PPHC,Public Policy Holding Company Inc,11.45,12.59
-PPSI,Pioneer Power Solutions Inc,3.14,3.4
-PSIG,PS International Group Ltd,2.79,4.44
-PSIX,Power Solutions International  Inc.,43.15,45.55
-PXS,Pyxis Tankers Inc,7.01,7.34
-QNBC,QNB Corp,45.3,45.74
-QXL,Quantum X Labs Inc,4.9,5.7
-RDAG,Republic Digital Acquisition Co,10.43,10.44
-RDCM,Radcom Ltd,10.49,10.59
-RDWR,Radware Ltd.,29.68,30.55
-REFI,Chicago Atlantic Real Estate Finance Inc,10.95,11.15
-RMBI,Richmond Mutual Bancorporation Inc,16.15,16.16
-SABR,Sabre Corporation,2.26,2.32
-SAIH,SAIHEAT Ltd,26.22,25.73
-SDGR,Schrodinger Inc,20.88,30.24
-SGP,SpyGlass Pharma  Inc.,28.99,29.33
-SMCI,Super Micro Computer Inc,40.26,40.35
+FLGT,Fulgent Genetics  Inc.,20.45,21.69
+FRNM,Freenome  Inc.,16.9,17.11
+FTRE,Fortrea Holdings Inc,19.52,19.93
+FWDI,Forward Industries Inc,6.86,7.7
+GEMI,Gemini Space Station Inc,4.84,5.81
+GH,Guardant Health  Inc.,170.92,179.38
+GLOO,Gloo Holdings  Inc.,3.59,4.88
+GYRE,Gyre Therapeutics  Inc.,7.17,7.55
+HALO,Halozyme Therapeutics  Inc.,110.76,112.45
+HIVE,HIVE Digital Technologies Ltd,3.15,3.41
+HSDT,Solana Co,2.43,2.76
+HTFL,Heartflow  Inc.,50.43,50.75
+HWH,EnerSyn Global Inc.,2.19,2.33
+HYPD,Hyperion DeFi Inc,3.67,3.92
+IBAC,IB Acquisition Corp,10.92,11.64
+IBRX,ImmunityBio  Inc.,8.4,8.48
+ILMN,Illumina Inc,227.69,239.62
+INTC,Intel Corp,106.24,108.6
+IOVA,Iovance Biotherapeutics Inc,8.99,10.25
+IPEXU,Inflection Point Acquisition V Units,12.64,13.22
+KEEL,Keel Infrastructure Corp,3.88,4.01
+KPRX,Kiora Pharmaceuticals  Inc.,2.75,2.76
+KRT,Karat Packaging Inc,50.06,49.87
+MARA,MARA Holdings  Inc.,11.98,13.24
+MDXG,MiMedx Group  Inc.,4.68,4.77
+MGNI,Magnite  Inc.,24.88,25.15
+MKTX,MarketAxess Holdings Inc.,163.38,163.42
+MSTR,Strategy Inc,144.82,153.92
+MTC,MMTEC Inc,4.79,6.89
+NATH,Nathan's Famous Inc,98.67,98.98
+NECB,Northeast Community Bancorp Inc,27.17,27.29
+NEO,NeoGenomics  Inc.,18.64,19.91
+NEOG,Neogen Corporation,12.15,13.0
+NTNX,Nutanix  Inc.,69.84,69.8
+NTRA,Natera  Inc.,338.7,369.39
+NTSK,Netskope  Inc.,16.19,17.49
+NTWK,NetSol Technologies Inc,4.26,4.35
+OHACU,Oceanhawk Acquisition Units,10.24,10.25
+OPRT,Oportun Financial Corp,8.09,8.16
+PGEN,Precigen  Inc.,7.44,7.78
+PPHC,Public Policy Holding Company Inc,11.49,13.11
+PPSI,Pioneer Power Solutions Inc,3.14,3.51
+PRAA,PRA Group Inc,20.6,21.0
+PSIG,PS International Group Ltd,2.79,4.15
+PURR,Hyperliquid Strategies Inc,12.83,14.09
+QRVO,Qorvo  Inc.,116.65,117.18
+RFAMU,RF Acquisition III Units,10.11,10.15
+RIOT,Riot Platforms  Inc.,22.26,23.75
+RLYB,Rallybio Corp,17.0,17.19
+RUSHB,Rush Enterprises  Inc. Class B,53.51,55.42
+RVSB,Riverview Bancorp Inc,5.36,5.92
+RXRX,Recursion Pharmaceuticals  Inc.,3.63,3.83
+SABR,Sabre Corporation,2.26,2.26
+SAIC,Science Applications International Corp,129.9,133.19
+SDGR,Schrodinger Inc,20.88,29.02
+SGMT,Sagimet Biosciences Inc.,11.06,11.09
+SGP,SpyGlass Pharma  Inc.,28.99,29.08
+SKYA,Skyai  Inc,1.47,1.7
+SMMT,Summit Therapeutics Inc.,17.6,17.85
+SMTC,Semtech Corporation,167.24,185.0
+SNDK,SanDisk Corporation,1786.85,1791.82
+SPCX,Space Exploration Technologies Corp,153.47,152.71
+STLN,Starling Oncology  Inc.,6.66,6.96
+SUIG,Sui Group Holdings Ltd,1.18,1.25
+SVAQ,Silicon Valley Acquisition Corp,10.07,10.11
 SVIVU,Spring Valley Acquisition IV Units,10.56,10.72
-TEM,Tempus AI  Inc.,72.69,80.36
-TRVG,Trivago NV ADR,6.4,6.69
-TTRX,Turn Therapeutics Inc,13.75,13.82
-TWST,Twist Bioscience Corporation,153.1,155.56
-USEA,United Maritime Corp,3.04,3.08
-VBNK,Versabank,22.41,23.47
-VNCE,Vince Holding Corp,7.81,9.82
-VRME,VerifyMe Inc,0.74,0.77
-WABC,Westamerica Bancorp,59.93,60.32
-WGS,GeneDx Holdings Corp.,90.29,104.95
-WHF,WhiteHorse Finance Inc,7.26,7.45
-XRX,Xerox Holdings Corp,3.32,3.62
-ZD,Ziff Davis Inc,56.69,59.13
+TAOX,TAO Synergies Inc,4.28,4.57
+TDWD,Tailwind 2.0 Acquisition Corp,10.11,10.13
+TELO,Telomir Pharmaceuticals Inc,1.22,1.23
+TH,Target Hospitality Corp.,20.25,21.19
+TKNO,Alpha Teknova  Inc.,7.46,7.79
+TRVG,Trivago NV ADR,6.4,6.55
+TTRX,Turn Therapeutics Inc,13.75,14.94
+TULP,Bloomia Holdings  Inc,3.61,3.74
+TVGN,Tevogen Inc,7.36,7.81
+TWST,Twist Bioscience Corporation,153.1,166.99
+UPXI,Upexi  Inc,1.15,1.19
+VALU,Value Line Inc,39.99,41.0
+VLGEA,Village Super Market Inc,44.24,44.74
+VNCE,Vince Holding Corp,7.81,10.7
+VNMEU,Vendome Acquisition I Units,10.3,10.34
+VRME,VerifyMe Inc,0.74,0.8
+VRSN,VeriSign  Inc.,294.73,303.12
+VTRS,Viatris Inc.,17.09,16.95
+WABC,Westamerica Bancorp,59.93,60.7
+WENNU,WEN Acquisition Units,10.47,10.48
+WHF,WhiteHorse Finance Inc,7.26,7.37
+XBP,XBP Global Holdings Inc,3.2,3.48
+XMTR,Xometry  Inc.,96.26,97.18
