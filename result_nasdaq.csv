@@ -1,62 +1,64 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABVC,ABVC Biopharma Inc,1.06,1.15
-ALZN,Alzamend Neuro Inc,1.75,1.94
-AMRX,Amneal Pharmaceuticals  Inc,18.42,20.16
-AMTX,Aemetis Inc,2.07,2.09
-AUUD,Auddia Inc.,1.11,1.31
-AVX,AVAX One Technology Ltd,3.93,4.42
-BAFN,Bayfirst Financial Corp,8.8,9.06
-BON,Bon Natural Life Ltd,1.19,1.21
-BRKRP,Bruker 6 375 Mandatory Convertible Preference Shares Ser A,440.61,456.63
-BSEM,BioStem Technologies  Inc.,4.31,4.4
-COSM,Cosmos Health Inc,0.28,0.41
-CTOR,Citius Oncology Inc,0.94,1.04
-DMAC,DiaMedica Therapeutics Inc,6.87,7.26
-DMIIU,Drugs Made In America Acquisition II Units,10.2,10.24
-ECHO,EchoStar Corporation,93.89,95.36
-ESYN,EnerSyn Global Inc.,2.19,2.68
-FAC,Factorial Energy Inc,5.96,6.24
-FIVN,Five9  Inc.,34.57,37.01
-GRAL,Grail Inc,82.54,107.97
-GTERA,Globa Terra Acquisition Corp,10.42,10.43
-GYRE,Gyre Therapeutics  Inc.,7.17,7.43
-HELP,Cybin Inc.,13.98,13.66
-HNNA,Hennessy Advisors Inc,10.39,10.43
-HSDT,Solana Co,2.43,3.11
-INOD,Innodata Inc.,64.3,71.99
-JRSH,Jerash Holdings (US) Inc,5.64,5.74
-LITS,Lite Strategy Inc,1.15,1.28
-MREO,Mereo BioPharma Group PLC ADR,0.32,0.34
-MSS,Maison Solutions Inc,1.86,2.1
-MXL,MaxLinear  Inc.,84.84,85.98
-NAKA,Nakamoto Inc,8.31,10.05
-NEOG,Neogen Corporation,12.15,13.61
-NICE,NICE Ltd. ADR,109.18,114.54
-NTRP,Nexttrip Inc,1.57,2.02
-OBTC,OSPREY BITCOIN ETP,26.32,27.68
-OHACU,Oceanhawk Acquisition Units,10.24,10.25
-OPRT,Oportun Financial Corp,8.1,8.32
-OWLS,OBOOK Holdings Inc,5.63,5.86
-PRAA,PRA Group Inc,20.6,20.6
-PRTH,Priority Technology Holdings Inc,6.01,7.8
-PSIG,PS International Group Ltd,2.79,4.36
-PULM,Pulmatrix Inc,1.6,1.68
-QMLS,QumulusAI Inc,7.32,8.1
-QUBT,Quantum Computing Inc.,9.05,9.12
-RFAMU,RF Acquisition III Units,10.11,10.15
-RMTI,Rockwell Medical Inc,8.31,8.7
-SDGR,Schrodinger Inc,20.88,30.24
-SLAB,Silicon Laboratories Inc.,220.71,220.87
-SONM,DNA X Inc,3.66,4.05
-SUIG,Sui Group Holdings Ltd,1.18,1.46
-TAOX,TAO Synergies Inc,4.28,4.8
-TASK,Taskus Inc,8.39,8.65
-TDWD,Tailwind 2.0 Acquisition Corp,10.11,10.13
-TKNO,Alpha Teknova  Inc.,7.46,8.34
-VFS,VinFast Auto Ltd,3.21,3.38
-VKTX,Viking Therapeutics  Inc.,35.98,41.65
-VNMEU,Vendome Acquisition I Units,10.3,10.34
-VRME,VerifyMe Inc,0.74,1.15
-VRSN,VeriSign  Inc.,298.6,308.18
-WBD,Warner Bros. Discovery  Inc.,28.9,30.8
-WENNU,WEN Acquisition Units,10.47,10.48
+AACIU,Armada Acquisition III Units,10.14,10.32
+ACGCU,ACP Holdings Acquisition Units,10.12,10.25
+ADPT,Adaptive Biotechnologies Corporation,28.55,29.57
+AIFA,All in Futuretech Alliance Inc,3.17,4.2
+ALDFU,Aldel Financial II Units,10.9,10.94
+ALNT,Allient Inc,113.02,112.56
+ATII,Archimedes Tech SPAC Partners II Co.,10.69,10.69
+ATLCL,Atlanticus Holdings 6 125 Senior Notes due 2026,25.23,25.23
+ATLCL,Atlanticus Holdings 6 125 Senior Notes due 2026,25.23,25.23
+AVX,AVAX One Technology Ltd,3.93,5.45
+BLLN,BillionToOne  Inc.,110.67,124.9
+CBAT,CBAK Energy Technology Ltd,1.06,1.37
+CDNA,CareDx  Inc.,54.28,61.37
+CDRO,Codere Online Luxembourg SA,9.69,9.8
+CHEC,Chenghe Acquisition III Co,10.27,10.28
+CHSN,Chanson International Holding,1.17,1.19
+CLMB,Climb Global Solutions Inc,29.17,31.16
+CRAQ,Cal Redwood Acquisition Corp,10.39,10.4
+DGXX,Digi Power X Inc,4.13,4.53
+DTSQU,DT Cloud Star Acquisition Units,11.49,11.89
+FTCI,FTC Solar Inc,2.55,2.68
+FXACU,FortuneX Acquisition Units,10.2,10.36
+GRAL,Grail Inc,82.54,125.21
+GSHR,Gesher Acquisition II Corp,10.55,10.57
+HQI,Hirequest Inc,17.71,18.75
+IFBD,Infobird Co Ltd,1.12,1.13
+JG,Aurora Mobile Ltd ADR,6.8,6.88
+KBSX,FST Ltd,1.16,1.5
+KOSS,Koss Corp,3.75,4.2
+KROS,Keros Therapeutics  Inc.,11.68,11.55
+KRSA,Korsana Biosciences  Inc.,34.72,37.19
+KRT,Karat Packaging Inc,50.38,54.16
+LIEN,Chicago Atlantic BDC Inc,10.34,10.31
+LITS,Lite Strategy Inc,1.15,1.43
+MNTK,Montauk Renewables  Inc,2.64,2.88
+MXL,MaxLinear  Inc.,84.84,85.31
+NBRGU,Newbridge Acquisition Units,10.3,10.39
+NTWK,NetSol Technologies Inc,4.44,4.75
+PACB,Pacific Biosciences of California  Inc.,1.56,1.58
+PACH,Pioneer Acquisition I Corp,10.34,10.35
+PBYI,Puma Biotechnology Inc,9.69,9.82
+PDC,Perpetuals.com Ltd ADR,3.3,3.6
+POCI,Precision Optics Corporation Inc,4.56,4.78
+PSIG,PS International Group Ltd,4.44,4.6
+PUBM,PubMatic  Inc.,17.59,18.55
+QMCO,Quantum Corp,26.11,29.49
+QNBC,QNB Corp,45.74,45.79
+QNTM,Quantum Biopharma Ltd,3.8,4.0
+RANG,Range Capital Acquisition Corp,10.83,10.86
+RGEN,Repligen Corporation,182.03,190.65
+SGHT,Sight Sciences  Inc.,8.55,8.68
+SINT,SINTX Technologies Inc,1.86,1.87
+SLP,Simulations Plus  Inc.,18.44,18.46
+SMCIP,Super Micro Computer Depositary Shs representing 1 20th Mandatory Convert Prf,67.59,72.2
+TEM,Tempus AI  Inc.,80.36,82.24
+TKNO,Alpha Teknova  Inc.,7.46,9.29
+TWAV,TaoWeave Inc,1.4,1.53
+TWST,Twist Bioscience Corporation,155.56,184.03
+VCYT,Veracyte  Inc.,45.25,48.54
+VKTX,Viking Therapeutics  Inc.,35.98,36.75
+VRME,VerifyMe Inc,0.77,1.17
+VTRS,Viatris Inc.,17.13,17.42
+ZKIN,ZK International Group Co Ltd,1.29,1.8
