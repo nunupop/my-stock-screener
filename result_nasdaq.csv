@@ -1,45 +1,64 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ABCL,AbCellera Biologics Inc.,12.73,14.82
-ABLV,Able View Global Inc,1.18,1.78
-ACGCU,ACP Holdings Acquisition Units,10.12,12.71
-ADACU,American Drive Acquisition Units,10.25,10.52
+AACI,Armada Acquisition Corp III,10.05,10.06
+ACAA,Averin Capital Acquisition Corp,10.02,10.05
+ALISU,Calisa Acquisition Units,10.79,11.7
+ALPX,Alpex Acquisition Corp,9.95,9.96
+APAC,StoneBridge Acquisition II Corporation,10.26,10.27
+ARHS,Arhaus  Inc.,9.65,9.87
+ASPS,Altisource Portfolio Solutions S.A.,5.85,6.17
+AUDC,AudioCodes Ltd,10.53,10.93
+BIRD,Smartbird Inc,2.77,3.49
 BLZR,Trailblazer Acquisition Corp,10.23,10.24
-BRKRP,Bruker 6 375 Mandatory Convertible Preference Shares Ser A,464.27,471.09
-COSM,Cosmos Health Inc,0.35,0.42
-CRAQU,Cal Redwood Acquisition Units,10.53,10.74
-CRVO,CervoMed Inc,2.71,2.88
-FSEA,First Seacoast Bancorp Inc,17.2,17.25
-GMAB,Genmab A/S ADR,35.22,35.57
-GSRF,GSR IV Acquisition Corp,10.24,10.25
-HOUR,Hour Loop Inc,1.92,1.96
-IOVA,Iovance Biotherapeutics Inc,10.64,14.45
-JDZG,JIADE Ltd,4.42,4.55
-KBSX,FST Ltd,1.23,1.71
-KOYN,CSLM Digital Asset Acquisition III Corp Ltd,10.24,10.27
-KOYNU,CSLM Digital Asset Acquisition III Units,10.31,10.32
-LFCR,Lifecore Biomedical  Inc.,4.74,6.59
-LGND,Ligand Pharmaceuticals Incorporated,298.5,310.36
-LINK,Interlink Electronics Inc,5.84,5.94
-LPBBU,Launch Two Acquisition Units,10.85,10.87
-MGNI,Magnite  Inc.,25.63,25.67
-MQ,Marqeta  Inc.,16.98,17.01
-MSBIP,Midland Sts Bancorp Depositary Shs Repstg 1 40Th Perp Pfd Series A,25.67,25.94
-MSGY,Masonglory Ltd,2.64,4.44
-NAUT,Nautilus Biotechnology  Inc.,1.12,1.37
-NNBR,NN Inc,3.84,3.88
-NTWK,NetSol Technologies Inc,4.57,5.56
-PACB,Pacific Biosciences of California  Inc.,1.56,1.83
-PSIG,PS International Group Ltd,4.47,4.6
-QSEA,Quartzsea Acquisition Corp,10.65,10.68
-QSI,Quantum-Si Inc,0.85,0.96
-SGHT,Sight Sciences  Inc.,8.59,9.35
-SVCCU,Stellar V Capital Units,10.71,10.86
-TACH,Titan Acquisition Corp,10.52,10.53
-TDWDU,Tailwind 2 0 Acquisition Units,10.15,10.18
-TWST,Twist Bioscience Corporation,166.99,186.13
-VNME,Vendome Acquisition Corp I,10.3,10.33
-VTRS,Viatris Inc.,17.18,18.12
-WENN,Wen Acquisition Corp,10.41,10.42
-XERS,Xeris Biopharma Holdings  Inc.,8.85,9.98
-XRPN,Armada Acquisition Corp II,10.57,12.9
-XRPNU,Armada Acquisition II Units,11.47,16.16
+CBNK,Capital Bancorp Inc,36.98,39.8
+DMII,Drugs Made In America Acquisition II Corp.,10.18,10.19
+DRDB,Roman Dbdr Acquisition Corp. II,10.72,10.73
+DTSQ,DT Cloud Star Acquisition Corp,11.5,11.58
+EJH,E-Home Household Service Holdings Ltd,1.35,1.79
+FIGXU,FIGX Capital Acquisition Units,10.36,10.36
+FNRN,First Northern Community Bancorp,17.5,17.64
+GTERA,Globa Terra Acquisition Corp,10.43,10.45
+HCAC,Hall Chadwick Acquisition Corp,10.12,10.15
+HURN,Huron Consulting Group Inc.,162.59,168.42
+INAB,IN8bio  Inc.,1.28,1.4
+INGN,Inogen  Inc.,5.61,5.98
+IRHO,Iron Horse Acquisitions Corp II,10.07,10.08
+KBSX,FST Ltd,1.5,1.72
+KFII,K&F Growth Acquisition II Corp,10.67,10.68
+LATA,Galata Acquisition Corp II,10.21,10.21
+LCCCU,Lakeshore Acquisition III Units,10.61,10.8
+LFCR,Lifecore Biomedical  Inc.,4.74,6.53
+LIND,Lindblad Expeditions Holdings  Inc.,31.9,33.63
+LITE,Lumentum Holdings Inc.,988.98,1045.78
+LPAA,Launch One Acquisition Corp,10.77,10.85
+LQDT,Liquidity Services Inc,43.4,43.64
+MASS,908 Devices Inc.,11.52,12.51
+MGRX,Mangoceuticals Inc,0.48,0.48
+MQ,Marqeta  Inc.,16.98,17.0
+MU,Micron Technology  Inc.,1096.16,1097.39
+NAUT,Nautilus Biotechnology  Inc.,1.12,1.57
+OIM,OneIM Acquisition Corp,10.15,10.15
+ONCH,1RT Acquisition Corp.,10.33,10.34
+PACB,Pacific Biosciences of California  Inc.,1.58,2.51
+PAYS,Paysign Inc,14.14,14.36
+PBYI,Puma Biotechnology Inc,9.82,9.84
+PLAB,Photronics  Inc.,30.52,30.83
+PMVP,PMV Pharmaceuticals  Inc.,1.51,1.75
+QADR,QDRO Acquisition Corp,10.0,10.02
+QSI,Quantum-Si Inc,0.85,1.43
+RCEL,AVITA Medical Inc,11.58,12.01
+RVSB,Riverview Bancorp Inc,5.99,6.03
+SCPQU,Social Commerce Partners Units,10.28,10.3
+SCSC,ScanSource  Inc.,58.59,62.22
+SINT,SINTX Technologies Inc,1.87,2.13
+SLP,Simulations Plus  Inc.,18.46,18.49
+SNPS,Synopsys  Inc.,464.89,490.54
+SOTK,Sono-Tek Corp,5.48,5.82
+SSAC,Spacsphere Acquisition Corp,10.12,10.13
+SVAQ,Silicon Valley Acquisition Corp,10.12,10.14
+SVCO,Silvaco Group Inc,8.46,9.02
+SYNA,Synaptics Incorporated,101.03,106.15
+TACH,Titan Acquisition Corp,10.52,10.54
+UTHR,United Therapeutics Corporation,527.91,571.38
+WEYS,WEYCO Group Inc,47.42,50.21
+XRPN,Armada Acquisition Corp II,10.57,23.43
+XRPNU,Armada Acquisition II Units,11.47,22.75
