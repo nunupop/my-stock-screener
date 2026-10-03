@@ -1,34 +1,40 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AACI,Armada Acquisition Corp III,10.05,10.06
 ACAA,Averin Capital Acquisition Corp,10.02,10.05
 ALISU,Calisa Acquisition Units,10.79,11.7
 ALPX,Alpex Acquisition Corp,9.95,9.96
 APAC,StoneBridge Acquisition II Corporation,10.26,10.27
 ARHS,Arhaus  Inc.,9.65,9.87
 ASPS,Altisource Portfolio Solutions S.A.,5.85,6.17
+ATLCL,Atlanticus Holdings 6 125 Senior Notes due 2026,25.24,25.3
+ATLCL,Atlanticus Holdings 6 125 Senior Notes due 2026,25.24,25.3
 AUDC,AudioCodes Ltd,10.53,10.93
 BIRD,Smartbird Inc,2.77,3.49
 BLZR,Trailblazer Acquisition Corp,10.23,10.24
+BSAAU,Best SPAC I Acquistion Units,10.9,11.0
+CAPNU,Cayson Acquisition Units,11.35,11.37
 CBNK,Capital Bancorp Inc,36.98,39.8
-DMII,Drugs Made In America Acquisition II Corp.,10.18,10.19
-DRDB,Roman Dbdr Acquisition Corp. II,10.72,10.73
 DTSQ,DT Cloud Star Acquisition Corp,11.5,11.58
+EGHA,EGH Acquisition Corp.,10.4,10.43
 EJH,E-Home Household Service Holdings Ltd,1.35,1.79
-FIGXU,FIGX Capital Acquisition Units,10.36,10.36
+FERA,Fifth Era Acquisition Corp I,10.54,10.55
 FNRN,First Northern Community Bancorp,17.5,17.64
+GSRF,GSR IV Acquisition Corp,10.24,10.26
 GTERA,Globa Terra Acquisition Corp,10.43,10.45
-HCAC,Hall Chadwick Acquisition Corp,10.12,10.15
+HCAC,Hall Chadwick Acquisition Corp,10.12,10.13
 HURN,Huron Consulting Group Inc.,162.59,168.42
 INAB,IN8bio  Inc.,1.28,1.4
+INACU,Indigo Acquisition Units,10.37,10.8
 INGN,Inogen  Inc.,5.61,5.98
-IRHO,Iron Horse Acquisitions Corp II,10.07,10.08
 KBSX,FST Ltd,1.5,1.72
 KFII,K&F Growth Acquisition II Corp,10.67,10.68
+KFIIU,K F Growth Acquisition Units,10.69,10.7
+KOYN,CSLM Digital Asset Acquisition III Corp Ltd,10.24,10.26
 LATA,Galata Acquisition Corp II,10.21,10.21
 LCCCU,Lakeshore Acquisition III Units,10.61,10.8
 LFCR,Lifecore Biomedical  Inc.,4.74,6.53
 LIND,Lindblad Expeditions Holdings  Inc.,31.9,33.63
 LITE,Lumentum Holdings Inc.,988.98,1045.78
+LKSP,Lake Superior Acquisition Corp.,10.25,10.26
 LPAA,Launch One Acquisition Corp,10.77,10.85
 LQDT,Liquidity Services Inc,43.4,43.64
 MASS,908 Devices Inc.,11.52,12.51
@@ -36,14 +42,14 @@ MGRX,Mangoceuticals Inc,0.48,0.48
 MQ,Marqeta  Inc.,16.98,17.0
 MU,Micron Technology  Inc.,1096.16,1097.39
 NAUT,Nautilus Biotechnology  Inc.,1.12,1.57
-OIM,OneIM Acquisition Corp,10.15,10.15
 ONCH,1RT Acquisition Corp.,10.33,10.34
 PACB,Pacific Biosciences of California  Inc.,1.58,2.51
 PAYS,Paysign Inc,14.14,14.36
 PBYI,Puma Biotechnology Inc,9.82,9.84
 PLAB,Photronics  Inc.,30.52,30.83
-PMVP,PMV Pharmaceuticals  Inc.,1.51,1.75
+PMVP,Pmv Pharmaceuticals  Inc,1.51,1.75
 QADR,QDRO Acquisition Corp,10.0,10.02
+QSEA,Quartzsea Acquisition Corp,10.65,10.69
 QSI,Quantum-Si Inc,0.85,1.43
 RCEL,AVITA Medical Inc,11.58,12.01
 RVSB,Riverview Bancorp Inc,5.99,6.03
@@ -53,7 +59,6 @@ SINT,SINTX Technologies Inc,1.87,2.13
 SLP,Simulations Plus  Inc.,18.46,18.49
 SNPS,Synopsys  Inc.,464.89,490.54
 SOTK,Sono-Tek Corp,5.48,5.82
-SSAC,Spacsphere Acquisition Corp,10.12,10.13
 SVAQ,Silicon Valley Acquisition Corp,10.12,10.14
 SVCO,Silvaco Group Inc,8.46,9.02
 SYNA,Synaptics Incorporated,101.03,106.15
@@ -62,3 +67,5 @@ UTHR,United Therapeutics Corporation,527.91,571.38
 WEYS,WEYCO Group Inc,47.42,50.21
 XRPN,Armada Acquisition Corp II,10.57,23.43
 XRPNU,Armada Acquisition II Units,11.47,22.75
+XSLL,Xsolla SPAC 1,10.0,10.01
+YHNAU,YHN Acquisition I Units,11.29,12.49
