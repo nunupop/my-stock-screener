@@ -1,63 +1,51 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACB,Aurora Cannabis Inc.,4.27,4.46
-AIFA,All in Futuretech Alliance Inc,4.2,5.88
-AZTA,Azenta  Inc.,34.28,39.35
-BEAT,HeartBeam  Inc.,0.5,0.65
-BMR,Beamr Imaging Ltd,1.35,1.44
-BOT,RoboStrategy Inc,30.01,31.81
-BRBI,BRBI BR Partners SA ADR,11.36,13.76
-CBNK,Capital Bancorp Inc,36.98,40.02
-CHECU,Chenghe Acquisition III Units,10.25,10.49
-CHPG,ChampionsGate Acquisition Corp,10.5,10.5
-CRVO,CervoMed Inc,2.88,3.34
-CYRX,Cryoport  Inc.,17.62,17.8
-DIOD,Diodes Incorporated,97.18,107.74
-EFOI,Energy Focus Inc,2.9,3.15
-FCEL,Fuelcell Energy Inc,19.32,20.65
-FRMEP,First Merchants Depository Shares Reprs 1 100Th 7 50 Non Cum Perp Prf Shs A,25.3,25.31
-FSHPU,Flag Ship Acquisition Units,11.25,11.26
-GDTC,CytoMed Therapeutics Ltd,1.0,1.01
-GMAB,Genmab A/S ADR,35.36,38.48
-GNLN,Greenlane Holdings Inc,3.07,3.5
-GSRF,GSR IV Acquisition Corp,10.24,10.27
-GSRV,GSR V Acquisition Corp,9.9,9.93
-HYFT,Mindwalk Holdings Corp.,1.48,1.49
-HYPR,Hyperfine  Inc.,0.87,0.88
-INAB,IN8bio  Inc.,1.24,1.42
-JRSH,Jerash Holdings (US) Inc,5.9,6.03
-KBSX,FST Ltd,1.68,1.71
-KCHV,Kochav Defense Acquisition Corp,10.45,10.48
-KFII,K&F Growth Acquisition II Corp,10.67,10.69
-LAZR,Luminar Technologies Inc,46.1,48.35
-MKLY,McKinley Acquisition Corp,10.28,10.29
-MRVL,Marvell Technology  Inc.,263.27,287.01
-MSGM,Motorsport Games Inc,5.2,5.38
-NAUT,Nautilus Biotechnology  Inc.,1.12,1.87
-NVAX,Novavax  Inc.,10.83,11.32
-OCG,Oriental Culture Holding Ltd,1.72,1.65
-OPCH,Option Care Health Inc,24.5,31.0
-OPTX,Syntec Optics Holdings  Inc,8.73,9.8
-OTGA,OTG Acquisition I Corp,10.26,10.27
-PACB,Pacific Biosciences of California  Inc.,1.83,2.7
-PENG,Penguin Solutions Inc,56.58,60.71
-PKOH,Park Ohio Holdings Corp,48.04,48.68
-PTC,PTC Inc.,158.95,193.0
-PWRL,PowerLaw10 LLC,11.41,12.4
-QSI,Quantum-Si Inc,0.85,1.28
-QTEX,Qtrex Quantum Ltd,0.89,1.54
-QUMS,Quantumsphere Acquisition Corp,10.34,10.35
-RELL,Richardson Electronics Ltd,17.99,19.05
-RGC,Regencell Bioscience Holdings Ltd,6.89,7.24
-SCPQU,Social Commerce Partners Units,10.28,10.3
-SEER,Seer  Inc.,2.04,2.33
-SOTK,Sono-Tek Corp,5.31,6.74
-STNE,StoneCo Ltd.,10.37,11.54
-SYPR,Sypris Solutions Inc,1.9,1.94
-TBCH,Turtle Beach Corporation,12.98,13.51
-VINP,Vinci Compass Investments Ltd,9.9,10.72
-WCCB,West Coast Community Bancorp,60.71,61.14
-WHLRP,Wheeler Real Estate Investment Trust Series B Conv Prf Shs,9.67,11.74
-XP,XP Inc,21.21,28.15
-XRPN,Armada Acquisition Corp II,10.58,38.65
-XRPNU,Armada Acquisition II Units,11.47,35.0
-XSLL,Xsolla SPAC 1,10.0,10.0
+AEAQU,Activate Energy Acquisition Units,10.26,10.29
+AIFA,All in Futuretech Alliance Inc,4.2,7.41
+ALIS,Calisa Acquisition Corp,10.34,11.03
+ALISU,Calisa Acquisition Units,10.79,16.65
+AMPL,Amplitude  Inc.,14.3,14.76
+AMSC,American Superconductor Corp,31.24,31.74
+BMR,Beamr Imaging Ltd,1.35,1.57
+BSAAU,Best SPAC I Acquistion Units,10.9,11.4
+BYRN,Byrna Technologies Inc,3.78,4.05
+BZUN,Baozun Inc ADR,3.09,3.55
+CAPNU,Cayson Acquisition Units,11.35,11.37
+CCAQU,Collective Acquisition Units,10.68,19.49
+CHARU,Charlton Aria Acquisition Units,10.93,11.41
+DMII,Drugs Made In America Acquisition II Corp.,10.18,10.19
+FGII,FG Imperii Acquisition Corp,10.03,10.04
+GTERA,Globa Terra Acquisition Corp,10.45,10.5
+HYNE,Hoyne Bancorp Inc,16.72,16.81
+IDAI,T Stamp Inc,3.43,3.45
+ILLUU,Illumination Acquisition I Units,10.27,10.28
+JAKK,JAKKS Pacific Inc,25.62,27.77
+JVA,Coffee Holding Co Inc,4.23,4.65
+KCHV,Kochav Defense Acquisition Corp,10.46,10.48
+LAZR,Luminar Technologies Inc,46.1,47.78
+LILAK,Liberty Latin America Ltd. Class C,8.85,8.85
+LKSPU,Lake Superior Acquisition Units,10.44,11.83
+LPBBU,Launch Two Acquisition Units,10.87,10.91
+LSAK,Lesaka Technologies Inc,4.61,4.69
+MUZEU,Muzero Acquisition Units,10.14,10.16
+NAUT,Nautilus Biotechnology  Inc.,1.42,1.96
+NWE,NorthWestern Energy Group  Inc.,71.78,73.97
+OPCH,Option Care Health Inc,24.5,31.01
+PALOU,Paloma Acquisition I Units,10.05,10.1
+PENG,Penguin Solutions Inc,56.58,72.61
+PFAI,Pinnacle Food Group Ltd,3.05,5.07
+PTC,PTC Inc.,158.95,193.6
+QETA,Quetta Acquisition Corp,11.85,13.0
+QETAU,Quetta Acquisition Units,11.51,15.28
+RANG,Range Capital Acquisition Corp.,10.86,10.88
+RELL,Richardson Electronics Ltd,17.99,20.0
+SHPH,Shuttle Pharmaceuticals Holdings Inc,4.11,4.71
+SKK,Skk Holdings Ltd,4.67,5.08
+SNWV,SANUWAVE Health Inc,5.04,5.54
+TAVI,Tavia Acquisition Corp,10.77,10.78
+TLN,Talen Energy Corporation,325.77,378.32
+VALU,Value Line Inc,41.0,44.44
+VIR,Vir Biotechnology  Inc.,11.63,11.52
+WCCB,West Coast Community Bancorp,60.71,61.15
+WSTN,Westin Acquisition Corp,10.2,10.25
+WTG,Wintergreen Acquisition Corp,10.64,10.65
+ZSQR,Z Squared Inc (Delaware),4.54,4.57
