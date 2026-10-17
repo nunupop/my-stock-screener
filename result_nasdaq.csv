@@ -1,38 +1,50 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AACOU,Abony Acquisition I Units,10.1,10.2
-ACIC,American Coastal Insurance Corp,9.54,10.53
-ALFUU,Centurion Acquisition Units Expiry 22nd May 2029,10.91,11.05
-ALLT,Allot Ltd,8.69,8.6
-ALPX,Alpex Acquisition Corp,9.96,9.97
-BIIB,Biogen Inc.,228.69,232.83
-BSP,Bending Spoons SpA,41.69,53.46
-BYRN,Byrna Technologies Inc,4.05,4.65
-CBLL,CeriBell  Inc.,25.04,26.37
-CRAC,Crown Reserve Acquisition Corp. I,10.25,10.27
-CTAA,Clearthink 1 Acquisition Corp,9.96,10.0
+ACIC,American Coastal Insurance Corp,9.83,10.95
+ALLT,Allot Ltd,8.69,9.04
+ANGI,Angi Inc,6.28,6.46
+APPN,Appian Corp,40.82,43.82
+BDCI,BTC Development Corp.,10.16,10.17
+BLKB,Blackbaud  Inc.,48.46,51.39
+BPOPM,Popular Capital Trust II 6 125 Cumulative Monthly Income Pref Shs,25.34,25.38
+BSP,Bending Spoons SpA,41.69,55.77
+BZUN,Baozun Inc ADR,3.55,3.67
+CBLL,CeriBell  Inc.,25.04,27.64
+CCC,CCC Intelligent Solutions Holdings Inc.,7.51,7.63
 CTAAU,ClearThink 1 Acquisition Units,10.12,10.27
-DCBO,Docebo Inc.,25.48,27.15
-FAST,Fastenal Company,50.99,52.0
-FTRE,Fortrea Holdings Inc,21.11,21.34
-FWAC,Futurewave Acquisition Corp,9.95,9.96
-FXAC,Fortunex Acquisition Corp,10.1,10.11
-GPAC,General Purpose Acquisition Corp,10.1,10.12
-HYNE,Hoyne Bancorp Inc,16.81,16.84
+CUB,Lionheart Holdings,10.91,10.91
+DCBO,Docebo Inc.,25.48,28.12
+DMAAU,Drugs Made In America Acquisition Units,10.99,11.3
+DNMX,Dynamix Corp III,10.08,10.1
+DOCU,Docusign  Inc.,71.85,77.52
+DSGX,The Descartes Systems Group Inc.,81.35,88.64
+EBAY,eBay Inc.,112.9,122.91
+ERIC,Telefonaktiebolaget LM Ericsson ADR,10.31,10.71
+FTRE,Fortrea Holdings Inc,21.11,22.75
+GCT,Gigacloud Technology Inc,56.42,59.34
+GIBO,Gibo Holdings Ltd,56.82,61.94
 ICG,Intchains Group Ltd ADR,1.03,1.33
-IPXG,Inflection Point Acquisition Corp. VII,10.06,10.1
-JG,Aurora Mobile Ltd ADR,7.09,8.31
-JRSH,Jerash Holdings (US) Inc,6.15,6.47
-KCHV,Kochav Defense Acquisition Corp.,10.48,10.5
+INTA,Intapp  Inc.,43.11,43.63
+IOTR,iOThree Ltd,2.51,2.61
+IPXG,Inflection Point Acquisition Corp. VII,10.06,10.12
+JAKK,JAKKS Pacific Inc,27.96,29.04
+JG,Aurora Mobile Ltd ADR,7.09,7.9
+KDP,Keurig Dr Pepper Inc,32.88,34.18
+LPAA,Launch One Acquisition Corp,10.85,10.89
 MCAH,Mountain Crest Acquisition 6 Corp,10.05,10.06
-MMTX,Miluna Acquisition Corp,10.21,10.22
-MWYN,Marwynn Holdings Inc,1.47,1.92
-PTLO,Portillos Inc,4.5,4.66
-QUMS,Quantumsphere Acquisition Corp,10.36,10.38
-RGC,Regencell Bioscience Holdings Ltd,7.35,8.11
-SHOTU,RMG ML Sports Holdings Units,10.02,10.08
-STRC,Strategy Variable Rate Perpetual Stretch Prf Shs Series A,99.56,99.74
-TVA,Texas Ventures Acquisition III Corp,10.59,10.6
-TVAI,Thayer Ventures Acquisition Corporation II,10.41,10.43
-VABK,Virginia National Bankshares Corp,49.22,50.69
-VNMEU,Vendome Acquisition I Units,10.34,10.36
-WAY,Waystar Holding Corp.,26.67,26.87
+MWYN,Marwynn Holdings Inc,1.47,1.93
+NXPL,NextPlat Corp,9.46,9.68
+OTEX,Open Text Corporation,24.85,25.83
+OXSQ,Oxford Square Capital Corp.,1.35,1.4
+PTLE,PTL Ltd,7.85,9.05
+REAL,The RealReal  Inc.,10.06,10.54
+RGC,Regencell Bioscience Holdings Ltd,7.63,9.52
+SHOT,RMG ML Sports Holdings,9.86,9.87
+TBCH,Turtle Beach Corporation,13.99,16.17
+THEO,BOA Acquisition Corp. II,9.91,9.92
+VABK,Virginia National Bankshares Corp,49.22,51.45
+VEON,VEON Ltd ADR,77.19,82.81
+VSTM,Verastem Inc,8.37,9.23
+WAY,Waystar Holding Corp.,26.67,28.24
+WEST,Westrock Coffee Co,8.25,8.56
+WMG,Warner Music Group Corp.,29.55,30.69
+WSBCO,Wesbanco Depositary Shs Each Repstg 1 40Th In Sh Of Fxd Rate Rst Non Cumulatv,25.37,25.38
