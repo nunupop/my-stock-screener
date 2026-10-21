@@ -1,45 +1,26 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AAPL,Apple Inc.,341.07,343.46
 AEAQ,Activate Energy Acquisition Corp,10.09,10.1
-AESP,Aeon Acquisition I Corp,9.99,10.02
-AGCC,Agencia Comercial Spirits Ltd,15.5,16.01
-ALLT,Allot Ltd,8.69,9.03
-AOUT,American Outdoor Brands Inc,17.55,18.06
-APPN,Appian Corp,40.1,41.17
-BPRN,Princeton Bancorp Inc,43.88,43.91
-BYRN,Byrna Technologies Inc,4.73,4.84
-BZUN,Baozun Inc ADR,3.55,3.72
-CDW,CDW Corporation,153.79,150.48
-CENT,Central Garden & Pet Co,41.71,42.04
-CRAC,Crown Reserve Acquisition Corp. I,10.25,10.27
-DCBO,Docebo Inc.,25.47,27.59
-DMAAU,Drugs Made In America Acquisition Units,10.99,11.3
-DRH,Diamondrock Hospitality Co,12.64,13.42
-EXLS,ExlService Holdings  Inc.,36.87,39.52
-HPK,Highpeak Energy Inc,9.55,10.55
-HST,Host Hotels & Resorts  Inc.,22.66,23.97
-HYNE,Hoyne Bancorp Inc,16.83,16.83
-ICG,Intchains Group Ltd ADR,1.11,1.36
-INTA,Intapp  Inc.,41.71,43.64
-JG,Aurora Mobile Ltd ADR,7.1,8.8
-KCHV,Kochav Defense Acquisition Corp.,10.49,10.5
-KCHVU,Kochav Defense Acquisition Units,10.52,10.55
-KGEI,Kolibri Global Energy Inc,6.88,6.97
-KMTS,Kestra Medical Technologies  Ltd.,28.46,27.24
-LKSP,Lake Superior Acquisition Corp.,10.26,10.3
-LOCO,El Pollo Loco Holdings Inc,15.37,16.34
-LPAA,Launch One Acquisition Corp,10.85,10.91
-MACI,Melar Acquisition Corp. I,11.09,11.1
-MCGA,Yorkville Acquisition Corp.,10.37,10.38
-MWYN,Marwynn Holdings Inc,1.47,2.2
-NXPL,NextPlat Corp,9.46,9.5
-PTLE,PTL Ltd,7.72,9.11
-REAL,The RealReal  Inc.,9.9,10.39
-RGC,Regencell Bioscience Holdings Ltd,7.63,9.59
-RUSHB,Rush Enterprises  Inc. Class B,57.34,57.42
-TRI,Thomson Reuters Corp,105.82,109.01
-TVAI,Thayer Ventures Acquisition Corporation II,10.41,10.44
-VABK,Virginia National Bankshares Corp,49.22,50.86
-WLTH,Wealthfront Corporation,10.9,10.63
-WMG,Warner Music Group Corp.,29.25,31.4
+AMZN,Amazon.com Inc,262.43,262.45
+ARQT,Arcutis Biotherapeutics  Inc.,27.78,31.89
+BCPC,Balchem Corporation,170.56,170.42
+BYRN,Byrna Technologies Inc,4.73,5.17
+CME,CME Group Inc.,280.56,293.53
+CUB,Lionheart Holdings,10.91,10.98
+DH,Definitive Healthcare Corp,1.05,1.1
+FGCPP,FG Communities Holdings 8 00 Cumulative Pref Shs,25.99,25.25
+HAS,Hasbro  Inc.,94.73,98.49
+HAVAU,Harvard Ave Acquisition Units,10.3,10.32
+HPK,Highpeak Energy Inc,9.71,11.39
+HYNE,Hoyne Bancorp  Inc.,16.83,16.84
+IA,Innovative Solutions and Support Inc,19.77,19.9
+KMTS,Kestra Medical Technologies  Ltd.,28.46,29.37
+LCCC,Lakeshore Acquisition III Corp.,10.54,10.55
+LOGI,Logitech international S.A.,105.82,107.35
+MCGA,Yorkville Acquisition Corp.,10.37,10.39
+MMTX,Miluna Acquisition Corp,10.23,10.24
+OMH,Ohmyhome Ltd,2.71,2.84
+RGC,Regencell Bioscience Holdings Ltd,7.63,10.05
+SCII,SC II Acquisition Corp,10.18,10.19
+TAVIU,Tavia Acquisition Units,11.0,11.2
 WTGUU,Wintergreen Acquisition Units,11.35,11.5
+YHC,LQR House Inc.,1.55,1.98
