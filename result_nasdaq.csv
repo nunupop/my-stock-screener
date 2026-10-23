@@ -1,53 +1,52 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACIW,ACI Worldwide  Inc.,52.65,54.54
-AESP,Aeon Acquisition I Corp,10.0,10.02
-AEYE,AudioEye Inc,8.03,8.19
-ARQT,Arcutis Biotherapeutics  Inc.,27.78,32.82
-BL,BlackLine  Inc.,30.29,31.23
-BRZE,Braze  Inc.,29.06,45.57
-CBC,Central Bancompany  Inc.,32.56,33.55
-CME,CME Group Inc.,280.56,295.31
-CMRC,Commerce.com  Inc.,3.64,3.8
-CUB,Lionheart Holdings,10.91,10.94
-CWST,Casella Waste Systems  Inc.,91.16,93.07
-DCBO,Docebo Inc.,27.39,30.21
-DTSQU,DT Cloud Star Acquisition Units,11.89,12.0
-EVAX,Evaxion A/S ADR,3.34,4.05
-FACT,FACT II Acquisition Corp,10.74,10.75
-HAS,Hasbro  Inc.,95.94,109.52
-HTFL,Heartflow  Inc,52.21,55.59
-HUIZ,Huize Holding Ltd ADR,1.63,2.53
-HYNE,Hoyne Bancorp  Inc.,16.84,17.11
-ICG,Intchains Group Ltd ADR,1.23,1.41
+AEYE,AudioEye Inc,8.03,7.88
+APPN,Appian Corp,40.1,48.73
+ARTC,Art Technology Acquisition Corp,10.02,10.03
+ATLQ,JAB Acquisition Corp I,10.0,10.01
+BRZE,Braze  Inc.,29.06,45.68
+BSY,Bentley Systems  Incorporated,35.97,38.36
+CHA,Chagee Holdings Ltd ADR,12.52,12.95
+CHKP,Check Point Software Technologies Ltd.,141.16,143.43
+COCO,The Vita Coco Company  Inc.,59.6,63.5
+DCBO,Docebo Inc.,27.39,30.45
+DSGX,The Descartes Systems Group Inc.,85.34,92.39
+EVAX,Evaxion A/S ADR,3.34,3.71
+EWBC,East West Bancorp  Inc.,129.81,131.39
+FDBC,Fidelity D&D Bancorp Inc,56.72,58.97
+FERAU,Fifth Era Acquisition I Units,10.78,10.87
+FIGXU,FIGX Capital Acquisition Units,10.36,10.36
+FMAC,Future Money Acquisition Corp,10.1,10.13
+FRMEP,First Merchants Depository Shares Reprs 1 100Th 7 50 Non Cum Perp Prf Shs A,25.31,25.31
+GDRX,GoodRx Holdings  Inc.,3.56,3.57
+HAS,Hasbro  Inc.,95.94,114.0
+HON,Honeywell International Inc.,214.14,214.73
+HYNE,Hoyne Bancorp  Inc.,16.84,17.15
+ICG,Intchains Group Ltd ADR,1.33,1.38
 IGACU,Invest Green Acquisition Units,10.18,10.19
-IOSP,Innospec Inc,98.72,99.16
-IRLA,IRulya Therapeutics Inc,32.4,40.27
-ISRG,Intuitive Surgical  Inc.,427.64,438.0
-JCSE,JE Cleantech Holdings Ltd,1.55,1.7
-JOYY,JOYY Inc. ADR,82.53,84.93
-KCHV,Kochav Defense Acquisition Corp.,10.5,10.52
-KDP,Keurig Dr Pepper Inc,32.75,34.63
-KMTS,Kestra Medical Technologies  Ltd.,28.46,28.28
-KNSA,Kiniksa Pharmaceuticals International  PLC,79.78,83.17
-LCCC,Lakeshore Acquisition III Corp.,10.54,10.55
-LOGI,Logitech international S.A.,105.82,109.28
-MACI,Melar Acquisition Corp. I,11.09,11.11
-MAZE,Maze Therapeutics  Inc.,28.38,32.45
-MNDY,monday.com Ltd.,96.11,100.86
-MTEX,Mannatech Inc,8.51,8.26
-MWYN,Marwynn Holdings Inc,1.6,2.7
-MYGN,Myriad Genetics  Inc.,4.58,5.54
-NATH,Nathan's Famous Inc,101.91,101.94
-NECB,Northeast Community Bancorp Inc,27.8,28.15
-OMH,Ohmyhome Ltd,2.74,3.18
+IOSP,Innospec Inc,98.72,99.64
+KIDS,OrthoPediatrics Corp,23.24,23.84
+LIFE,Ethos Technologies Inc,40.28,44.22
+MCAH,Mountain Crest Acquisition 6 Corp,10.06,10.07
+MEDP,Medpace Holdings  Inc.,630.19,662.48
+MTEX,Mannatech Inc,8.51,8.57
+MYGN,Myriad Genetics  Inc.,4.58,5.57
+MYXXU,Maywood Acquisition 2 Units,10.2,10.25
+NWE,NorthWestern Energy Group  Inc.,75.26,76.1
+OKYO,OKYO Pharma Ltd,1.47,1.54
+PGAC,Pantages Capital Acquisition Corporation,10.78,10.81
+PLBC,Plumas Bancorp,62.89,63.49
 PLMKU,Plum Acquisition IV Units,10.76,10.78
-RDAGU,Republic Digital Acquisition Units,10.53,10.56
-SCII,SC II Acquisition Corp,10.18,10.19
-SCPQ,Social Commerce Partners Corp,10.1,10.14
+POM,PomDoctor Ltd,1.04,3.01
+PRCH,Porch Group  Inc.,17.69,18.59
+RDAG,Republic Digital Acquisition Co,10.45,10.46
+ROKU,Roku  Inc.,157.45,157.78
+SCII,SC II Acquisition Corp,10.18,10.18
 SDHIU,Siddhi Acquisition Units,10.64,10.65
-SORN,Soren Acquisition Corp,10.04,10.05
-TAVIU,Tavia Acquisition Units,11.0,11.01
-TW,Tradeweb Markets Inc,111.08,119.37
-VERX,Vertex  Inc.,13.09,14.32
-WENNU,WEN Acquisition Units,10.64,10.65
-WTG,Wintergreen Acquisition Corp,10.67,10.66
+SLE,Super League Enterprise Inc,5.64,5.97
+STFS,Star Fashion Culture Holdings Ltd,4.12,4.58
+SWBI,Smith & Wesson Brands Inc,14.7,15.1
+TBCH,Turtle Beach Corporation,14.53,16.27
+TNGX,Tango Therapeutics  Inc.,25.53,26.98
+USIO,Usio  Inc.,2.93,3.18
+WCCB,West Coast Community Bancorp,61.26,61.54
+YSWY,Yesway Inc,22.95,23.26
