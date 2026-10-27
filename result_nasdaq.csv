@@ -1,93 +1,68 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ACNB,ACNB Corp,65.34,65.39
-ADBE,Adobe Inc,265.6,270.55
-ADP,Automatic Data Processing Inc,285.65,307.94
-ALRM,Alarm.com Holdings  Inc.,57.64,62.49
-AMAL,Amalgamated Financial Corp,48.19,50.31
-APPN,Appian Corp,43.82,51.15
-ARHS,Arhaus  Inc.,10.24,11.53
-ARTC,Art Technology Acquisition Corp,10.02,10.03
-ATLO,Ames National Corp,32.82,34.04
-BCML,BayCom Corp,31.19,31.9
-BCPC,Balchem Corporation,170.53,173.23
-BIIB,Biogen Inc.,235.35,253.84
-BL,BlackLine  Inc.,30.51,34.37
-BOTJ,Bank of The James Financial Group Inc,27.55,28.89
-BPRN,Princeton Bancorp Inc,43.88,44.94
-BRCB,Black Rock Coffee Bar  Inc.,8.48,9.65
-CATY,Cathay General Bancorp,62.45,64.24
-CBFV,CB Financial Services Inc,38.18,38.65
-CENTA,Central Garden & Pet Co Class A,36.05,38.81
-CHKP,Check Point Software Technologies Ltd.,141.16,151.98
-CIVB,Civista Bancshares Inc,27.55,28.15
-CNOB,ConnectOne Bancorp  Inc.,31.89,32.82
-CSGP,CoStar Group  Inc.,32.0,35.45
-CSX,CSX Corporation,48.95,51.67
-CVBF,CVB Financial Corp,22.91,23.05
-CZNC,Citizens & Northern Corp,26.13,26.64
-EDHL,Everbright Digital Holding Ltd,5.48,5.64
-EGBN,Eagle Bancorp  Inc.,28.54,32.97
-EWBC,East West Bancorp  Inc.,129.81,132.65
-FCNCA,First Citizens BancShares  Inc.,2173.88,2196.76
-FDBC,Fidelity D&D Bancorp Inc,57.84,62.97
-FMAO,Farmers & Merchants Bancorp Inc,35.81,35.89
-FRMEP,First Merchants Depository Shares Reprs 1 100Th 7 50 Non Cum Perp Prf Shs A,25.31,25.31
-FTDR,Frontdoor Inc,81.01,86.03
-HALO,Halozyme Therapeutics  Inc.,121.51,124.54
-HCKT,The Hackett Group  Inc.,11.66,12.64
-HCSG,Healthcare Services Group  Inc.,22.04,24.79
-HON,Honeywell International Inc.,214.14,218.31
-HTZ,Hertz Global Holdings Inc,2.07,2.18
-HURN,Huron Consulting Group Inc.,176.33,193.35
-HWKN,Hawkins Inc,132.38,133.17
-HYNE,Hoyne Bancorp  Inc.,16.84,17.55
-IOSP,Innospec Inc,98.72,98.67
-JMSB,John Marshall Bancorp Inc,23.46,23.51
-KDP,Keurig Dr Pepper Inc,34.18,35.19
-KIDS,OrthoPediatrics Corp,23.24,24.71
-KINS,Kingstone Companies Inc,19.94,20.19
-LCCC,Lakeshore Acquisition III Corp.,10.54,10.56
-LOGI,Logitech international S.A.,105.82,112.52
-LSBK,Lake Shore Bancorp Inc,18.42,18.71
-LULU,lululemon athletica inc.,103.73,104.06
-MACI,Melar Acquisition Corp. I,11.1,11.36
-MAR,Marriott International  Inc.,385.71,396.8
-MCAH,Mountain Crest Acquisition 6 Corp,10.06,10.07
-MEDP,Medpace Holdings  Inc.,630.19,653.96
-MKTX,MarketAxess Holdings Inc.,164.58,164.66
+ALRM,Alarm.com Holdings  Inc.,57.64,64.14
+ATLO,Ames National Corp,32.82,33.7
+BCPC,Balchem Corporation,170.73,177.0
+BKYI,BIO-Key International Inc,3.12,3.39
+CART,Maplebear Inc.,51.13,56.44
+CBFV,CB Financial Services Inc,38.18,39.15
+CCNE,CNB Financial Corp,34.64,35.35
+CENTA,Central Garden & Pet Co Class A,36.21,39.1
+CGNT,COGNYTE SOFTWARE LTD.,8.83,9.76
+CHKP,Check Point Software Technologies Ltd.,141.16,159.03
+CNOB,ConnectOne Bancorp  Inc.,31.89,32.69
+COLB,Columbia Banking System Inc,30.15,30.86
+CPSS,Consumer Portfolio Services Inc,9.64,9.9
+CRAQU,Cal Redwood Acquisition Units,10.74,10.86
+CV,CapsoVision Inc,6.92,6.99
+CZNC,Citizens & Northern Corp,26.13,27.75
+EDHL,Everbright Digital Holding Ltd,5.59,5.73
+EGBN,Eagle Bancorp  Inc.,28.54,33.68
+FCNCA,First Citizens BancShares  Inc.,2173.88,2375.84
+FDBC,Fidelity D&D Bancorp Inc,58.15,64.51
+FMAO,Farmers & Merchants Bancorp Inc,35.81,36.54
+FNWD,Finward Bancorp,43.54,43.53
+FRBA,FIRST BANK (Hamilton),17.99,19.39
+FSV,FirstService Corporation,135.67,143.67
+FTDR,Frontdoor Inc,80.54,84.34
+GIXXU,GigCapital9 Units,10.21,10.35
+GMAB,Genmab A/S ADR,38.48,43.79
+HCSG,Healthcare Services Group  Inc.,22.04,25.3
+HURN,Huron Consulting Group Inc.,176.33,195.69
+HYNE,Hoyne Bancorp  Inc.,16.84,17.62
+INM,InMed Pharmaceuticals Inc,1.4,1.44
+INTA,Intapp  Inc.,43.64,47.99
+JMSB,John Marshall Bancorp Inc,23.46,23.64
+KFIIU,K F Growth Acquisition Units,10.7,10.76
+LPAAU,Launch One Acquisition Units,11.11,11.26
+MANH,Manhattan Associates  Inc.,226.96,238.19
+MGYR,Magyar Bancorp Inc,19.89,19.9
 MMTXU,Miluna Acquisition Units,10.1,10.3
-MNDY,monday.com Ltd.,96.11,106.86
-MTCH,Match Group  Inc.,44.4,45.92
-NDAQ,Nasdaq Inc,95.44,103.3
-OLED,Universal Display Corp,83.56,87.45
-ORRF,Orrstown Financial Services Inc,42.58,44.29
-OSPN,OneSpan Inc.,18.42,19.21
-OVBC,Ohio Valley Banc Corp,46.69,47.0
-OZK,Bank Ozk,49.16,49.67
-PCB,PCB Bancorp,28.2,28.78
-POM,PomDoctor Ltd,1.04,2.03
-POOL,Pool Corporation,173.04,197.21
-QCRH,QCR Holdings Inc,102.73,103.04
-QLYS,Qualys  Inc.,202.42,208.2
-RCEL,AVITA Medical Inc,13.41,15.42
-RCKY,Rocky Brands Inc,46.74,47.64
-ROKU,Roku  Inc.,157.45,160.06
-ROP,Roper Technologies  Inc.,394.61,436.23
-SCII,SC II Acquisition Corp,10.18,10.18
-SGRY,Surgery Partners  Inc.,15.8,15.9
-SSNC,SS&C Technologies Holdings  Inc.,84.19,89.54
-STBA,S&T Bancorp Inc,50.56,50.73
-TNGX,Tango Therapeutics  Inc.,25.53,27.93
-TRI,Thomson Reuters Corp,107.89,123.26
-TRS,TriMas Corporation,39.47,39.9
-TSCO,Tractor Supply Company,33.83,34.73
-TVA,Texas Ventures Acquisition III Corp,10.6,10.65
-TW,Tradeweb Markets Inc,112.0,121.89
-TWFG,TWFG  Inc.,28.13,28.67
-ULTA,Ulta Beauty Inc,609.24,635.01
-UPWK,Upwork Inc.,8.74,9.39
-WEST,Westrock Coffee Co,8.56,9.69
-WOOF,Petco Health and Wellness Company Inc,2.45,2.53
-WTG,Wintergreen Acquisition Corp,10.67,10.7
-XLAB,Exascale Labs Holdings Inc.,3.81,4.71
-YHC,LQR House Inc.,1.94,2.5
+MWYN,Marwynn Holdings Inc,2.2,2.41
+MYX,Maywood Acquisition Corp 2,10.05,10.06
+MYXXU,Maywood Acquisition 2 Units,10.2,10.25
+NATH,Nathan's Famous Inc,101.91,102.05
+NICE,NICE Ltd. ADR,118.29,121.18
+NSAIU,NorthStrive Acquisition I Units,10.06,10.07
+OLED,Universal Display Corp,80.37,86.98
+OMCL,Omnicell Inc,36.87,37.75
+OSPN,OneSpan Inc.,18.42,20.19
+PAA,Plains All American Pipeline Units,25.85,26.63
+PBYI,Puma Biotechnology Inc,10.52,11.02
+PECE,Peace Acquisition Corp,10.02,10.03
+POOL,Pool Corporation,172.57,199.08
+POWW,Outdoor Holding Company.,2.37,2.46
+QLYS,Qualys  Inc.,202.42,216.7
+RANG,Range Capital Acquisition Corp.,10.9,10.92
+RENT,Rent the Runway  Inc.,2.07,2.3
+RGCO,RGC Resources Inc,23.01,22.82
+ROKU,Roku  Inc.,157.45,158.58
+RPD,Rapid7  Inc.,13.74,14.91
+SGRY,Surgery Partners  Inc.,15.8,15.75
+SIGI,Selective Insurance Group  Inc.,89.42,96.61
+TACOU,Berto Acquisition Units,10.85,10.96
+TSCO,Tractor Supply Company,33.83,33.42
+TWFG,TWFG  Inc.,28.13,28.29
+VRSK,Verisk Analytics  Inc.,190.9,195.88
+WCCB,West Coast Community Bancorp,61.26,62.47
+WSBK,Winchester Bancorp Inc,13.02,13.09
+WTG,Wintergreen Acquisition Corp,10.67,10.71
