@@ -1,70 +1,84 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AGYS,Agilysys Inc,113.42,123.45
-ALOVU,Aldabra 4 Liquidity Opportunity Vehicle Units,10.06,10.13
-AQB,AquaBounty Technologies Inc,1.14,1.15
-ASTL,Algoma Steel Group Inc,4.45,4.86
-AVBH,Avidbank Holdings Inc,31.8,32.8
-BPRN,Princeton Bancorp Inc,43.91,44.93
-BRCB,Black Rock Coffee Bar  Inc.,8.47,9.92
-BSRR,Sierra Bancorp,41.09,42.3
-CART,Maplebear Inc.,51.13,60.88
-CGNT,COGNYTE SOFTWARE LTD.,8.83,9.97
-CHMG,Chemung Financial Corp,85.23,85.44
-CVLT,Commvault Systems  Inc.,158.91,167.73
-CZWI,Citizens Community Bancorp Inc,21.87,22.69
-EMIS,Emmis Acquisition Corp.,10.28,10.3
-EML,Eastern Company,25.6,25.76
-FBNC,First Bancorp (North Carolina),64.1,65.62
-FCNCA,First Citizens BancShares  Inc.,2160.42,2345.61
-FGBI,First Guaranty Bancshares Inc,8.7,8.71
-FIGXU,FIGX Capital Acquisition Units,10.36,10.46
-FORTY,Formula Systems 1985 Ltd ADR,121.5,129.9
-FRBA,FIRST BANK (Hamilton),17.96,19.48
-FXNC,First National Corp,30.91,31.45
-GIXXU,GigCapital9 Units,10.21,10.35
-HBT,HBT Financial Inc,36.58,37.21
-HYNE,Hoyne Bancorp  Inc.,16.84,18.47
-ICG,Intchains Group Ltd ADR,1.36,1.43
-INM,InMed Pharmaceuticals Inc,1.4,1.59
-ISBA,Isabella Bank Corp,38.56,38.82
-JCSE,JE Cleantech Holdings Ltd,1.55,1.69
-JMSB,John Marshall Bancorp Inc,23.46,23.37
-KELYA,Kelly Services Inc Class A,16.66,16.58
-KFIIU,K F Growth Acquisition Units,10.7,10.76
-KINS,Kingstone Companies Inc,19.94,19.97
-LPAAU,Launch One Acquisition Units,11.11,11.13
-MAYS,J W Mays Inc,40.95,42.93
-MGYR,Magyar Bancorp Inc,19.89,20.21
-MMSI,Merit Medical Systems Inc,89.96,94.2
-MMTX,Miluna Acquisition Corp,10.24,10.26
-MMTXU,Miluna Acquisition Units,10.1,10.3
-MYXXU,Maywood Acquisition 2 Units,10.2,10.39
-NECB,Northeast Community Bancorp Inc,27.8,28.53
-NSAIU,NorthStrive Acquisition I Units,10.06,10.07
-OSPN,OneSpan Inc.,18.42,20.6
-OSUR,OraSure Technologies Inc,4.11,4.17
-OVBC,Ohio Valley Banc Corp,46.39,47.02
-PDLB,Ponce Financial Group Inc,20.52,21.26
-QADRU,QDRO Acquisition Units,10.1,10.14
-QNBC,QNB Corp,46.25,46.56
-RANG,Range Capital Acquisition Corp.,10.9,10.92
-RDWR,Radware Ltd.,30.98,32.3
-RENT,Rent the Runway  Inc.,2.07,2.82
-ROP,Roper Technologies  Inc.,383.94,441.65
-RPD,Rapid7  Inc.,13.74,17.93
-SDHIU,Siddhi Acquisition Units,10.64,10.73
-SGRY,Surgery Partners  Inc.,15.8,23.25
-SPEG,Silver Pegasus Acquisition Corp.,10.43,10.44
-SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.15,25.18
-SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.15,25.18
-TACOU,Berto Acquisition Units,10.85,10.96
-TENB,Tenable Holdings  Inc,41.59,48.21
-TLS,Telos Corp,4.63,5.22
-TNDM,Tandem Diabetes Care  Inc.,17.62,18.9
+ADUS,Addus Homecare Corp,118.06,122.18
+AEYE,AudioEye Inc,8.19,11.94
+ALOVU,Aldabra 4 Liquidity Opportunity Vehicle Units,10.06,10.14
+ASRV,Ameriserv Financial Inc,4.79,4.9
+ATEC,Alphatec Holdings  Inc.,11.25,11.45
+AVBH,Avidbank Holdings Inc,31.8,33.7
+AVPT,AvePoint  Inc.,15.72,17.2
+BEAM,Beam Therapeutics Inc.,25.93,28.78
+BKYI,BIO-Key International Inc,3.12,3.14
+BMGL,Basel Medical Group Ltd,4.61,4.6
+BRCB,Black Rock Coffee Bar  Inc.,8.66,10.2
+BSRR,Sierra Bancorp,40.37,42.34
+CATY,Cathay General Bancorp,62.25,64.66
+CBFV,CB Financial Services Inc,38.18,39.5
+CHPGU,Championsgate Acquisition Units,10.48,10.72
+CLAR,Clarus Corp,3.82,4.3
+CV,CapsoVision Inc,6.92,7.06
+DGICB,Donegal Group Inc Class B,21.17,25.9
+DMAC,DiaMedica Therapeutics Inc,8.69,9.82
+DMLP,Dorchester Minerals Units,30.43,30.69
+EDHL,Everbright Digital Holding Ltd,5.69,5.8
+EML,Eastern Company,25.6,26.8
+ENSG,The Ensign Group  Inc.,178.11,184.11
+ESQ,Esquire Financial Holdings Inc,123.66,128.83
+EURKU,Eureka Acquisition Units,11.94,13.29
+EXC,Exelon Corp,43.5,44.77
+FFBC,First Financial Bancorp.,32.4,32.67
+FIGXU,FIGX Capital Acquisition Units,10.36,10.4
+FSBC,Five Star Bancorp,44.71,45.84
+FTRE,Fortrea Holdings Inc,24.06,25.88
+FWRD,Forward Air Corporation,16.32,17.54
+GEHC,GE HealthCare Technologies Inc.,70.35,75.82
+GMAB,Genmab A/S ADR,39.57,57.29
+GRFS,Grifols  S.A. ADR,7.64,8.12
+HAFC,Hanmi Financial Corp,32.32,32.7
+HOFT,Hooker Furnishings Corp,13.44,13.48
+HONA,Honeywell Aerospace Inc,169.03,177.03
+ICLR,ICON PLC,185.25,214.16
+IDN,Intellicheck Inc,2.43,2.46
+ISBA,Isabella Bank Corp,38.56,39.36
+JVA,Coffee Holding Co Inc,4.75,5.03
+KIDS,OrthoPediatrics Corp,23.84,30.8
+KNSA,Kiniksa Pharmaceuticals International  PLC,83.17,95.18
+KXIN,Kaixin Holdings,1.75,1.94
+LECO,Lincoln Electric Holdings  Inc.,275.54,280.59
+LUNG,Pulmonx Corporation,2.07,2.52
+MAMO,Massimo Group,1.02,1.04
+MANH,Manhattan Associates  Inc.,235.83,239.73
+MAYS,J W Mays Inc,40.95,45.82
+MGRC,McGrath RentCorp,117.98,118.78
+MGYR,Magyar Bancorp Inc,19.89,20.15
+MMTX,Miluna Acquisition Corp,10.24,10.27
+MMTXU,Miluna Acquisition Units,10.1,10.4
+MOBI,Mobia Medical Inc,10.86,11.79
+NMPAU,NMP Acquisition Units,10.35,10.5
+NRC,NRC Health,21.86,23.47
+NXPI,NXP Semiconductors NV,244.38,251.69
+OCTV,Octave Intelligence PLC,21.16,22.11
+OPRA,Opera Ltd ADR,18.3,18.64
+OSW,OneSpaWorld Holdings Ltd,24.13,28.07
+PDLB,Ponce Financial Group Inc,20.5,22.41
+PGC,Peapack-Gladstone Financial Corp,45.41,46.17
+PLUR,Pluri Inc,1.1,1.23
+PRME,Prime Medicine  Inc.,3.99,5.36
+QADRU,QDRO Acquisition Units,10.1,10.27
+QNBC,QNB Corp,46.25,47.29
+RANGU,Range Capital Acquisition Units,11.31,11.32
+RCKY,Rocky Brands Inc,46.74,49.69
+RDCM,Radcom Ltd,10.59,10.85
+RDWR,Radware Ltd.,30.98,37.16
+REPL,Replimune Group  Inc.,13.47,16.06
+RPAY,Repay Holdings Corp,4.19,4.42
+SDHIU,Siddhi Acquisition Units,10.65,10.75
+SPCB,Supercom Ltd,9.78,10.04
+TAVI,Tavia Acquisition Corp,10.82,10.85
+TLS,Telos Corp,4.63,5.91
 TRGSU,TRG Latin America Acquisitions Units,10.06,10.27
-UPWK,Upwork Inc.,8.74,9.51
-WCCB,West Coast Community Bancorp,61.26,63.46
-WLIIU,Willow Lane Acquisition II Units,10.44,10.5
-WSBK,Winchester Bancorp Inc,13.02,13.4
-XNCR,Xencor  Inc.,25.63,29.18
-YHC,LQR House Inc.,1.98,2.44
+TVACU,Texas Ventures Acquisition III Units,10.8,10.85
+TXRH,Texas Roadhouse Inc,170.97,174.75
+ULBI,Ultralife Corp,6.78,15.61
+WEN,Wendy's Co,6.99,7.07
+WING,Wingstop Inc.,132.75,138.57
+WSTNU,Westin Acquisition Units,10.34,10.5
