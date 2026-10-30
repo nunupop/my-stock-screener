@@ -1,84 +1,93 @@
 ﻿종목코드,종목명,진입가,오늘종가
-ADUS,Addus Homecare Corp,118.06,122.18
-AEYE,AudioEye Inc,8.19,11.94
-ALOVU,Aldabra 4 Liquidity Opportunity Vehicle Units,10.06,10.14
-ASRV,Ameriserv Financial Inc,4.79,4.9
-ATEC,Alphatec Holdings  Inc.,11.25,11.45
-AVBH,Avidbank Holdings Inc,31.8,33.7
-AVPT,AvePoint  Inc.,15.72,17.2
-BEAM,Beam Therapeutics Inc.,25.93,28.78
-BKYI,BIO-Key International Inc,3.12,3.14
-BMGL,Basel Medical Group Ltd,4.61,4.6
-BRCB,Black Rock Coffee Bar  Inc.,8.66,10.2
-BSRR,Sierra Bancorp,40.37,42.34
-CATY,Cathay General Bancorp,62.25,64.66
-CBFV,CB Financial Services Inc,38.18,39.5
-CHPGU,Championsgate Acquisition Units,10.48,10.72
-CLAR,Clarus Corp,3.82,4.3
-CV,CapsoVision Inc,6.92,7.06
-DGICB,Donegal Group Inc Class B,21.17,25.9
-DMAC,DiaMedica Therapeutics Inc,8.69,9.82
-DMLP,Dorchester Minerals Units,30.43,30.69
-EDHL,Everbright Digital Holding Ltd,5.69,5.8
-EML,Eastern Company,25.6,26.8
-ENSG,The Ensign Group  Inc.,178.11,184.11
-ESQ,Esquire Financial Holdings Inc,123.66,128.83
-EURKU,Eureka Acquisition Units,11.94,13.29
-EXC,Exelon Corp,43.5,44.77
-FFBC,First Financial Bancorp.,32.4,32.67
-FIGXU,FIGX Capital Acquisition Units,10.36,10.4
-FSBC,Five Star Bancorp,44.71,45.84
-FTRE,Fortrea Holdings Inc,24.06,25.88
-FWRD,Forward Air Corporation,16.32,17.54
-GEHC,GE HealthCare Technologies Inc.,70.35,75.82
-GMAB,Genmab A/S ADR,39.57,57.29
-GRFS,Grifols  S.A. ADR,7.64,8.12
-HAFC,Hanmi Financial Corp,32.32,32.7
-HOFT,Hooker Furnishings Corp,13.44,13.48
-HONA,Honeywell Aerospace Inc,169.03,177.03
-ICLR,ICON PLC,185.25,214.16
-IDN,Intellicheck Inc,2.43,2.46
-ISBA,Isabella Bank Corp,38.56,39.36
-JVA,Coffee Holding Co Inc,4.75,5.03
-KIDS,OrthoPediatrics Corp,23.84,30.8
-KNSA,Kiniksa Pharmaceuticals International  PLC,83.17,95.18
-KXIN,Kaixin Holdings,1.75,1.94
-LECO,Lincoln Electric Holdings  Inc.,275.54,280.59
-LUNG,Pulmonx Corporation,2.07,2.52
-MAMO,Massimo Group,1.02,1.04
-MANH,Manhattan Associates  Inc.,235.83,239.73
-MAYS,J W Mays Inc,40.95,45.82
-MGRC,McGrath RentCorp,117.98,118.78
-MGYR,Magyar Bancorp Inc,19.89,20.15
-MMTX,Miluna Acquisition Corp,10.24,10.27
+ADUS,Addus Homecare Corp,122.67,124.34
+AESPU,Aeon Acquisition I Units,10.21,10.27
+AEYE,AudioEye Inc,8.19,14.12
+ALOVU,Aldabra 4 Liquidity Opportunity Vehicle Units,10.06,10.26
+AOUT,American Outdoor Brands Inc,18.06,18.35
+ARHS,Arhaus  Inc.,11.53,12.71
+ARXS,Arxis  Inc.,54.1,54.93
+ASTL,Algoma Steel Group Inc,4.59,4.99
+ATEC,Alphatec Holdings  Inc.,11.36,11.37
+ATER,Aterian Inc,0.7,0.76
+AVBH,Avidbank Holdings Inc,31.8,34.16
+AVPT,AvePoint  Inc.,16.08,17.35
+BBIO,BridgeBio Pharma  Inc.,69.23,70.73
+BRKHU,Burtech Acquisition II Units,10.12,10.18
+BSRR,Sierra Bancorp,40.41,42.43
+BWFG,Bankwell Financial Group Inc,67.03,69.65
+CHDN,Churchill Downs Incorporated,84.45,91.16
+CHPGU,Championsgate Acquisition Units,10.48,10.7
+CIVB,Civista Bancshares Inc,28.15,28.47
+CLAR,Clarus Corp,3.83,4.49
+CLMB,Climb Global Solutions Inc,33.75,41.84
+CNOBP,Connectone Bancorp New Depositary Shs Rep A 1 40Th Non Cm Perp Pref Shs Series A,25.39,25.4
+COLM,Columbia Sportswear Company,62.07,63.69
+CROX,Crocs  Inc.,126.14,150.26
+CYRX,Cryoport  Inc.,18.53,18.29
+CZWI,Citizens Community Bancorp Inc,21.87,23.67
+DYNC,Dynamix Corp,10.95,10.98
+EDHL,Everbright Digital Holding Ltd,5.69,5.79
+ESCA,Escalade Inc,19.52,20.14
+FGBI,First Guaranty Bancshares Inc,8.7,9.77
+FIVE,Five Below  Inc.,236.14,245.5
+FRAF,Franklin Financial Services Corp,63.79,70.31
+FRBT,Forbright Inc,18.39,18.43
+FWRD,Forward Air Corporation,16.32,17.87
+GDYN,Grid Dynamics Holdings  Inc.,8.56,9.49
+GSAT,Globalstar  Inc.,83.82,83.53
+HBIO,Harvard Bioscience Inc,8.56,8.8
+HYNE,Hoyne Bancorp  Inc.,17.55,18.98
+IBG,Innovation Beverage Group Ltd,1.01,0.95
+ICLR,ICON PLC,185.43,215.48
+IPFX,Inflection Point Acquisition Corp VI,10.06,10.15
+IPXG,Inflection Point Acquisition Corp. VII,10.12,10.21
+KFII,K&F Growth Acquisition Corp. II,10.72,10.73
+KFIIU,K F Growth Acquisition Units,10.7,10.77
+KIDS,OrthoPediatrics Corp,24.71,31.52
+KNSA,Kiniksa Pharmaceuticals International  PLC,83.17,97.56
+KXIN,Kaixin Holdings,1.75,2.09
+LLYVA,Liberty Live Holdings Inc Series A,97.24,99.08
+LUNG,Pulmonx Corporation,2.07,3.16
+MAYS,J W Mays Inc,40.95,46.05
+MCGA,Yorkville Acquisition Corp.,10.4,10.4
+MFIC,MidCap Financial Investment Corp,9.06,10.4
+MGRC,McGrath RentCorp,117.98,119.6
 MMTXU,Miluna Acquisition Units,10.1,10.4
-MOBI,Mobia Medical Inc,10.86,11.79
-NMPAU,NMP Acquisition Units,10.35,10.5
-NRC,NRC Health,21.86,23.47
-NXPI,NXP Semiconductors NV,244.38,251.69
-OCTV,Octave Intelligence PLC,21.16,22.11
-OPRA,Opera Ltd ADR,18.3,18.64
-OSW,OneSpaWorld Holdings Ltd,24.13,28.07
-PDLB,Ponce Financial Group Inc,20.5,22.41
-PGC,Peapack-Gladstone Financial Corp,45.41,46.17
-PLUR,Pluri Inc,1.1,1.23
-PRME,Prime Medicine  Inc.,3.99,5.36
-QADRU,QDRO Acquisition Units,10.1,10.27
-QNBC,QNB Corp,46.25,47.29
-RANGU,Range Capital Acquisition Units,11.31,11.32
-RCKY,Rocky Brands Inc,46.74,49.69
-RDCM,Radcom Ltd,10.59,10.85
-RDWR,Radware Ltd.,30.98,37.16
-REPL,Replimune Group  Inc.,13.47,16.06
-RPAY,Repay Holdings Corp,4.19,4.42
-SDHIU,Siddhi Acquisition Units,10.65,10.75
-SPCB,Supercom Ltd,9.78,10.04
-TAVI,Tavia Acquisition Corp,10.82,10.85
-TLS,Telos Corp,4.63,5.91
-TRGSU,TRG Latin America Acquisitions Units,10.06,10.27
-TVACU,Texas Ventures Acquisition III Units,10.8,10.85
-TXRH,Texas Roadhouse Inc,170.97,174.75
-ULBI,Ultralife Corp,6.78,15.61
-WEN,Wendy's Co,6.99,7.07
-WING,Wingstop Inc.,132.75,138.57
-WSTNU,Westin Acquisition Units,10.34,10.5
+NBRGU,Newbridge Acquisition Units,10.39,10.42
+NEXT,NextDecade Corporation,7.02,7.26
+NSSC,NAPCO Security Technologies  Inc.,38.6,39.98
+OSIS,OSI Systems  Inc.,203.0,208.17
+OSW,OneSpaWorld Holdings Ltd,24.29,30.1
+PATK,Patrick Industries  Inc.,71.06,75.18
+PDLB,Ponce Financial Group Inc,20.5,22.68
+PECE,Peace Acquisition Corp,10.03,10.04
+PRCH,Porch Group  Inc.,18.59,20.89
+PRME,Prime Medicine  Inc.,3.99,5.24
+PROP,Prairie Operating Co,0.44,0.43
+PTEN,Patterson-UTI Energy Inc,12.05,12.69
+PTLE,PTL Ltd,9.26,9.61
+QADRU,QDRO Acquisition Units,10.1,10.24
+QNBC,QNB Corp,46.25,47.14
+RCKY,Rocky Brands Inc,47.64,49.5
+REAL,The RealReal  Inc.,10.96,11.35
+REPL,Replimune Group  Inc.,13.47,17.39
+RJET,Republic Airways Holdings Inc.,19.28,19.97
+SDHIU,Siddhi Acquisition Units,10.65,10.83
+SHOE,Shoe Station Group Inc,14.22,15.07
+SIBN,SI-BONE  Inc.,21.56,22.41
+SIRI,Sirius XM Holdings Inc.,27.54,28.67
+STGW,Stagwell Inc.,9.13,9.95
+SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.15,25.17
+SWKHL,SWK Holdings 9 00 Senior Notes due 2027,25.15,25.17
+TENB,Tenable Holdings  Inc,42.0,51.78
+TLS,Telos Corp,4.63,5.78
+TMCI,Treace Medical Concepts  Inc.,4.62,5.06
+TNDM,Tandem Diabetes Care  Inc.,17.62,19.79
+TPG,TPG Inc,46.52,47.94
+TWLV,Twelve Seas Investment Company III,10.07,10.12
+UPBD,Upbound Group  Inc.,17.37,19.98
+VFS,VinFast Auto Ltd,3.38,3.44
+WOOF,Petco Health and Wellness Company Inc,2.53,2.59
+WSBK,Winchester Bancorp Inc,13.02,13.33
+WTFC,Wintrust Financial Corporation,149.75,154.13
+YHGJ,Yunhong Green CTI Ltd,2.87,2.95
