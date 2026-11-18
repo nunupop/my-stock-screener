@@ -1,76 +1,45 @@
 ﻿종목코드,종목명,진입가,오늘종가
-AENT,Alliance Entertainment Holding Corp,4.94,5.23
-ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc,10.03,10.05
+AFCG,Advanced Flower Capital Inc,3.49,3.52
 AMACU,AMR Resources Acquisition Units,9.92,10.1
-ATAT,Atour Lifestyle Holdings Limited ADR,35.91,38.75
-ATLQ,Atlantic Acquisition Corp I,10.04,10.03
-BCCQ,Bleichroeder Acquisition Corp III,9.96,9.99
-BCG,Binah Capital Group Inc,1.16,1.42
-BLRK,Bluerock Acquisition Corp,10.14,10.16
-BLUW,Blue Water Acquisition Corp III,10.41,10.44
+AOUT,American Outdoor Brands Inc,18.72,19.05
+APMC,AmperCap Acquisition Co,9.97,10.01
+BCG,Binah Capital Group Inc,1.16,1.47
+BIDWU,Tribeca Strategic Acquisition Units,10.04,10.1
 CAII,Collective Acquisition Corp. II,10.02,10.05
-CCII,Cohen Circle Acquisition Corp. II,10.38,10.4
-CGON,CG Oncology  Inc.,75.99,84.78
-CHYM,Chime Financial  Inc.,32.53,34.29
-CRTO,Criteo SA,16.61,19.57
-CVV,CVD Equipment Corp,4.31,4.62
-DYOR,Insight Digital Partners II,10.18,10.19
-FCAP,First Capital Inc,65.03,65.0
-FENC,Fennec Pharmaceuticals Inc.,10.95,12.76
-FSHPU,Flag Ship Acquisition Units,11.3,11.32
-FUSB,First US Bancshares Inc,16.7,17.1
-GCL,GCL Global Holdings Ltd,1.11,1.16
-GIW,GigCapital8 Corp.,10.2,10.23
-GIX,GigCapital9 Corp,10.03,10.05
-GSHR,Gesher Acquisition II Corp,10.64,10.65
-HIHO,Highway Holdings Ltd,0.9,1.2
-HTHT,H World Group Limited ADR,51.04,54.88
-ICCC,ImmuCell Corp,10.79,11.42
-IRHO,Iron Horse Acquisitions Corp II,10.09,10.11
-ISNR,Snow Rothschild Acquisition Corp,9.86,9.88
-JRSH,Jerash Holdings (US) Inc,6.57,7.61
-KEQU,Kewaunee Scientific Corp,34.72,35.05
-KRMD,KORU Medical Systems Inc,3.27,3.69
-KTWO,K2 Capital Acquisition Corp,10.12,10.13
-LEE,Lee Enterprises Inc,7.61,7.19
-LFTO,Liftoff Mobile Inc,18.71,24.46
-LKSP,Lake Superior Acquisition Corp.,10.31,10.32
-LPAA,Launch One Acquisition Corp,11.02,11.05
-LPBB,Launch Two Acquisition Corp.,10.82,10.84
-LRMR,Larimar Therapeutics  Inc.,2.78,3.0
-MGRT,Mega Fortune Co Ltd,120.5,130.0
-MLAA,Mountain Lake Acquisition Corp II,10.04,10.05
-NCOOU,Southern Cross Acquisition I Units,10.07,10.1
-NEXN,Nexxen International Ltd,9.12,10.25
-NSYS,Nortech Systems Inc,11.35,12.18
-ONCH,1RT Acquisition Corp.,10.37,10.42
-OTGA,OTG Acquisition Corp. I,10.27,10.31
-OYSE,Oyster Enterprises II Acquisition Corp,10.45,10.46
-PANL,Pangaea Logistics Solutions Ltd.,8.6,9.3
-PAYO,Payoneer Global Inc,7.17,7.2
-PCAPU,Procap Acquisition Units A,10.48,10.49
-PCRX,Pacira BioSciences  Inc.,36.46,36.48
+CARL,Carlsmed  Inc.,16.09,17.74
+CGON,CG Oncology  Inc.,75.99,78.94
+CMMB,Chemomab Therapeutics Ltd ADR,1.39,1.64
+CRAI,CRA International Inc,202.94,209.66
+CRTO,Criteo SA,17.14,18.54
+CVKD,Cadrenal Therapeutics Inc,1.44,1.88
+DRDB,Roman DBDR Acquisition Corp. II,10.78,10.82
+DTSQU,DT Cloud Star Acquisition Units,12.0,12.01
+ESCA,Escalade Inc,21.13,21.61
+FDMMU,Freedom Metals Acquisition Units,9.96,9.98
+FENC,Fennec Pharmaceuticals Inc.,10.95,13.58
+FTHA,Forefront Tech Holdings Acquisition Corp,10.03,10.07
+GCL,GCL Global Holdings Ltd,1.11,1.39
+GMHS,Gamehaus Holdings Inc,0.71,0.84
+GRVY,Gravity Co Ltd ADR,69.31,74.11
+GSRF,GSR IV Acquisition Corp,10.3,10.32
+HTHT,H World Group Limited ADR,51.04,53.65
+LFAC,Leapfrog Acquisition Corp,10.1,10.12
+LFTO,Liftoff Mobile Inc,18.71,22.68
+MCGA,Yorkville Acquisition Corp.,10.42,10.43
+MGRT,Mega Fortune Co Ltd,120.5,127.2
+MYX,Maywood Acquisition Corp 2,10.06,10.07
+NSYS,Nortech Systems Inc,11.35,11.74
 PGAC,Pantages Capital Acquisition Corporation,10.83,10.86
-PROV,Provident Financial Holdings Inc,18.48,18.51
-PTACU,Patriot Acquisition Units,10.08,10.21
-PUBM,PubMatic  Inc.,19.03,20.71
-RDAG,Republic Digital Acquisition Co,10.49,10.5
-RDCM,Radcom Ltd,10.85,10.98
-RFAM,RF Acquisition Corp III,10.01,10.03
-RNGT,Range Capital Acquisition Corp II,10.21,10.23
-SBC,SBC Medical Group Holdings Inc,5.69,6.18
-SDHI,Siddhi Acquisition Corp,10.63,10.64
-SGC,Superior Group of Companies Inc,14.08,14.35
-SLSN,Solesence Inc,1.02,1.6
-SPEGU,Silver Pegasus Acquisition Units,10.48,10.55
-SVAQU,Silicon Valley Acquisition Units,10.48,10.81
-SZZL,Sizzle Acquisition Corp II,10.54,10.55
-TACHU,Titan Acquisition Units,10.75,10.79
-TOP,TOP Financial Group Limited,16.12,16.57
-TRGSU,TRG Latin America Acquisitions Units,10.45,10.68
-TVAI,Thayer Ventures Acquisition Corporation II,10.48,10.53
-USEA,United Maritime Corp,2.67,3.01
-VTSI,VirTra  Inc.,2.8,3.94
-WENN,Wen Acquisition Corp,10.47,10.48
-XTER,Xterax Corporation II,9.79,9.8
-ZKP,Lafayette Digital Acquisition Corp I,10.06,10.07
+POLEU,Andretti Acquisition II Units,10.71,10.81
+PTACU,Patriot Acquisition Units,10.1,10.25
+QRHC,Quest Resource Holding Corp,1.39,1.51
+RFAM,RF Acquisition Corp III,10.02,10.03
+RSSS,Research Solutions Inc,2.03,2.12
+SBC,SBC Medical Group Holdings Inc,5.69,6.12
+SPEG,Silver Pegasus Acquisition Corp.,10.46,10.48
+SVAQU,Silicon Valley Acquisition Units,10.48,11.05
+TCX,Tucows Inc,13.52,14.73
+TDTH,Trident Digital Tech Holdings Ltd,1.02,1.16
+USEA,United Maritime Corp,2.67,3.14
+VAI,Valor Energy Inc.,2.81,3.09
+VNME,Vendome Acquisition Corporation I,10.35,10.38
